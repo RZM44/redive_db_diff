@@ -1,0 +1,3 @@
+clan_battle_id,period,period_detail,period_detail_bg,period_detail_bg_position,period_detail_boss_position_x,period_detail_boss_position_y,start_time,end_time,interval_start,interval_end,calc_start,result_start,result_end
+1001,1,"团队战开始！和行会成员互相合作\n打倒怪物吧！",101011,0,0,0,"2020/05/07 5:00:00","2020/05/14 23:59:59",2020/05/15,"2020/06/02 4:59:59",2020/05/15,"2020/05/18 15:00:00","2020/06/02 4:59:59"
+1002,1,"和行会成员互相合作\n打倒强大的怪物吧！",101021,0,0,0,"2020/06/02 5:00:00","2020/06/07 23:59:59",2020/06/08,"2020/06/30 4:59:59",2020/06/08,"2020/06/12 15:00:00","2020/06/30 4:59:59"
