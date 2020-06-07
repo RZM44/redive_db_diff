@@ -1,0 +1,6 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'global_data' ('key_name' TEXT NOT NULL, 'value' INTEGER NOT NULL, 'desc' TEXT NOT NULL, PRIMARY KEY('key_name'));
+INSERT INTO global_data VALUES('GACHA_SINGLE_MANA',1000,'单抽赠送mana');
+INSERT INTO global_data VALUES('GACHA_MULTIPLE_MANA',10000,'十连抽赠送mana');
+COMMIT;
