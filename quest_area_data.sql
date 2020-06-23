@@ -11,7 +11,7 @@ INSERT INTO quest_area_data VALUES(11007,'7.墨提斯大瀑布',101,'bgm_M62','b
 INSERT INTO quest_area_data VALUES(11008,'8.伊丽丝树海',101,'bgm_M42','bgm_M42_02','2020/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11009,'9.弗丽嘉雪原',101,'bgm_M58','bgm_M58','2020/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11010,'10.洛蕾塔海岸',101,'bgm_M101','bgm_M101','2020/05/25 15:00:00','2099/12/31 23:59:59');
-INSERT INTO quest_area_data VALUES(11011,'11.热那亚沙漠',101,'bgm_M93','bgm_M93','2088/01/01 0:00:00','2099/12/31 23:59:59');
+INSERT INTO quest_area_data VALUES(11011,'11.热那亚沙漠',101,'bgm_M93','bgm_M93','2020/06/23 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11012,'12.博洛尼亚沙丘',101,'bgm_M94','bgm_M94','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11013,'13.多萝西娅湿地',101,'bgm_M118','bgm_M118','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11014,'14.尤金妮亚热带',101,'bgm_M95','bgm_M95','2088/01/01 0:00:00','2099/12/31 23:59:59');
@@ -31,8 +31,8 @@ INSERT INTO quest_area_data VALUES(12006,'6.弗洛拉湖畔',101,'bgm_M62','bgm_
 INSERT INTO quest_area_data VALUES(12007,'7.墨提斯大瀑布',101,'bgm_M62','bgm_M62_03','2020/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12008,'8.伊丽丝树海',101,'bgm_M42','bgm_M42_02','2020/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12009,'9.弗丽嘉雪原',101,'bgm_M58','bgm_M58','2020/01/01 0:00:00','2099/12/31 23:59:59');
-INSERT INTO quest_area_data VALUES(12010,'10.洛蕾塔海岸',101,'bgm_M101','bgm_M101','2020/05/21 11:00:00','2099/12/31 23:59:59');
-INSERT INTO quest_area_data VALUES(12011,'11.热那亚沙漠',101,'bgm_M93','bgm_M93','2088/01/01 0:00:00','2099/12/31 23:59:59');
+INSERT INTO quest_area_data VALUES(12010,'10.洛蕾塔海岸',101,'bgm_M101','bgm_M101','2020/05/25 15:00:00','2099/12/31 23:59:59');
+INSERT INTO quest_area_data VALUES(12011,'11.热那亚沙漠',101,'bgm_M93','bgm_M93','2020/06/23 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12012,'12.博洛尼亚沙丘',101,'bgm_M94','bgm_M94','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12013,'13.多萝西娅湿地',101,'bgm_M118','bgm_M118','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12014,'14.尤金妮亚热带',101,'bgm_M95','bgm_M95','2088/01/01 0:00:00','2099/12/31 23:59:59');
