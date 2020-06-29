@@ -12,7 +12,7 @@ INSERT INTO music_list VALUES(8,'Smiley Contrast',20.0,'','2018-10-18 15:00:00',
 INSERT INTO music_list VALUES(9,'弥诺陶洛斯',20.0,'','2018-10-18 15:00:00','',-1,1000,9,'弥诺陶洛斯','','','');
 INSERT INTO music_list VALUES(10,'小抒情诗大冒险',20.0,'','2018-10-18 15:00:00','',-1,1000,10,'小抒情诗大冒险','','','');
 INSERT INTO music_list VALUES(11,'阿尔玛',20.0,'','2018-10-18 15:00:00','',-1,1000,11,'阿尔玛','','','');
-INSERT INTO music_list VALUES(12,'小小冒险',17.999999999999999999,'','2018-10-18 15:00:00','',-1,1500,12,'小小冒险','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-05/1436280052?app=itunes','Bxzjx4azjbgy4jl5pw7wwd7nx2e','A2001336697/');
+INSERT INTO music_list VALUES(12,'小小冒险',18.0,'','2018-10-18 15:00:00','',-1,1500,12,'小小冒险','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-05/1436280052?app=itunes','Bxzjx4azjbgy4jl5pw7wwd7nx2e','A2001336697/');
 INSERT INTO music_list VALUES(13,'暴食魔兽',20.0,'','2018-10-18 15:00:00','',-1,1000,13,'暴食魔兽','','','');
 INSERT INTO music_list VALUES(14,'布丁诡计！约定的万圣节派对',20.0,'','2018-10-18 15:00:00','',-1,1000,14,'布丁诡计！约定的万圣节派对','','','');
 INSERT INTO music_list VALUES(15,'布丁南瓜灯',17.0,'','2018-10-18 15:00:00','',-1,1000,15,'布丁南瓜灯','','','');
@@ -20,8 +20,8 @@ INSERT INTO music_list VALUES(16,'更多！两人的派对之夜～',20.0,'','20
 INSERT INTO music_list VALUES(17,'闪耀的冰之结晶',20.0,'','2018-10-18 15:00:00','',-1,1000,17,'闪耀的冰之结晶','','','');
 INSERT INTO music_list VALUES(18,'Shining Future',20.0,'','2018-11-19 15:00:00','',3010003,1500,18,'闪耀未来','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-03/1386518679?app=itunes','B2qb7u7mqdu4m4gtuqgiabeocai','A2001253711/');
 INSERT INTO music_list VALUES(19,'风之誓言',20.0,'','2018-11-19 15:00:00','',3010003,1500,19,'风之誓言','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-03/1386518679?app=itunes','B2qb7u7mqdu4m4gtuqgiabeocai','A2001253711/');
-INSERT INTO music_list VALUES(20,'因为想要看见你的笑脸',17.999999999999999999,'','2018-11-19 15:00:00','',3010003,1500,20,'因为想要看见你的笑脸','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-04/1411112401?app=itunes','Blcnkk6svg3dnhgclbpdljuqjcq','A2001305115/');
-INSERT INTO music_list VALUES(21,'闹别扭的心！',17.999999999999999999,'','2018-11-19 15:00:00','',1054007,1500,21,'闹别扭的心','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-05/1436280052?app=itunes','Bxzjx4azjbgy4jl5pw7wwd7nx2e','A2001336697/');
+INSERT INTO music_list VALUES(20,'因为想要看见你的笑脸',18.0,'','2018-11-19 15:00:00','',3010003,1500,20,'因为想要看见你的笑脸','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-04/1411112401?app=itunes','Blcnkk6svg3dnhgclbpdljuqjcq','A2001305115/');
+INSERT INTO music_list VALUES(21,'闹别扭的心！',18.0,'','2018-11-19 15:00:00','',1054007,1500,21,'闹别扭的心','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-05/1436280052?app=itunes','Bxzjx4azjbgy4jl5pw7wwd7nx2e','A2001336697/');
 INSERT INTO music_list VALUES(22,'令人不安的气氛和对抗的斗志',20.0,'','2018-11-19 15:00:00','',-1,1000,22,'令人不安的气氛和对抗的斗志','','','');
 INSERT INTO music_list VALUES(23,'双子魔猪',20.0,'','2018-11-19 15:00:00','',-1,1000,23,'双子魔猪','','','');
 INSERT INTO music_list VALUES(24,'吸血鬼猎人with伊莉亚',20.0,'','2018-11-19 15:00:00','',-1,1000,24,'吸血鬼猎人with伊莉亚','','','');
@@ -46,7 +46,7 @@ INSERT INTO music_list VALUES(42,'危险的干燥荒原',20.0,'','2019-01-18 15:
 INSERT INTO music_list VALUES(43,'炎吼狮王',20.0,'','2019-01-18 15:00:00','',-1,1000,43,'炎吼狮王','','','');
 INSERT INTO music_list VALUES(44,'珠希和美冬的无人岛0金币生活',20.0,'','2019-01-18 15:00:00','',-1,1000,44,'珠希和美冬的无人岛0金币生活','','','');
 INSERT INTO music_list VALUES(45,'岛鲸',20.0,'','2019-01-18 15:00:00','',-1,1000,45,'岛鲸','','','');
-INSERT INTO music_list VALUES(46,'闪亮闪亮☆快乐！',17.999999999999999999,'','2019-01-18 15:00:00','',-1,1500,46,'闪亮闪亮☆快乐','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-06/1444266694?app=itunes','Bnhmj4jc5r4p236l7m5bdxdo6pu','A2001372582/');
+INSERT INTO music_list VALUES(46,'闪亮闪亮☆快乐！',18.0,'','2019-01-18 15:00:00','',-1,1500,46,'闪亮闪亮☆快乐','%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88-re-dive-priconne-character-song-06/1444266694?app=itunes','Bnhmj4jc5r4p236l7m5bdxdo6pu','A2001372582/');
 INSERT INTO music_list VALUES(47,'崭新起航',20.0,'','2019-01-18 15:00:00','',-1,1000,47,'崭新起航','','','');
 INSERT INTO music_list VALUES(48,'魔羯教主',20.0,'','2019-01-18 15:00:00','',-1,1000,48,'魔羯教主','','','');
 INSERT INTO music_list VALUES(49,'新春的星之危机！',20.0,'','2019-01-18 15:00:00','',-1,1000,49,'新春的星之危机','','','');
