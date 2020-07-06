@@ -95,4 +95,6 @@ INSERT INTO experience_unit VALUES(91,583818);
 INSERT INTO experience_unit VALUES(92,609970);
 INSERT INTO experience_unit VALUES(93,636722);
 INSERT INTO experience_unit VALUES(94,664074);
+INSERT INTO experience_unit VALUES(95,692026);
+INSERT INTO experience_unit VALUES(96,720578);
 COMMIT;
