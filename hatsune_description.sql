@@ -11,7 +11,7 @@ INSERT INTO hatsune_description VALUES(7,10003,1,'在活动中，可以观看特
 INSERT INTO hatsune_description VALUES(8,10003,1,'随着活动关卡通关，会有BOSS登场。\n使用BOSS券就可以挑战BOSS。\n击败BOSS就可以获得大量讨伐证，请尽情挑战吧。');
 INSERT INTO hatsune_description VALUES(9,10003,1,'讨伐证可以用来兑换报酬。\n报酬也包括在活动中登场的部分角色的记忆碎片。\n收集记忆碎片将角色变为自己的同伴吧。');
 INSERT INTO hatsune_description VALUES(10,10004,1,'在活动中，可以观看特别的故事。\n活动剧情会根据活动关卡的通关进度解锁。');
-INSERT INTO hatsune_description VALUES(11,10004,1,'达成活动限定的任务\n就会有可以解放的角色登场。加油在活动期间通关吧。');
+INSERT INTO hatsune_description VALUES(11,10004,1,'完成活动限定的任务后，会有\n解锁角色登场。请在活动期间\n努力完成任务吧。');
 INSERT INTO hatsune_description VALUES(12,10004,1,'强力的BOSS（高难）会登场。\n高难度的BOSS1天可以讨伐1只。\n做好充分的准备，认真迎接挑战吧。');
 INSERT INTO hatsune_description VALUES(13,10004,1,'讨伐证可以用来兑换报酬。\n报酬也包括在活动中登场的部分角色的记忆碎片。\n收集记忆碎片将角色变为自己的同伴吧。');
 INSERT INTO hatsune_description VALUES(14,10005,1,'在活动中，可以观看特别的故事。\n活动剧情会根据活动关卡的通关进度解锁。');

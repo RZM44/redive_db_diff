@@ -36,7 +36,7 @@ INSERT INTO music_content VALUES(32,'冰与雪的世界','01:08','00:00','主线
 INSERT INTO music_content VALUES(33,'凉爽的风','01:05','00:00','主线关卡\n\n时长 / 01:05\n作曲 / 加藤庆\n编曲 / 加藤庆','bgm_M101','bgm_M101_juke');
 INSERT INTO music_content VALUES(34,'巨钳魔蟹','01:02','00:00','团队战\n\n时长 / 01:02\n作曲 / 白井友规（Cygames）\n编曲 / 白井友规（Cygames）','bgm_M115','bgm_M115_juke');
 INSERT INTO music_content VALUES(35,'危险假期！海边的美食家公主','01:05','00:00','故事活动主题\n-｢笑容满面我的房间｣改编-\n\n时长 / 01:05\n作曲 / Lucas\n编曲 / 西村真吾','bgm_M112','bgm_M112_juke');
-INSERT INTO music_content VALUES(36,'天泰帕斯','02:10','00:00','故事活动精英怪战\n\n时长 / 02:10\n作曲 / 东大路宪太\n编曲 / 东大路宪太','bgm_M116','bgm_M116_juke');
+INSERT INTO music_content VALUES(36,'腾特帕斯','02:10','00:00','故事活动精英怪战\n\n时长 / 02:10\n作曲 / 东大路宪太\n编曲 / 东大路宪太','bgm_M116','bgm_M116_juke');
 INSERT INTO music_content VALUES(37,'笑容满面我的房间','01:40','01:00','角色歌\n\n时长 / 01:40\n歌手　 / 咲恋（堀江由衣）\n　　　铃莓（悠木碧）\n作词 / Mitsu\n作曲 / Lucas\n编曲 / Lucas','bgm_M147','bgm_M147');
 INSERT INTO music_content VALUES(38,'人马射手','00:45','00:00','团队战\n\n时长 / 00:45\n作曲 / 庄司真吾（Cygames）\n编曲 / 庄司真吾（Cygames）','bgm_M175','bgm_M175_juke');
 INSERT INTO music_content VALUES(39,'忘却的圣歌','00:55','00:00','故事活动主题\n-｢叮咚圣夜♪｣改编-\n\n时长 / 00:55\n作曲 / 马渕直纯\n编曲 / 中村早织（Cygames）','bgm_M171','bgm_M171_juke');
