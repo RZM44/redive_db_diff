@@ -13,7 +13,7 @@ INSERT INTO quest_area_data VALUES(11009,'9.弗丽嘉雪原',101,'bgm_M58','bgm_
 INSERT INTO quest_area_data VALUES(11010,'10.洛蕾塔海岸',101,'bgm_M101','bgm_M101','2020/05/25 15:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11011,'11.热那亚沙漠',101,'bgm_M93','bgm_M93','2020/06/23 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11012,'12.博洛尼亚沙丘',101,'bgm_M94','bgm_M94','2020/07/20 11:00:00','2099/12/31 23:59:59');
-INSERT INTO quest_area_data VALUES(11013,'13.多萝西娅湿地',101,'bgm_M118','bgm_M118','2088/01/01 0:00:00','2099/12/31 23:59:59');
+INSERT INTO quest_area_data VALUES(11013,'13.多萝西娅湿地',101,'bgm_M118','bgm_M118','2020/08/18 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11014,'14.尤金妮亚热带',101,'bgm_M95','bgm_M95','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11015,'15.塔利亚火山',101,'bgm_M96','bgm_M96','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11016,'16.忒密斯雪山',101,'bgm_M140','bgm_M140','2088/01/01 0:00:00','2099/12/31 23:59:59');
@@ -34,7 +34,7 @@ INSERT INTO quest_area_data VALUES(12009,'9.弗丽嘉雪原',101,'bgm_M58','bgm_
 INSERT INTO quest_area_data VALUES(12010,'10.洛蕾塔海岸',101,'bgm_M101','bgm_M101','2020/05/25 15:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12011,'11.热那亚沙漠',101,'bgm_M93','bgm_M93','2020/06/23 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12012,'12.博洛尼亚沙丘',101,'bgm_M94','bgm_M94','2020/07/20 11:00:00','2099/12/31 23:59:59');
-INSERT INTO quest_area_data VALUES(12013,'13.多萝西娅湿地',101,'bgm_M118','bgm_M118','2088/01/01 0:00:00','2099/12/31 23:59:59');
+INSERT INTO quest_area_data VALUES(12013,'13.多萝西娅湿地',101,'bgm_M118','bgm_M118','2020/08/18 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12014,'14.尤金妮亚热带',101,'bgm_M95','bgm_M95','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12015,'15.塔利亚火山',101,'bgm_M96','bgm_M96','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12016,'16.忒密斯雪山',101,'bgm_M140','bgm_M140','2088/01/01 0:00:00','2099/12/31 23:59:59');

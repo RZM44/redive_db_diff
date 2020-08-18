@@ -2263,15 +2263,15 @@ INSERT INTO room_unit_comments VALUES(2398,107701,2,101,4,0,1,'怎么了？\n如
 INSERT INTO room_unit_comments VALUES(2399,107701,2,102,8,0,1,'被你看到我\n穿泳衣的样子，\n心怦怦地跳',0);
 INSERT INTO room_unit_comments VALUES(2400,107701,2,1,1,1,1,'早上太热了\n没有干劲？ 那么，\n嘿，精神起来吧',0);
 INSERT INTO room_unit_comments VALUES(2401,107701,2,2,1,2,1,'肚子饿的话，\n中午就在海之家\n吃饭吧♪',0);
-INSERT INTO room_unit_comments VALUES(2402,107701,2,3,1,3,1,'晚上到海滩散步\n也不错呢。虽然\n可能会容易摔跤……',0);
+INSERT INTO room_unit_comments VALUES(2402,107701,2,3,1,3,1,'晚上到海滩散步\n也不错呢。虽然\n可能会摔好多跤……',0);
 INSERT INTO room_unit_comments VALUES(2404,107701,3,2,1,0,1,'一边休息\n一边打扫的话\n就一举两得了！',0);
 INSERT INTO room_unit_comments VALUES(2405,107701,3,3,1,0,1,'清理干净后\n可爱度也\n倍增了呢~♪',0);
 INSERT INTO room_unit_comments VALUES(2406,107701,3,4,1,0,1,'好棒的香味~\n放在救济院的话，\n大家说不定会很高兴~',0);
 INSERT INTO room_unit_comments VALUES(2407,107701,3,5,1,0,1,'好暖和……\n哈！ 不可以！\n女仆怎么能偷懒',0);
 INSERT INTO room_unit_comments VALUES(2409,107701,3,7,1,0,1,'女仆怎么可以\n不会做料理……\n啊呜啊呜，好好吃♪',0);
 INSERT INTO room_unit_comments VALUES(2410,107701,3,8,1,0,1,'穿着泳衣接待顾客\n营业额会翻倍……\n这是真的吗',0);
-INSERT INTO room_unit_comments VALUES(2412,107701,3,10,1,0,1,'诶嘿嘿♪\n请让我坐到\n南方的岛屿吧！',0);
-INSERT INTO room_unit_comments VALUES(2413,107701,3,11,1,0,1,'总觉得\n自己好像\n变成人鱼公主了♪',0);
+INSERT INTO room_unit_comments VALUES(2412,107701,3,10,1,0,1,'诶嘿嘿♪\n请让我乘坐到\n南方的岛屿吧！',0);
+INSERT INTO room_unit_comments VALUES(2413,107701,3,11,1,0,1,'总觉得\n感觉像是\n变成人鱼公主了♪',0);
 INSERT INTO room_unit_comments VALUES(2414,107801,1,1,1,0,1,'跟大家一起\n度过假日真不错啊……\n真想一直这样啊',0);
 INSERT INTO room_unit_comments VALUES(2415,107801,1,2,1,0,1,'戴着救生圈\n在海里漂着\n会上瘾呢',0);
 INSERT INTO room_unit_comments VALUES(2416,107801,1,3,1,0,1,'待在沙滩上\n好担心会晒伤啊',0);

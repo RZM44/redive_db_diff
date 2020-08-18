@@ -62,8 +62,8 @@ INSERT INTO unit_background VALUES(106801,'模索路晶',500030,'兰德索尔 �
 INSERT INTO unit_background VALUES(107101,'克里斯提娜·摩根',500090,'兰德索尔 王城入口',0.0,2);
 INSERT INTO unit_background VALUES(107501,'佩可莉姆（夏日）',500164,'马尔冈海岸',0.0,4);
 INSERT INTO unit_background VALUES(107601,'可可萝（夏日）',500164,'马尔冈海岸',0.0,4);
-INSERT INTO unit_background VALUES(107701,'铃莓（夏日）',500164,'马尔简海岸',0.0,4);
-INSERT INTO unit_background VALUES(107801,'凯露（夏日）',500164,'马尔简海岸',0.0,6);
+INSERT INTO unit_background VALUES(107701,'铃莓（夏日）',500164,'马尔冈海岸',0.0,4);
+INSERT INTO unit_background VALUES(107801,'凯露（夏日）',500164,'马尔冈海岸',0.0,6);
 INSERT INTO unit_background VALUES(107901,'珠希（夏日）',500284,'无人岛',0.0,2);
 INSERT INTO unit_background VALUES(108001,'美冬（夏日）',500284,'无人岛',0.0,2);
 INSERT INTO unit_background VALUES(108101,'忍（万圣节）',500264,'古城 万圣节',0.0,4);

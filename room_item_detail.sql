@@ -52,7 +52,7 @@ INSERT INTO room_item_detail VALUES(39,1,'情调温暖的粉色桌子。在这�
 INSERT INTO room_item_detail VALUES(40,1,'可爱的粉色大桌子。其设计让人不禁想在此摆放点心和糖果。这件家具推荐给喜欢把房间布置得可爱的人。',0,0,0,0,0,0,0,0,0,0);
 INSERT INTO room_item_detail VALUES(41,1,'可爱的粉色椅子。不同于可爱的外表，质地其实很结实，坐着也舒适。',0,0,0,0,0,0,0,0,0,0);
 INSERT INTO room_item_detail VALUES(42,1,'布面坐凳，条纹是粉色和白色条纹相间。可爱的外表容易引起争抢，因此推荐按照人数进行配置。',0,0,0,0,0,0,0,0,0,0);
-INSERT INTO room_item_detail VALUES(43,1,'松软的沙发。它的粉色取自马尔根海岸边群生的珊瑚，这种颜色在兰德索尔很受欢迎。',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO room_item_detail VALUES(43,1,'松软的沙发。它的粉色取自马尔冈海岸边群生的珊瑚，这种颜色在兰德索尔很受欢迎。',0,0,0,0,0,0,0,0,0,0);
 INSERT INTO room_item_detail VALUES(44,1,'双人座位的松软沙发。十分舒适。在这里闲坐时，因为身心放松，还没上床就陷入梦乡也是常有的事。',0,0,0,0,0,0,0,0,0,0);
 INSERT INTO room_item_detail VALUES(45,1,'床架和枕头皆为粉色的钢管床。枕头和毯子都是配套的颜色。感觉可以做个美梦哦♪',0,0,0,0,0,0,0,0,0,0);
 INSERT INTO room_item_detail VALUES(46,1,'粉色的橱柜。白木材质，用粉色喷漆涂装。正适合收纳杂七杂八的日用品和装备。',0,0,0,0,0,0,0,0,0,0);
