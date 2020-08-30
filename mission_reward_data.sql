@@ -1,8 +1,8 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE IF NOT EXISTS 'mission_reward_data' ('id' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER , 'reward_num' INTEGER NOT NULL, PRIMARY KEY('id'));
-INSERT INTO mission_reward_data VALUES(1,18001001,6,93001,200);
-INSERT INTO mission_reward_data VALUES(2,18001002,6,93001,200);
+INSERT INTO mission_reward_data VALUES(1,18001001,6,93001,100);
+INSERT INTO mission_reward_data VALUES(2,18001002,6,93001,100);
 INSERT INTO mission_reward_data VALUES(3,11001001,5,0,30);
 INSERT INTO mission_reward_data VALUES(4,11001001,12,94002,30000);
 INSERT INTO mission_reward_data VALUES(5,11001001,8,91002,10);
