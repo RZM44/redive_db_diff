@@ -55,5 +55,6 @@ INSERT INTO unlock_unit_condition VALUES(107501,'佩可莉姆（夏日）',1,0,1
 INSERT INTO unlock_unit_condition VALUES(107601,'可可萝（夏日）',1,0,1,2,31076,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(107701,'铃莓（夏日）',1,0,1,2,31077,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(107801,'凯露（夏日）',1,0,1,2,31078,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO unlock_unit_condition VALUES(107901,'珠希（夏日）',1,0,1,2,31079,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(108001,'美冬（夏日）',1,0,1,2,31080,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 COMMIT;
