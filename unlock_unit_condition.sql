@@ -31,6 +31,7 @@ INSERT INTO unlock_unit_condition VALUES(103201,'藤堂秋乃',1,0,1,2,31032,145
 INSERT INTO unlock_unit_condition VALUES(103301,'野户真阳',1,0,1,2,31033,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(103401,'绫濑由加莉',1,0,1,2,31034,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(103601,'冰川镜华',1,0,1,2,31036,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(103701,'御久间智',1,0,1,2,31037,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(103801,'柏崎栞',1,0,1,2,31038,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(104001,'双叶碧',1,0,1,2,31040,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(104201,'三角千歌',1,0,1,2,31042,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);

@@ -32,7 +32,7 @@ INSERT INTO gift_message VALUES(9211,'「DMM版游戏预约」达到10万人的�
 INSERT INTO gift_message VALUES(9212,'广播1周年纪念直播内环节的特别礼物。',0,0,0,0);
 INSERT INTO gift_message VALUES(9213,'来自运营的公会之家道具礼物。',0,0,0,0);
 INSERT INTO gift_message VALUES(9214,'「官方直播　2018　秋」环节的特别礼物。',0,0,0,0);
-INSERT INTO gift_message VALUES(9215,'月神之塔更新附赠的礼物。',0,0,0,0);
+INSERT INTO gift_message VALUES(9215,'露娜之塔更新附赠的礼物。',0,0,0,0);
 INSERT INTO gift_message VALUES(9216,'任务报酬变更附赠的礼物。',0,0,0,0);
 INSERT INTO gift_message VALUES(9301,'超出持有数上限时获得的体力。',0,0,0,0);
 INSERT INTO gift_message VALUES(9302,'战斗竞技场的防守奖励。',0,0,0,0);

@@ -7,7 +7,7 @@ INSERT INTO content_release_data VALUES(103,1,0,11002005,'通关主线战斗\n2-
 INSERT INTO content_release_data VALUES(104,1,0,11002012,'通关主线战斗\n2-12（普通）\n后解锁');
 INSERT INTO content_release_data VALUES(107,1,0,11003001,'通关主线战斗3-1（普通）后解锁');
 INSERT INTO content_release_data VALUES(108,1,0,11009001,'通关主线关卡9-1（普通）后解锁');
-INSERT INTO content_release_data VALUES(109,1,0,11009002,'准备中');
+INSERT INTO content_release_data VALUES(109,1,0,11009002,'通关主线关卡9-2（普通）后解锁');
 INSERT INTO content_release_data VALUES(110,1,0,11001005,'通关主线关卡1-5（普通）后解锁');
 INSERT INTO content_release_data VALUES(201,1,0,0,'');
 INSERT INTO content_release_data VALUES(202,1,0,11004006,'通关主线战斗4-6（普通）后解锁');

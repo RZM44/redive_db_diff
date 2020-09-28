@@ -43,7 +43,7 @@ INSERT INTO quest_area_data VALUES(12018,'18.小行星原野・北部',102,'bgm_
 INSERT INTO quest_area_data VALUES(12019,'19.小行星原野・南部',102,'bgm_M179','bgm_M179','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12020,'20.卡斯塔利亚森林・西部',102,'bgm_M180','bgm_M180','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12021,'21.卡斯塔利亚森林・东部',102,'bgm_M180','bgm_M180','2088/01/01 0:00:00','2099/12/31 23:59:59');
-INSERT INTO quest_area_data VALUES(18001,'圣迹调查关卡',0,'','','2088/01/01 0:00:00','2099/12/31 23:59:59');
+INSERT INTO quest_area_data VALUES(18001,'圣迹调查关卡',0,'','','2020/09/28 9:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(21001,'玛那关卡',0,'','','2020/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(21002,'经验值关卡',0,'','','2020/01/01 0:00:00','2099/12/31 23:59:59');
 COMMIT;
