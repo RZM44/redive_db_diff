@@ -5,6 +5,7 @@ INSERT INTO unlock_unit_condition VALUES(100101,'春咲日和莉',1,0,1,2,31001,
 INSERT INTO unlock_unit_condition VALUES(100201,'草野优衣',1,0,1,2,31002,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(100301,'士条怜',1,0,1,2,31003,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(100401,'穂高未奏希',1,0,1,2,31004,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO unlock_unit_condition VALUES(100501,'织原茉莉',1,0,1,2,31005,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(100601,'风宫茜里',1,0,1,2,31006,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(100701,'出云宫子',1,0,1,2,31007,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(100801,'虹村雪',1,0,1,2,31008,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);

@@ -97,5 +97,15 @@ INSERT INTO login_bonus_detail VALUES(93,40001,7,8,91002,150,107601,'可可萝',
 INSERT INTO login_bonus_detail VALUES(94,40001,8,8,91002,150,107801,'凯露','嗯～为什么会变成要和你\n度过一整个夏天呢……\n不过，还挺开心的，就这样吧！\n走，接下来去哪儿玩呢！',2,0);
 INSERT INTO login_bonus_detail VALUES(95,40001,9,8,91002,150,107701,'铃莓','和你度过的第一个夏天……\n我现在好期待啊\n快乐又美好的回忆，\n又要增加一个了呢♪',2,0);
 INSERT INTO login_bonus_detail VALUES(96,40001,10,8,91002,150,107901,'珠希','本来夏天是最能赚钱的时期，\n但是今年我想和你一起度过喵\n你愿意和我一起\n增加快乐的回忆吗喵？',2,0);
+INSERT INTO login_bonus_detail VALUES(97,40003,1,8,91002,150,0,'','',0,0);
+INSERT INTO login_bonus_detail VALUES(98,40003,2,8,91002,150,0,'','',0,0);
+INSERT INTO login_bonus_detail VALUES(99,40003,3,8,91002,150,0,'','',0,0);
+INSERT INTO login_bonus_detail VALUES(100,40003,4,8,91002,150,0,'','',0,0);
+INSERT INTO login_bonus_detail VALUES(101,40003,5,8,91002,150,0,'','',0,0);
+INSERT INTO login_bonus_detail VALUES(102,40003,6,8,91002,150,0,'','',0,0);
+INSERT INTO login_bonus_detail VALUES(103,40003,7,8,91002,150,0,'','',0,0);
+INSERT INTO login_bonus_detail VALUES(104,40003,8,8,91002,150,0,'','',0,0);
+INSERT INTO login_bonus_detail VALUES(105,40003,9,8,91002,150,0,'','',0,0);
+INSERT INTO login_bonus_detail VALUES(106,40003,10,8,91002,150,0,'','',0,0);
 CREATE INDEX 'login_bonus_detail_0_login_bonus_id_1_count' on 'login_bonus_detail'('login_bonus_id','count');
 COMMIT;
