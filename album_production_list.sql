@@ -617,5 +617,13 @@ INSERT INTO album_production_list VALUES(10930105,109301,104,'好感度效果4',
 INSERT INTO album_production_list VALUES(10930106,109301,105,'好感度效果5','');
 INSERT INTO album_production_list VALUES(10930107,109301,106,'好感度效果6','');
 INSERT INTO album_production_list VALUES(10930108,109301,107,'好感度效果7','');
+INSERT INTO album_production_list VALUES(17010101,170101,201,'解锁效果1','');
+INSERT INTO album_production_list VALUES(17010102,170101,101,'好感度效果1','');
+INSERT INTO album_production_list VALUES(17010103,170101,102,'好感度效果2','');
+INSERT INTO album_production_list VALUES(17010104,170101,103,'好感度效果3','');
+INSERT INTO album_production_list VALUES(17010105,170101,104,'好感度效果4','');
+INSERT INTO album_production_list VALUES(17010106,170101,105,'好感度效果5','');
+INSERT INTO album_production_list VALUES(17010107,170101,106,'好感度效果6','');
+INSERT INTO album_production_list VALUES(17010108,170101,107,'好感度效果7','');
 CREATE INDEX 'album_production_list_0_unit_id' on 'album_production_list'('unit_id');
 COMMIT;

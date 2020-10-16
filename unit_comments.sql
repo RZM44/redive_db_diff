@@ -925,6 +925,18 @@ INSERT INTO unit_comments VALUES(1093009,109331,1,4,1,0.0,1,'诶，你问小眼�
 INSERT INTO unit_comments VALUES(1093010,109331,1,5,1,0.0,1,'补考的女帝，不及格女王……\n让你见识一下\n拥有众多外号的露的实力！');
 INSERT INTO unit_comments VALUES(1093011,109301,2,6,6,2.8,2,'今天是你的生日？\n那么，露也来庆祝！\n生日快乐！');
 INSERT INTO unit_comments VALUES(1093012,109331,2,6,1,0.0,1,'露不擅长记东西……\n但是朋友的生日\n是一定会记住的！\n生日快乐！');
+INSERT INTO unit_comments VALUES(1701001,170101,1,1,1,1.1,2,'和别人比较\n也没有意义嘛！\n我得打磨自己的武器！');
+INSERT INTO unit_comments VALUES(1701002,170101,1,2,2,0.0,2,'这个肉味道真是超级美味！');
+INSERT INTO unit_comments VALUES(1701003,170101,1,3,2,1.1,1,'耶！你看你看，\n我一个人就把魔物打倒了！\n谢谢你陪我特训呀！');
+INSERT INTO unit_comments VALUES(1701004,170101,1,4,1,0.0,1,'我自己都觉得自己很要强。\n越是困难的挑战，\n就越让我觉得兴奋呢。');
+INSERT INTO unit_comments VALUES(1701005,170101,1,5,1,0.0,1,'碰壁的时候，\n就要向前向上向后，\n总之四处找出路！');
+INSERT INTO unit_comments VALUES(1701006,170131,1,1,10,1.3,1,'我也好想像小佩可莉姆一样\n帅气地战斗啊！\n又帅又可爱，岂不是无敌了？');
+INSERT INTO unit_comments VALUES(1701007,170131,1,2,6,1.5,2,'魔物竟然这么好吃，吓我一跳！\n特别是眼珠！\n');
+INSERT INTO unit_comments VALUES(1701008,170131,1,3,1,0.0,1,'我的爱好是说话！\n而且经常说话之前不过脑子！\n有时候自己也会吓一跳！');
+INSERT INTO unit_comments VALUES(1701009,170131,1,4,1,2.0,2,'烤肉有烤肉的好，\n鲷鱼烧有鲷鱼烧的好，\n各有千秋！\n换句话说，我都想吃！');
+INSERT INTO unit_comments VALUES(1701010,170131,1,5,6,2.1,1,'骑士不露饿相……\n这怎么可能啊！？\n人是铁饭是钢啊！？');
+INSERT INTO unit_comments VALUES(1701011,170101,2,6,2,2.3,6,'生日一定要吃顿大餐！\n你想去哪儿吃？\n诶，想吃我做的菜？真的？');
+INSERT INTO unit_comments VALUES(1701012,170131,2,6,1,2.2,2,'生日快乐！\n没想到吧？没想到吧？\n诶嘿嘿，我知道今天是你生日哦♪给，送你的礼物！');
 CREATE INDEX 'unit_comments_0_unit_id' on 'unit_comments'('unit_id');
 CREATE INDEX 'unit_comments_0_unit_id_1_use_type' on 'unit_comments'('unit_id','use_type');
 COMMIT;

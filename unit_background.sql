@@ -79,4 +79,5 @@ INSERT INTO unit_background VALUES(109001,'惠理子（情人节）',500600,'厨
 INSERT INTO unit_background VALUES(109101,'静流（情人节）',500600,'厨房竞技场',0.0,4);
 INSERT INTO unit_background VALUES(109201,'安',500133,'埃斯特雷拉街道',0.0,2);
 INSERT INTO unit_background VALUES(109301,'露',500133,'埃斯特雷拉街道',0.0,4);
+INSERT INTO unit_background VALUES(170101,'环奈',500130,'埃斯特雷拉街道',0.0,3);
 COMMIT;

@@ -456,4 +456,7 @@ INSERT INTO chara_story_status VALUES(1092004,'安的小故事第4话',4,150,7,1
 INSERT INTO chara_story_status VALUES(1093002,'露的小故事第2话',4,60,0,0,0,0,0,0,0,0,1093,0,0,0,0,0,0,0,0,0);
 INSERT INTO chara_story_status VALUES(1093003,'露的小故事第3话',4,100,0,0,0,0,0,0,0,0,1093,0,0,0,0,0,0,0,0,0);
 INSERT INTO chara_story_status VALUES(1093004,'露的小故事第4话',4,150,7,10,0,0,0,0,0,0,1093,0,0,0,0,0,0,0,0,0);
+INSERT INTO chara_story_status VALUES(1701002,'环奈的小故事第2话',2,60,0,0,0,0,0,0,0,0,1701,1702,0,0,0,0,0,0,0,0);
+INSERT INTO chara_story_status VALUES(1701003,'环奈的小故事第3话',2,80,11,60,0,0,0,0,0,0,1701,1702,0,0,0,0,0,0,0,0);
+INSERT INTO chara_story_status VALUES(1701004,'环奈的小故事第4话',2,100,11,150,5,4,0,0,0,0,1701,1702,0,0,0,0,0,0,0,0);
 COMMIT;

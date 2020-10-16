@@ -76,4 +76,5 @@ INSERT INTO actual_unit_background VALUES(108831,'草野优衣',510220,2);
 INSERT INTO actual_unit_background VALUES(108931,'士条怜',510350,2);
 INSERT INTO actual_unit_background VALUES(109031,'仓石惠理子',510300,4);
 INSERT INTO actual_unit_background VALUES(109131,'星野静流',510090,2);
+INSERT INTO actual_unit_background VALUES(170131,'环奈',510120,4);
 COMMIT;

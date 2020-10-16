@@ -7,5 +7,6 @@ INSERT INTO event_story_data VALUES(5003,5,10003,'吸血鬼猎人with伊莉亚',
 INSERT INTO event_story_data VALUES(5004,5,10004,'危险假日！！ 海边的美食家公主',0,1,'2020/07/30 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5005,5,10005,'珠希和美冬的无人岛0金币生活',0,1,'2020/08/27 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5006,5,10006,'黑铁的亡灵（梦魇）',0,1,'2020/09/24 15:00:00','2099/12/31 23:59:59');
+INSERT INTO event_story_data VALUES(5007,5,10007,'布丁诡计！约定的万圣节派对',0,1,'2020/10/22 15:00:00','2099/12/31 23:59:59');
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
 COMMIT;
