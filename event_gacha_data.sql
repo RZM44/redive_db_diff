@@ -6,7 +6,7 @@ INSERT INTO event_gacha_data VALUES(10002,10002,'小小甜心・大冒险讨伐�
 INSERT INTO event_gacha_data VALUES(10004,10004,'危险假日！！海边的美食家公主',2,60032,1,5);
 INSERT INTO event_gacha_data VALUES(10005,10005,'珠希和美冬的无人岛0金币生活',2,60042,1,5);
 INSERT INTO event_gacha_data VALUES(10006,10006,'黑铁的亡灵',2,60052,1,5);
-INSERT INTO event_gacha_data VALUES(10007,10007,'布丁诡计！约定的万圣节派对',2,60062,1,5);
+INSERT INTO event_gacha_data VALUES(10007,10007,'不给布丁就捣蛋！约定的万圣节派对',2,60062,1,5);
 INSERT INTO event_gacha_data VALUES(10008,10008,'暮光破坏者',2,60072,1,5);
 INSERT INTO event_gacha_data VALUES(10009,10009,'忘却的圣歌',2,60082,1,5);
 INSERT INTO event_gacha_data VALUES(10010,10010,'新春的星之危机！',2,60092,1,5);
