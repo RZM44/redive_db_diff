@@ -16,7 +16,7 @@ INSERT INTO quest_area_data VALUES(11012,'12.博洛尼亚沙丘',101,'bgm_M94','
 INSERT INTO quest_area_data VALUES(11013,'13.多萝西娅湿地',101,'bgm_M118','bgm_M118','2020/08/18 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11014,'14.尤金妮亚热带',101,'bgm_M95','bgm_M95','2020/09/15 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11015,'15.塔利亚火山',101,'bgm_M96','bgm_M96','2020/10/09 11:00:00','2099/12/31 23:59:59');
-INSERT INTO quest_area_data VALUES(11016,'16.忒密斯雪山',101,'bgm_M140','bgm_M140','2088/01/01 0:00:00','2099/12/31 23:59:59');
+INSERT INTO quest_area_data VALUES(11016,'16.忒密斯雪山',101,'bgm_M140','bgm_M140','2020/11/10 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11017,'17.菲德斯冰原',101,'bgm_M141','bgm_M141','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11018,'18.小行星原野・北部',102,'bgm_M179','bgm_M179','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11019,'19.小行星原野・南部',102,'bgm_M179','bgm_M179','2088/01/01 0:00:00','2099/12/31 23:59:59');
@@ -37,7 +37,7 @@ INSERT INTO quest_area_data VALUES(12012,'12.博洛尼亚沙丘',101,'bgm_M94','
 INSERT INTO quest_area_data VALUES(12013,'13.多萝西娅湿地',101,'bgm_M118','bgm_M118','2020/08/18 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12014,'14.尤金妮亚热带',101,'bgm_M95','bgm_M95','2020/09/15 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12015,'15.塔利亚火山',101,'bgm_M96','bgm_M96','2020/10/09 11:00:00','2099/12/31 23:59:59');
-INSERT INTO quest_area_data VALUES(12016,'16.忒密斯雪山',101,'bgm_M140','bgm_M140','2088/01/01 0:00:00','2099/12/31 23:59:59');
+INSERT INTO quest_area_data VALUES(12016,'16.忒密斯雪山',101,'bgm_M140','bgm_M140','2020/11/10 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12017,'17.菲德斯冰原',101,'bgm_M141','bgm_M141','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12018,'18.小行星原野・北部',102,'bgm_M179','bgm_M179','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12019,'19.小行星原野・南部',102,'bgm_M179','bgm_M179','2088/01/01 0:00:00','2099/12/31 23:59:59');

@@ -22,7 +22,7 @@ INSERT INTO room_item_detail VALUES(7,1,'怎么吃也吃不完的饭团。咸味
 INSERT INTO room_item_detail VALUES(8,1,'可用来摆放魔导书的书立。幻想风的设计所散发的魅力，使人感到自己仿佛变成了大魔法师！',0,0,0,0,0,0,0,0,0,0);
 INSERT INTO room_item_detail VALUES(9,1,'放入喜欢的蔬菜和汤料，咕嘟咕嘟地慢慢煮……美味的炖煮菜便完成了！',0,0,0,0,0,0,0,0,0,0);
 INSERT INTO room_item_detail VALUES(10,1,'以莉玛为模特儿做出的玩偶。非常可爱。拥有首屈一指的毛绒绒手感。',0,0,0,0,0,0,0,0,0,0);
-INSERT INTO room_item_detail VALUES(11,1,'可把芳香剂变成喷雾在房间内扩散。不用明火，可放心使用。近期以普莱诺平原的花混合而成的花香款十分流行。',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO room_item_detail VALUES(11,1,'可使用芳香剂变成喷雾在房间内扩散。不用明火，可放心使用。是近期流行的、普拉诺平原的花混合而成的花香款。',0,0,0,0,0,0,0,0,0,0);
 INSERT INTO room_item_detail VALUES(12,1,'可把芳香剂变成雾状在房间内扩散。摆在较高的地方，可以使香气扩散到更大的范围喔！',0,0,0,0,0,0,0,0,0,0);
 INSERT INTO room_item_detail VALUES(13,1,'有着稳重色调的书架。可以摆放从漫画到魔导书等各种尺寸的书。',0,0,0,0,0,0,0,0,0,0);
 INSERT INTO room_item_detail VALUES(14,1,'白色皇家书架。设计精致，亦由于它的大容量而十分实用，因此在女性中有很高的人气。',0,0,0,0,0,0,0,0,0,0);
