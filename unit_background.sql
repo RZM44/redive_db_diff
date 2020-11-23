@@ -59,7 +59,7 @@ INSERT INTO unit_background VALUES(106001,'凯露',500130,'埃斯特雷拉街道
 INSERT INTO unit_background VALUES(106101,'矛依未',500341,'拉比林斯公会据点',0.0,20);
 INSERT INTO unit_background VALUES(106301,'亚里莎',500170,'神秘森林',0.0,3);
 INSERT INTO unit_background VALUES(106801,'模索路晶',500030,'兰德索尔 繁华街',0.0,2);
-INSERT INTO unit_background VALUES(107101,'克里斯提娜·摩根',500090,'兰德索尔 王城入口',0.0,2);
+INSERT INTO unit_background VALUES(107101,'克莉丝提娜·摩根',500090,'兰德索尔 王城入口',0.0,2);
 INSERT INTO unit_background VALUES(107501,'佩可莉姆（夏日）',500164,'马尔冈海岸',0.0,4);
 INSERT INTO unit_background VALUES(107601,'可可萝（夏日）',500164,'马尔冈海岸',0.0,4);
 INSERT INTO unit_background VALUES(107701,'铃莓（夏日）',500164,'马尔冈海岸',0.0,4);

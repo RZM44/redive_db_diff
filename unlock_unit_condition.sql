@@ -53,6 +53,7 @@ INSERT INTO unlock_unit_condition VALUES(105801,'佩可莉姆',1,0,1,2,31058,15,
 INSERT INTO unlock_unit_condition VALUES(105901,'可可萝',1,0,1,2,31059,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(106001,'凯露',1,0,1,2,31060,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(106301,'亚里莎',1,0,1,2,31063,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO unlock_unit_condition VALUES(107101,'克莉丝提娜',1,0,1,2,31071,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(107501,'佩可莉姆（夏日）',1,0,1,2,31075,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(107601,'可可萝（夏日）',1,0,1,2,31076,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(107701,'铃莓（夏日）',1,0,1,2,31077,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
