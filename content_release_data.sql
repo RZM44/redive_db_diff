@@ -22,6 +22,6 @@ INSERT INTO content_release_data VALUES(503,1,0,11002002,'通关主线战斗2-2�
 INSERT INTO content_release_data VALUES(506,1,0,11003005,'通关主线战斗3-5（普通）后解锁');
 INSERT INTO content_release_data VALUES(601,1,0,11002001,'通关主线战斗2-1（普通）后解锁');
 INSERT INTO content_release_data VALUES(602,1,0,11007001,'通关主线战斗7-1（普通）后解锁');
-INSERT INTO content_release_data VALUES(603,1,0,11016014,'暂未开启，敬请期待');
+INSERT INTO content_release_data VALUES(603,1,0,11016014,'通关主线战斗16-14（普通）后解锁');
 INSERT INTO content_release_data VALUES(701,1,0,11003001,'通关主线战斗3-1（普通）后解锁');
 COMMIT;
