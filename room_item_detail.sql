@@ -368,6 +368,7 @@ INSERT INTO room_item_detail VALUES(990113,1,'即使失去了华丽的靠背，�
 INSERT INTO room_item_detail VALUES(990115,1,'在这张桌子上享用一次豪华晚餐吧！',0,0,0,0,0,0,0,0,0,0);
 INSERT INTO room_item_detail VALUES(990116,1,'似乎是其他次元的街区，建筑风格与兰德索尔大不相同。',0,0,0,0,0,0,0,0,0,0);
 INSERT INTO room_item_detail VALUES(990210,1,'雕刻有半周年字样和公主图案的可爱盾型壁挂。为了迎接公主连结简体字版半周年庆典而特别制作的工艺品盾牌，看着它就能感受到节日庆典的气氛。',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO room_item_detail VALUES(990211,1,'鲜花和祝福拥簇的女神之门，仅赐予那些在女神祭中大展身手的骑士。据说通过这扇拱门的人，会受到女神的青睐，你也不妨来试试吧？',0,0,0,0,0,0,0,0,0,0);
 CREATE INDEX 'room_item_detail_0_lvup_trigger_type_1_lvup_trigger_id' on 'room_item_detail'('lvup_trigger_type','lvup_trigger_id');
 CREATE INDEX 'room_item_detail_0_lvup_trigger_type_2_1_lvup_trigger_id_2' on 'room_item_detail'('lvup_trigger_type_2','lvup_trigger_id_2');
 COMMIT;

@@ -65,5 +65,7 @@ INSERT INTO unlock_unit_condition VALUES(108001,'美冬（夏日）',1,0,1,2,310
 INSERT INTO unlock_unit_condition VALUES(108101,'忍（万圣节）',1,0,1,2,31081,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(108201,'宫子（万圣节）',1,0,1,2,31082,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(108301,'美咲（万圣节）',1,0,1,2,31083,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(108401,'千歌（圣诞节）',1,0,1,2,31084,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(108501,'胡桃（圣诞节）',1,0,1,2,31085,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(170101,'环奈',1,0,1,2,31701,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 COMMIT;

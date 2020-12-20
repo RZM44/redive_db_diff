@@ -10,4 +10,5 @@ INSERT INTO login_bonus_data VALUES(48002,'启程冲刺 宝石庆典活动第二
 INSERT INTO login_bonus_data VALUES(48003,'启程冲刺 宝石庆典活动第三期',4,10,'2020/05/07 5:00:00','2020/05/17 4:59:59',48003,0,0,0,0);
 INSERT INTO login_bonus_data VALUES(48004,'夏日登录活动 第1期',4,10,'2020/08/03 5:00:00','2020/08/18 4:59:59',48004,0,0,0,0);
 INSERT INTO login_bonus_data VALUES(48005,'黄金周登录活动',4,10,'2020/10/01 5:00:00','2020/10/16 4:59:59',48005,0,0,0,0);
+INSERT INTO login_bonus_data VALUES(70000,'圣诞节登录奖励',7,2,'2020/12/24 5:00:00','2020/12/26 4:59:59',500160,0,0,1,0);
 COMMIT;
