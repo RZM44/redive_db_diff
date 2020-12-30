@@ -4,4 +4,5 @@ CREATE TABLE IF NOT EXISTS 'tower_area_data' ('tower_area_id' INTEGER NOT NULL, 
 INSERT INTO tower_area_data VALUES(1,70,81000104,'bgm_M125');
 INSERT INTO tower_area_data VALUES(2,110,81000104,'bgm_M125');
 INSERT INTO tower_area_data VALUES(3,130,81000104,'bgm_M125');
+INSERT INTO tower_area_data VALUES(4,150,81000104,'bgm_M125');
 COMMIT;

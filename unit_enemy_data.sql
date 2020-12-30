@@ -323,6 +323,7 @@ INSERT INTO unit_enemy_data VALUES(609101,'静流（情人节）的暗影',10910
 INSERT INTO unit_enemy_data VALUES(609201,'安的暗影',109201,23,7,450,630,2,2.27,0,1,'拥有安外貌的特殊魔物');
 INSERT INTO unit_enemy_data VALUES(609301,'露的暗影',109301,23,7,450,765,2,2.27,0,1,'拥有露外貌的特殊魔物');
 INSERT INTO unit_enemy_data VALUES(670101,'环奈的暗影',170101,4,4,450,433,1,1.965,0,1,'拥有环奈外貌的特殊魔物');
+INSERT INTO unit_enemy_data VALUES(670201,'环奈（振袖）的暗影',170201,30,7,450,527,1,2.07,0,1,'拥有环奈（振袖）外貌的特殊魔物');
 INSERT INTO unit_enemy_data VALUES(902801,'咲恋的暗影',902801,0,4,600,350,1,2.0,0,1,'拥有咲恋外貌的特殊魔物');
 INSERT INTO unit_enemy_data VALUES(912401,'岩盔蜥蜴',912401,0,14,270,200,1,3.0,0,0,'【物理】近身攻击\n头部皮肤变硬\n变得像铠甲一样的岩蜥魔物。');
 COMMIT;

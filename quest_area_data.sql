@@ -18,7 +18,7 @@ INSERT INTO quest_area_data VALUES(11014,'14.尤金妮亚热带',101,'bgm_M95','
 INSERT INTO quest_area_data VALUES(11015,'15.塔利亚火山',101,'bgm_M96','bgm_M96','2020/10/09 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11016,'16.忒密斯雪山',101,'bgm_M140','bgm_M140','2020/11/10 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11017,'17.菲德斯冰原',101,'bgm_M141','bgm_M141','2020/11/30 11:00:00','2099/12/31 23:59:59');
-INSERT INTO quest_area_data VALUES(11018,'18.小行星原野・北部',102,'bgm_M179','bgm_M179','2088/01/01 0:00:00','2099/12/31 23:59:59');
+INSERT INTO quest_area_data VALUES(11018,'18.小行星原野・北部',102,'bgm_M179','bgm_M179','2020/12/30 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11019,'19.小行星原野・南部',102,'bgm_M179','bgm_M179','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11020,'20.卡斯塔利亚森林・西部',102,'bgm_M180','bgm_M180','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11021,'21.卡斯塔利亚森林・东部',102,'bgm_M180','bgm_M180','2088/01/01 0:00:00','2099/12/31 23:59:59');
@@ -39,7 +39,7 @@ INSERT INTO quest_area_data VALUES(12014,'14.尤金妮亚热带',101,'bgm_M95','
 INSERT INTO quest_area_data VALUES(12015,'15.塔利亚火山',101,'bgm_M96','bgm_M96','2020/10/09 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12016,'16.忒密斯雪山',101,'bgm_M140','bgm_M140','2020/11/10 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12017,'17.菲德斯冰原',101,'bgm_M141','bgm_M141','2020/11/30 11:00:00','2099/12/31 23:59:59');
-INSERT INTO quest_area_data VALUES(12018,'18.小行星原野・北部',102,'bgm_M179','bgm_M179','2088/01/01 0:00:00','2099/12/31 23:59:59');
+INSERT INTO quest_area_data VALUES(12018,'18.小行星原野・北部',102,'bgm_M179','bgm_M179','2020/12/30 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12019,'19.小行星原野・南部',102,'bgm_M179','bgm_M179','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12020,'20.卡斯塔利亚森林・西部',102,'bgm_M180','bgm_M180','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12021,'21.卡斯塔利亚森林・东部',102,'bgm_M180','bgm_M180','2088/01/01 0:00:00','2099/12/31 23:59:59');
