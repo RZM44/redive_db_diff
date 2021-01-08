@@ -9,7 +9,7 @@ INSERT INTO event_gacha_data VALUES(10006,10006,'黑铁的亡灵',2,60052,1,5);
 INSERT INTO event_gacha_data VALUES(10007,10007,'不给布丁就捣蛋！约定的万圣节派对',2,60062,1,5);
 INSERT INTO event_gacha_data VALUES(10008,10008,'暮光破坏者',2,60072,1,5);
 INSERT INTO event_gacha_data VALUES(10009,10009,'忘却的圣歌',2,60082,1,5);
-INSERT INTO event_gacha_data VALUES(10010,10010,'新春的星之危机！',2,60092,1,5);
+INSERT INTO event_gacha_data VALUES(10010,10010,'新春破晓之星大危机！',2,60092,1,5);
 INSERT INTO event_gacha_data VALUES(10011,10011,'情人节大作战！心意相通的甜蜜战斗',2,60102,1,5);
 INSERT INTO event_gacha_data VALUES(10012,10012,'王都的名侦探 叹息的追踪者（跟踪狂）',2,60112,1,5);
 INSERT INTO event_gacha_data VALUES(10013,10013,'在阿斯特朗盛开的双轮花',2,60122,1,5);
