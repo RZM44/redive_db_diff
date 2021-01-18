@@ -119,5 +119,8 @@ INSERT INTO login_bonus_detail VALUES(115,40004,9,8,91002,150,0,'','',0,0);
 INSERT INTO login_bonus_detail VALUES(116,40004,10,8,91002,150,0,'','',0,0);
 INSERT INTO login_bonus_detail VALUES(127,70000,1,8,91002,500,0,'','',0,0);
 INSERT INTO login_bonus_detail VALUES(128,70000,2,8,91002,500,0,'','',0,0);
+INSERT INTO login_bonus_detail VALUES(129,70001,1,8,91002,300,0,'','',0,0);
+INSERT INTO login_bonus_detail VALUES(130,70001,2,8,91002,300,0,'','',0,0);
+INSERT INTO login_bonus_detail VALUES(131,70001,3,8,91002,300,0,'','',0,0);
 CREATE INDEX 'login_bonus_detail_0_login_bonus_id_1_count' on 'login_bonus_detail'('login_bonus_id','count');
 COMMIT;

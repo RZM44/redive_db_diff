@@ -1,7 +1,7 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE IF NOT EXISTS 'character_love_rankup_text' ('chara_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'love_level' INTEGER NOT NULL, 'scale' REAL NOT NULL, 'position_x' INTEGER NOT NULL, 'position_y' INTEGER NOT NULL, 'voice_id_1' INTEGER NOT NULL, 'face_1' INTEGER NOT NULL, 'serif_1' TEXT NOT NULL, 'voice_id_2' INTEGER NOT NULL, 'face_2' INTEGER NOT NULL, 'serif_2' TEXT NOT NULL, 'voice_id_3' INTEGER NOT NULL, 'face_3' INTEGER NOT NULL, 'serif_3' TEXT NOT NULL, PRIMARY KEY('chara_id'));
-INSERT INTO character_love_rankup_text VALUES(1001,'春咲日和莉',2,1.4,0,0,0,1,'我是日和莉♪\n我会精神百倍地加油的♪',0,1,'哦！\n那个人好像很困扰！',0,1,'喂喂，骑士君\n我们去帮帮忙吧~');
+INSERT INTO character_love_rankup_text VALUES(1001,'春咲日和莉',2,1.4,0,0,0,1,'我是日和莉♪\n我会精神百倍地加油的♪',0,1,'哦！\n那个人好像很困扰！',0,1,'喂喂，骑士先生\n我们去帮帮忙吧～');
 INSERT INTO character_love_rankup_text VALUES(1002,'草野优衣',2,1.4,0,0,0,1,'我必须要像大家那样\n变得更强才行',0,1,'我想强大到\n足以守护最重要的人……啊',0,1,'我、我、\n都在说些什么呀\n啊哈哈……');
 INSERT INTO character_love_rankup_text VALUES(1003,'士条怜',2,1.4,0,0,0,1,'试着练习击剑吧？',0,1,'应该可以稍微锻炼一下',0,1,'对你而言必需的集中力和敏感度哦。');
 INSERT INTO character_love_rankup_text VALUES(1004,'穗高未奏希',2,1.5,0,0,0,1,'喂，哥哥！',0,1,'我们今天玩什么？',0,1,'未奏希我呀\n想玩捉迷藏！');
