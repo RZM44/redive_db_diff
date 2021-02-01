@@ -12,7 +12,7 @@ sekai_unlock_story_condition,,5
 dungeon_quest_data,,37
 hatsune_special_battle,hatsune_special_battle_0_event_id,"12 3"
 hatsune_special_battle,sqlite_autoindex_hatsune_special_battle_1,"12 3 1"
-event_introduction,,10
+event_introduction,,11
 stamp,,32
 dungeon_area_data,,4
 event_boss_treasure_box,,43
@@ -24,7 +24,7 @@ fix_lineup_group_set,sqlite_autoindex_fix_lineup_group_set_1,"22 4 1 1"
 sekai_top_data,,10
 room_release_data,,3
 music_content,,67
-tower_ex_quest_data,tower_ex_quest_data_0_floor_num,"4 1"
+tower_ex_quest_data,tower_ex_quest_data_0_floor_num,"5 1"
 event_enemy_parameter,,3764
 room_emotion_icon,,18
 emblem_mission_data,,327
@@ -45,15 +45,15 @@ campaign_freegacha_data,,8
 actual_unit_background,,77
 room_effect_reward_get,sqlite_autoindex_room_effect_reward_get_1,"57 7 1"
 position_setting,,1
-clan_battle_period,clan_battle_period_0_clan_battle_id,"10 1"
-clan_battle_period,sqlite_autoindex_clan_battle_period_1,"10 1 1"
+clan_battle_period,clan_battle_period_0_clan_battle_id,"11 1"
+clan_battle_period,sqlite_autoindex_clan_battle_period_1,"11 1 1"
 room_chat_scenario,room_chat_scenario_0_id,"274 11"
 room_chat_scenario,sqlite_autoindex_room_chat_scenario_1,"274 11 1"
 login_bonus_detail,login_bonus_detail_0_login_bonus_id_1_count,"121 10 2"
 unit_status_coefficient,,1
 sekai_schedule,,1
 clan_battle_last_attack_reward,,3
-clan_battle_schedule,,10
+clan_battle_schedule,,11
 unit_background,,80
 hatsune_present,hatsune_present_0_event_id,"2 1"
 clan_cost_group,,3
@@ -74,28 +74,28 @@ pct_itempoint,pct_itempoint_0_item_id,"3 1"
 hatsune_quest,hatsune_quest_0_event_id,"280 20"
 room_unit_comments,room_unit_comments_0_unit_id,"2872 24"
 room_unit_comments,sqlite_autoindex_room_unit_comments_1,"2872 24 8 2 1"
-tower_story_detail,,18
-story_data,,102
+tower_story_detail,,21
+story_data,,104
 gift_message,,63
 clan_battle_boss_data,,65
 skill_action,,1753
 goldset_data,,70
 sekai_add_times_data,,12
 unit_unique_equip,,20
-story_detail,,653
+story_detail,,661
 content_map_data,,2
 odds_name_data,,40
 hatsune_special_boss_ticket_count,,1
 sekai_boss_mode,,6
-gacha_data,,91
-room_item_detail,room_item_detail_0_lvup_trigger_type_2_1_lvup_trigger_id_2,"368 368 368"
-room_item_detail,room_item_detail_0_lvup_trigger_type_1_lvup_trigger_id,"368 184 184"
-room_item_detail,sqlite_autoindex_room_item_detail_1,"368 2 1"
+gacha_data,,94
+room_item_detail,room_item_detail_0_lvup_trigger_type_2_1_lvup_trigger_id_2,"385 385 385"
+room_item_detail,room_item_detail_0_lvup_trigger_type_1_lvup_trigger_id,"385 193 193"
+room_item_detail,sqlite_autoindex_room_item_detail_1,"385 2 1"
 quest_defeat_notice,,6
 pct_reward,pct_reward_0_pct_point_type,"15 5"
 sekai_boss_fix_reward,,5
 clan_battle_boss_fix_reward,,40
-room_setup,,258
+room_setup,,274
 event_navi_comment,,27
 cooperation_quest_data,,6
 sekai_top_story_data,,4
@@ -110,36 +110,36 @@ wave_group_data,,1395
 equipment_enhance_rate,,207
 tower_enemy_parameter,,1162
 content_release_data,,23
-music_list,,52
+music_list,,57
 event_top_adv,event_top_adv_0_event_id_1_type,"75 11 3"
-gacha_exchange_lineup,,28
-campaign_schedule,,130
+gacha_exchange_lineup,,29
+campaign_schedule,,136
 unit_rarity,unit_rarity_0_unit_material_id,"490 7"
 unit_rarity,unit_rarity_0_unit_id,"490 5"
 unit_rarity,sqlite_autoindex_unit_rarity_1,"490 5 1"
-enemy_parameter,,2926
-tower_area_data,,4
+enemy_parameter,,2941
+tower_area_data,,5
 event_boss_treasure_content,,196
 hatsune_quiz_condition,hatsune_quiz_condition_0_event_id_1_quiz_id,"6 6 2"
 hatsune_mission_reward_data,hatsune_mission_reward_data_0_mission_reward_id,"802 2"
-experience_team,,116
+experience_team,,119
 arena_daily_rank_reward,,40
 room_change,,1
 story_character_mask,,264
 tips,,57
 clan_battle_odds_data,clan_battle_odds_data_0_odds_group_id,"12 3"
 clan_battle_odds_data,sqlite_autoindex_clan_battle_odds_data_1,"12 3 1 1"
-unit_data,,102
+unit_data,,103
 ailment_data,,20
-tower_quest_data,tower_quest_data_0_floor_num,"150 1"
+tower_quest_data,tower_quest_data_0_floor_num,"170 1"
 minigame,minigame_0_event_id,"1 1"
 resist_data,,27
-room_item,,288
+room_item,,317
 skill_cost,,124
 notif_data,notif_data_0_unit_id,"462 6"
 notif_data,sqlite_autoindex_notif_data_1,"462 6 1"
 vote_info,sqlite_autoindex_vote_info_1,"3 3 1"
-tower_schedule,tower_schedule_0_opening_story_id,"4 1"
+tower_schedule,tower_schedule_0_opening_story_id,"5 1"
 event_enemy_reward_group,,137
 hatsune_description,,64
 campaign_freegacha,,3
@@ -154,7 +154,7 @@ skip_monster_data,,657
 enemy_reward_data,,1272
 quest_condition_data,,363
 hatsune_quiz_reward,,4
-tower_story_data,,3
+tower_story_data,,4
 equipment_enhance_data,sqlite_autoindex_equipment_enhance_data_1,"14 4 1"
 skip_boss_data,,28
 global_data,sqlite_autoindex_global_data_1,"2 1"
@@ -164,9 +164,9 @@ shop_static_price_group,,5
 clan_battle_map_data,,34
 event_bg_data,,1
 grand_arena_defence_reward,,1
-chara_fortune_schedule,,1
+chara_fortune_schedule,,2
 unit_mypage_pos,,36
-unlock_unit_condition,,71
+unlock_unit_condition,,72
 equipment_donation,,9
 daily_mission_data,,330
 equipment_data,,377
@@ -179,14 +179,14 @@ visual_customize,,3
 pct_evaluation,,5
 hatsune_boss_condition,,28
 sekai_enemy_parameter,,3
-clan_battle_period_rank_reward,,150
-event_story_detail,event_story_detail_0_story_group_id,"81 9"
+clan_battle_period_rank_reward,,165
+event_story_detail,event_story_detail_0_story_group_id,"89 9"
 worldmap,,4
 training_quest_data,,12
-chara_fortune_reward,,4
-experience_unit,,116
+chara_fortune_reward,,8
+experience_unit,,119
 vote_data,,1
-event_story_data,event_story_data_0_value,"10 1"
+event_story_data,event_story_data_0_value,"11 1"
 equipment_craft,,170
 hatsune_stationary_mission_data,,310
 unique_equipment_craft,,36
@@ -195,8 +195,8 @@ movie,,114
 chara_identity,,79
 character_love_rankup_text,,42
 arena_defence_reward,,1
-banner,,33
-stationary_mission_data,,453
+banner,,34
+stationary_mission_data,,473
 unit_enemy_data,,325
 unique_equipment_enhance_data,sqlite_autoindex_unique_equipment_enhance_data_1,"129 129 1"
 unique_equipment_enhance_rate,,36
@@ -204,11 +204,11 @@ hatsune_item,,10
 unit_motion_list,,79
 unique_equipment_rankup,unique_equipment_rankup_0_equip_id,"180 5"
 unique_equipment_rankup,sqlite_autoindex_unique_equipment_rankup_1,"180 5 1"
-hatsune_schedule,,10
+hatsune_schedule,,11
 room_character_personality,,80
-unit_promotion,unit_promotion_0_unit_id,"1131 11"
-unit_promotion,sqlite_autoindex_unit_promotion_1,"1131 11 1"
-item_data,,114
+unit_promotion,unit_promotion_0_unit_id,"1232 12"
+unit_promotion,sqlite_autoindex_unit_promotion_1,"1232 12 1"
+item_data,,115
 reward_collect_guide,,426
 arena_max_rank_reward,,79
 seasonpassnormal_mission_data,,151
@@ -217,6 +217,6 @@ guild,,15
 mission_reward_data,mission_reward_data_0_mission_reward_id,"234 3"
 album_voice_list,album_voice_list_0_unit_id,"3182 37"
 season_pack,season_pack_0_mission_id,"3 2"
-unit_introduction,unit_introduction_0_gacha_id,"24 1"
+unit_introduction,unit_introduction_0_gacha_id,"25 1"
 quest_reward_data,,754
 quest_data,,363
