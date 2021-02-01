@@ -11,5 +11,6 @@ INSERT INTO event_story_data VALUES(5007,5,10007,'不给布丁就捣蛋！约定
 INSERT INTO event_story_data VALUES(5008,5,10008,'暮光破坏者',0,1,'2020/11/19 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5009,5,10009,'忘却的圣歌',0,1,'2020/12/17 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5010,5,10010,'新春破晓之星大危机！',0,1,'2021/01/14 15:00:00','2099/12/31 23:59:59');
+INSERT INTO event_story_data VALUES(5011,5,10011,'情人节大作战！心意相通的甜蜜战斗',0,1,'2021/02/11 15:00:00','2099/12/31 23:59:59');
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
 COMMIT;
