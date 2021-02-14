@@ -4,4 +4,6 @@ CREATE TABLE IF NOT EXISTS 'campaign_freegacha' ('id' INTEGER NOT NULL, 'campaig
 INSERT INTO campaign_freegacha VALUES(1,1,0,1,'2020/06/27 5:00:00','2020/07/08 4:59:59',0,0,0);
 INSERT INTO campaign_freegacha VALUES(2,2,0,1,'2020/09/15 5:00:00','2020/09/29 4:59:59',0,0,0);
 INSERT INTO campaign_freegacha VALUES(3,3,0,1,'2021/01/08 5:00:00','2021/01/22 4:59:59',0,0,0);
+INSERT INTO campaign_freegacha VALUES(4,4,0,1,'2021/03/01 5:00:00','2021/03/16 4:59:59',1,0,0);
+INSERT INTO campaign_freegacha VALUES(5,5,0,0,'2021/03/16 5:00:00','2021/04/27 4:59:59',1,4,14);
 COMMIT;

@@ -59,8 +59,8 @@ INSERT INTO gift_message VALUES(9507,'在「{1}」获得的道具。',13,12,0,0)
 INSERT INTO gift_message VALUES(9508,'在「{0}」获得的道具。',13,0,0,0);
 INSERT INTO gift_message VALUES(9509,'解谜获得的道具。',0,0,0,0);
 INSERT INTO gift_message VALUES(9600,'小游戏获得的道具。',0,0,0,0);
-INSERT INTO gift_message VALUES(9700,'「机器莉玛来袭！」获得的排名报酬。',0,0,0,0);
-INSERT INTO gift_message VALUES(9701,'「机器莉玛来袭！」获得的攻击报酬。',0,0,0,0);
+INSERT INTO gift_message VALUES(9700,'「机械莉玛来袭！」获得的排名报酬。',0,0,0,0);
+INSERT INTO gift_message VALUES(9701,'「机械莉玛来袭！」获得的攻击报酬。',0,0,0,0);
 INSERT INTO gift_message VALUES(88888,'购买「{0}」获得的道具',88,0,0,0);
 INSERT INTO gift_message VALUES(88889,'购买玛那获得的体力',0,0,0,0);
 INSERT INTO gift_message VALUES(88890,'购买「女神祭宝库秘钥」获得的道具',0,0,0,0);

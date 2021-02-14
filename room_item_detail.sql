@@ -386,6 +386,8 @@ INSERT INTO room_item_detail VALUES(990313,1,'莉玛监修，并协助制作的�
 INSERT INTO room_item_detail VALUES(990314,1,'印着福牛的地毯，给房间平添了一份节日的气息。',0,0,0,0,0,0,0,0,0,0);
 INSERT INTO room_item_detail VALUES(990315,1,'带有传统印象的新春墙纸。砖石墙面给人以温暖的感觉，通向屋外的阳台也方便大家出门玩雪。再加上墙上的各种挂饰，使得节日氛围更加浓厚。',0,0,0,0,0,0,0,0,0,0);
 INSERT INTO room_item_detail VALUES(990316,1,'一觉醒来，外面的大地已是一片银装素裹。',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO room_item_detail VALUES(990317,1,'采用传统的纸扎手艺制作的兔子灯笼，深受小孩子的喜爱。',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO room_item_detail VALUES(990318,1,'一碗装着各种口味馅料的汤圆。吃汤圆，盼团圆！',0,0,0,0,0,0,0,0,0,0);
 CREATE INDEX 'room_item_detail_0_lvup_trigger_type_1_lvup_trigger_id' on 'room_item_detail'('lvup_trigger_type','lvup_trigger_id');
 CREATE INDEX 'room_item_detail_0_lvup_trigger_type_2_1_lvup_trigger_id_2' on 'room_item_detail'('lvup_trigger_type_2','lvup_trigger_id_2');
 COMMIT;
