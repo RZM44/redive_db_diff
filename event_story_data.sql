@@ -12,5 +12,6 @@ INSERT INTO event_story_data VALUES(5008,5,10008,'暮光破坏者',0,1,'2020/11/
 INSERT INTO event_story_data VALUES(5009,5,10009,'忘却的圣歌',0,1,'2020/12/17 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5010,5,10010,'新春破晓之星大危机！',0,1,'2021/01/14 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5011,5,10011,'情人节之战！正中红心的甜蜜战斗',0,1,'2021/02/11 15:00:00','2099/12/31 23:59:59');
+INSERT INTO event_story_data VALUES(5012,5,10012,'王都的名侦探 叹息的追缉者（STALKER）',0,1,'2021/03/11 15:00:00','2099/12/31 23:59:59');
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
 COMMIT;
