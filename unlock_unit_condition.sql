@@ -50,6 +50,7 @@ INSERT INTO unlock_unit_condition VALUES(105101,'宵滨深月',1,0,1,2,31051,45,
 INSERT INTO unlock_unit_condition VALUES(105201,'莉玛',1,0,1,2,31052,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(105301,'莫妮卡',1,0,1,2,31053,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(105401,'茧宫纺希',1,0,1,2,31054,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(105501,'石桥步美',1,0,1,2,31055,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(105601,'太刀洗流夏',1,0,1,2,31056,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(105701,'姬塔',1,0,1,2,31057,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1);
 INSERT INTO unlock_unit_condition VALUES(105801,'佩可莉姆',1,0,1,2,31058,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);

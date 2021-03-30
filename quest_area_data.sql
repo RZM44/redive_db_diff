@@ -21,7 +21,7 @@ INSERT INTO quest_area_data VALUES(11017,'17.菲德斯冰原',101,'bgm_M141','bg
 INSERT INTO quest_area_data VALUES(11018,'18.小行星原野・北部',102,'bgm_M179','bgm_M179','2020/12/30 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11019,'19.小行星原野・南部',102,'bgm_M179','bgm_M179','2021/02/01 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11020,'20.卡斯塔利亚森林・西部',102,'bgm_M180','bgm_M180','2021/03/01 11:00:00','2099/12/31 23:59:59');
-INSERT INTO quest_area_data VALUES(11021,'21.卡斯塔利亚森林・东部',102,'bgm_M180','bgm_M180','2088/01/01 0:00:00','2099/12/31 23:59:59');
+INSERT INTO quest_area_data VALUES(11021,'21.卡斯塔利亚森林・东部',102,'bgm_M180','bgm_M180','2021/03/30 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12001,'1.朱诺平原',101,'bgm_M61','bgm_M61','2020/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12002,'2.帕拉斯高原',101,'bgm_M61','bgm_M61_02','2020/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12003,'3.赫柏丘陵',101,'bgm_M61','bgm_M61_03','2020/01/01 0:00:00','2099/12/31 23:59:59');
@@ -42,7 +42,7 @@ INSERT INTO quest_area_data VALUES(12017,'17.菲德斯冰原',101,'bgm_M141','bg
 INSERT INTO quest_area_data VALUES(12018,'18.小行星原野・北部',102,'bgm_M179','bgm_M179','2020/12/30 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12019,'19.小行星原野・南部',102,'bgm_M179','bgm_M179','2021/02/01 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12020,'20.卡斯塔利亚森林・西部',102,'bgm_M180','bgm_M180','2021/03/01 11:00:00','2099/12/31 23:59:59');
-INSERT INTO quest_area_data VALUES(12021,'21.卡斯塔利亚森林・东部',102,'bgm_M180','bgm_M180','2088/01/01 0:00:00','2099/12/31 23:59:59');
+INSERT INTO quest_area_data VALUES(12021,'21.卡斯塔利亚森林・东部',102,'bgm_M180','bgm_M180','2021/03/30 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(18001,'圣迹调查关卡',0,'','','2020/09/28 9:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(21001,'玛那关卡',0,'','','2020/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(21002,'经验值关卡',0,'','','2020/01/01 0:00:00','2099/12/31 23:59:59');
