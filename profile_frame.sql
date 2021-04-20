@@ -1,0 +1,15 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'profile_frame' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'type' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO profile_frame VALUES(1,'自动',1,'2020-01-01 0:00:00','',1);
+INSERT INTO profile_frame VALUES(2,'默认',2,'2020-01-01 0:00:00','',2);
+INSERT INTO profile_frame VALUES(3,'周年庆',3,'2020-01-01 0:00:00','',3);
+INSERT INTO profile_frame VALUES(4,'粉色',1,'2020-01-01 0:00:00','',4);
+INSERT INTO profile_frame VALUES(5,'红色',1,'2020-01-01 0:00:00','',5);
+INSERT INTO profile_frame VALUES(6,'黄色',1,'2020-01-01 0:00:00','',6);
+INSERT INTO profile_frame VALUES(7,'绿色',1,'2020-01-01 0:00:00','',7);
+INSERT INTO profile_frame VALUES(8,'浅蓝色',1,'2020-01-01 0:00:00','',8);
+INSERT INTO profile_frame VALUES(9,'蓝色',1,'2020-01-01 0:00:00','',9);
+INSERT INTO profile_frame VALUES(10,'紫色',1,'2020-01-01 0:00:00','',10);
+INSERT INTO profile_frame VALUES(11,'灰色',1,'2020-01-01 0:00:00','',11);
+COMMIT;

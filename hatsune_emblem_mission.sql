@@ -1,4 +1,8 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE IF NOT EXISTS 'hatsune_emblem_mission' ('mission_id' INTEGER NOT NULL, 'disp_group' INTEGER NOT NULL, 'category_icon' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'mission_condition' INTEGER NOT NULL, 'condition_value_1' INTEGER NOT NULL, 'condition_value_2' INTEGER NOT NULL, 'condition_value_3' INTEGER NOT NULL, 'condition_num' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, 'system_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'visible_flag' INTEGER NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, PRIMARY KEY('mission_id'));
+INSERT INTO hatsune_emblem_mission VALUES(99001005,10,601,'打倒1次培提尔其乌斯（NORMAL限定）',9001,610017101,0,0,1,99001005,6006,10017,1,'2021/04/17 9:00:00','2099/12/31 23:59:59');
+INSERT INTO hatsune_emblem_mission VALUES(99001006,11,601,'打倒1次培提尔其乌斯（HARD限定）',9001,610017201,0,0,1,99001006,6007,10017,1,'2021/04/17 9:00:00','2099/12/31 23:59:59');
+INSERT INTO hatsune_emblem_mission VALUES(99001007,12,601,'打倒1次培提尔其乌斯（VERY HARD限定）',9001,610017301,0,0,1,99001007,6010,10017,1,'2021/04/17 9:00:00','2099/12/31 23:59:59');
+INSERT INTO hatsune_emblem_mission VALUES(99001008,13,601,'打倒1次培提尔其乌斯（SPECIAL限定）',9001,610017401,0,0,1,99001008,6011,10017,1,'2021/04/17 9:00:00','2099/12/31 23:59:59');
 COMMIT;

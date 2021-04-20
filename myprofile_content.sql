@@ -1,0 +1,12 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'myprofile_content' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'start_time' TEXT NOT NULL, 'end_time' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO myprofile_content VALUES(1,'粉色','2020-01-01 0:00:00','',12);
+INSERT INTO myprofile_content VALUES(2,'红色','2020-01-01 0:00:00','',13);
+INSERT INTO myprofile_content VALUES(3,'黄色','2020-01-01 0:00:00','',14);
+INSERT INTO myprofile_content VALUES(4,'绿色','2020-01-01 0:00:00','',15);
+INSERT INTO myprofile_content VALUES(5,'浅蓝色','2020-01-01 0:00:00','',16);
+INSERT INTO myprofile_content VALUES(6,'蓝色','2020-01-01 0:00:00','',17);
+INSERT INTO myprofile_content VALUES(7,'紫色','2020-01-01 0:00:00','',18);
+INSERT INTO myprofile_content VALUES(8,'灰色','2020-01-01 0:00:00','',19);
+COMMIT;

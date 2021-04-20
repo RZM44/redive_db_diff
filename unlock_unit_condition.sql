@@ -14,7 +14,7 @@ INSERT INTO unlock_unit_condition VALUES(101001,'姫宫真步',1,0,1,2,31010,145
 INSERT INTO unlock_unit_condition VALUES(101101,'衣之咲璃乃',1,0,1,2,31011,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1);
 INSERT INTO unlock_unit_condition VALUES(101201,'柏崎初音',1,0,1,2,31012,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3);
 INSERT INTO unlock_unit_condition VALUES(101301,'丹野七七香',1,0,1,2,31013,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3);
-INSERT INTO unlock_unit_condition VALUES(101401,'雾原香澄',1,0,1,2,31014,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3);
+INSERT INTO unlock_unit_condition VALUES(101401,'雾原香澄',1,0,1,2,31014,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(101501,'爱川美里',1,0,1,2,31015,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(101601,'美波铃奈',1,0,1,2,31016,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(101701,'喜屋武香织',1,0,1,2,31017,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
@@ -76,6 +76,8 @@ INSERT INTO unlock_unit_condition VALUES(108801,'优衣（新年）',1,0,1,2,310
 INSERT INTO unlock_unit_condition VALUES(108901,'怜（新年）',1,0,1,2,31089,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(109001,'惠理子（情人节）',1,0,1,2,31090,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(109101,'静流（情人节）',1,0,1,2,31091,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(109701,'雷姆',1,0,1,2,31097,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(109801,'拉姆',1,0,1,2,31098,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(170101,'环奈',1,0,1,2,31701,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(170201,'环奈（振袖）',1,0,1,2,31702,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 COMMIT;

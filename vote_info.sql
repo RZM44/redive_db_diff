@@ -1,7 +1,7 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE IF NOT EXISTS 'vote_info' ('vote_id' INTEGER NOT NULL, 'vote_help_index' INTEGER NOT NULL, 'vote_title' TEXT NOT NULL, 'vote_help' TEXT NOT NULL, PRIMARY KEY('vote_id','vote_help_index'));
-INSERT INTO vote_info VALUES(1,1,'投票对象角色','可以为除开限定版本以外的所有角色投票。\n※限定版本的角色即带有夏日、万圣节、圣诞节、新年、情人节字样的角色。');
-INSERT INTO vote_info VALUES(1,2,'投票对象角色','可以为除开限定版本以外的所有角色投票。\n※限定版本的角色即带有夏日、万圣节、圣诞节、新年、情人节字样的角色。');
-INSERT INTO vote_info VALUES(1,3,'投票对象角色','可以为除开限定版本以外的所有角色投票。\n※限定版本的角色即带有夏日、万圣节、圣诞节、新年、情人节字样的角色。');
+INSERT INTO vote_info VALUES(1,1,'投票対象キャラ','限定バージョンのキャラを除くすべてのキャラに投票できます。\n※限定バージョンのキャラは、サマー、ハロウィン、クリスマス、ニューイヤー、バレンタインが名前につくキャラです。');
+INSERT INTO vote_info VALUES(1,2,'投票方法','下記の手順で投票できます。\n1. 投票したいキャラをタップします。\n2. ［投票する］をタップします。\n3. ［OK］をタップします。\n※投票した内容をTwitterでツイートするかを選択できます。\n※Twitterでツイートせずに投票することもできます。');
+INSERT INTO vote_info VALUES(1,3,'投票数について','投票数上位のキャラの提供割合がアップするピックアップガチャを後日開催予定です。\n※ペコリーヌ、コッコロ、キャル、ユイ、クリスティーナはピックアップガチャに含まれません。');
 COMMIT;

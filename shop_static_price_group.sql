@@ -6,4 +6,5 @@ INSERT INTO shop_static_price_group VALUES(2,1,21,40,2);
 INSERT INTO shop_static_price_group VALUES(3,1,41,60,3);
 INSERT INTO shop_static_price_group VALUES(4,1,61,80,4);
 INSERT INTO shop_static_price_group VALUES(5,1,81,-1,5);
+INSERT INTO shop_static_price_group VALUES(6,2,1,-1,20);
 COMMIT;

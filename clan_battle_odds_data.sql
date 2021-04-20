@@ -13,5 +13,15 @@ INSERT INTO clan_battle_odds_data VALUES(3100103,60,-1,'31001_05','31001_05','31
 INSERT INTO clan_battle_odds_data VALUES(3100104,1,29,'31001_01','31001_01','31001_01','31001_01','','','','','','');
 INSERT INTO clan_battle_odds_data VALUES(3100104,30,59,'31001_03','31001_03','31001_03','31001_03','','','','','','');
 INSERT INTO clan_battle_odds_data VALUES(3100104,60,-1,'31001_05','31001_05','31001_05','31001_05','','','','','','');
+INSERT INTO clan_battle_odds_data VALUES(3100201,1,29,'61003_01','61003_02','','','','','','','','');
+INSERT INTO clan_battle_odds_data VALUES(3100201,30,49,'61003_03','61003_04','','','','','','','','');
+INSERT INTO clan_battle_odds_data VALUES(3100201,50,79,'61003_05','61003_06','','','','','','','','');
+INSERT INTO clan_battle_odds_data VALUES(3100201,80,99,'61003_07','61003_08','','','','','','','','');
+INSERT INTO clan_battle_odds_data VALUES(3100201,100,109,'61003_09','61003_10','','','','','','','','');
+INSERT INTO clan_battle_odds_data VALUES(3100201,110,119,'61003_11','61003_12','','','','','','','','');
+INSERT INTO clan_battle_odds_data VALUES(3100201,120,129,'61003_13','61003_14','','','','','','','','');
+INSERT INTO clan_battle_odds_data VALUES(3100201,130,139,'61003_15','61003_16','','','','','','','','');
+INSERT INTO clan_battle_odds_data VALUES(3100201,140,149,'61003_17','61003_18','','','','','','','','');
+INSERT INTO clan_battle_odds_data VALUES(3100201,150,-1,'61003_19','61003_20','','','','','','','','');
 CREATE INDEX 'clan_battle_odds_data_0_odds_group_id' on 'clan_battle_odds_data'('odds_group_id');
 COMMIT;

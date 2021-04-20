@@ -28,10 +28,8 @@ INSERT INTO hatsune_quest_area VALUES(10011102,10011,'厨房竞技场',201,'bgm_
 INSERT INTO hatsune_quest_area VALUES(10011201,10011,'厨房竞技场',201,'bgm_M189','bgm_M189','2021/02/14 11:00:00','2021/02/28 23:59:59',1,1,0,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10012101,10012,'王都兰德索尔',201,'bgm_M206','bgm_M206','2021/03/15 11:00:00','2021/03/29 23:59:59',1,1,115,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10012201,10012,'王都兰德索尔',201,'bgm_M206','bgm_M206','2021/03/15 11:00:00','2021/03/29 23:59:59',1,1,0,0,0,'0','0',0);
-INSERT INTO hatsune_quest_area VALUES(10013101,10013,'加斯特罗斯山',201,'bgm_M215','bgm_M215','2088/01/01 0:00:00','2099/12/31 23:59:59',1,1,110,0,0,'0','0',0);
-INSERT INTO hatsune_quest_area VALUES(10013102,10013,'光之裂缝',201,'bgm_M215','bgm_M215','2088/01/01 0:00:00','2099/12/31 23:59:59',1,2,0,0,1,'202','208',11);
-INSERT INTO hatsune_quest_area VALUES(10013201,10013,'光之裂缝',201,'bgm_M215','bgm_M215','2088/01/01 0:00:00','2099/12/31 23:59:59',1,1,0,0,0,'0','0',0);
-INSERT INTO hatsune_quest_area VALUES(10014101,10014,'塔尔古姆地区',201,'bgm_M32','bgm_M32','2088/01/01 0:00:00','2099/12/31 23:59:59',1,1,0,0,0,'0','0',0);
-INSERT INTO hatsune_quest_area VALUES(10014201,10014,'塔尔古姆地区',201,'bgm_M32','bgm_M32','2088/01/01 0:00:00','2099/12/31 23:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10017101,10017,'兰德索尔近郊',201,'bgm_M228','bgm_M228','2021/04/17 9:00:00','2021/05/01 23:59:59',1,1,70,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10017102,10017,'郊外的村子',201,'bgm_M228','bgm_M228','2021/04/17 9:00:00','2021/05/01 23:59:59',1,2,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10017201,10017,'郊外的村子',201,'bgm_M228','bgm_M228','2021/04/17 9:00:00','2021/05/01 23:59:59',1,1,0,0,0,'0','0',0);
 CREATE INDEX 'hatsune_quest_area_0_event_id' on 'hatsune_quest_area'('event_id');
 COMMIT;

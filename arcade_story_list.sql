@@ -1,0 +1,12 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'arcade_story_list' ('story_id' INTEGER NOT NULL, 'arcade_id' INTEGER NOT NULL, 'sub_title' TEXT NOT NULL, PRIMARY KEY('story_id'));
+INSERT INTO arcade_story_list VALUES(5021700,1003,'和香织在海边大特训！');
+INSERT INTO arcade_story_list VALUES(5021701,1003,'以礼而始以礼而终');
+INSERT INTO arcade_story_list VALUES(5021710,1003,'挑战自己的极限');
+INSERT INTO arcade_story_list VALUES(5021711,1003,'真的才是最好的');
+INSERT INTO arcade_story_list VALUES(5027700,1004,'再次前往厄尔庇斯岛！');
+INSERT INTO arcade_story_list VALUES(5027701,1004,'过于热血的战斗');
+INSERT INTO arcade_story_list VALUES(5027702,1004,'压轴登场');
+INSERT INTO arcade_story_list VALUES(5027703,1004,'战斗的结局……');
+COMMIT;
