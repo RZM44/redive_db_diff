@@ -6,4 +6,5 @@ INSERT INTO tower_story_data VALUES(7002,7,2,'姐妹的羁绊与愿望之塔',0,
 INSERT INTO tower_story_data VALUES(7003,7,3,'星星们的二重奏',0,1,'2020/12/07 12:00:00','2099/12/31 23:59:59');
 INSERT INTO tower_story_data VALUES(7004,7,4,'妹妹·约定',0,1,'2021/02/01 11:00:00','2099/12/31 23:59:59');
 INSERT INTO tower_story_data VALUES(7005,7,5,'傲娇鬼屋',0,1,'2021/03/29 12:00:00','2099/12/31 23:59:59');
+INSERT INTO tower_story_data VALUES(7006,7,6,'两人的骄傲与羁绊同在',0,1,'2021/05/28 9:00:00','2099/12/31 23:59:59');
 COMMIT;
