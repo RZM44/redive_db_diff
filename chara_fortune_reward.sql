@@ -13,4 +13,8 @@ INSERT INTO chara_fortune_reward VALUES(9,18002,1,8,91002,500,0,0,0,0,0,0,0,0,0,
 INSERT INTO chara_fortune_reward VALUES(10,18002,2,8,91002,400,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO chara_fortune_reward VALUES(11,18002,3,8,91002,300,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO chara_fortune_reward VALUES(12,18002,4,8,91002,250,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO chara_fortune_reward VALUES(13,18003,1,8,91002,500,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO chara_fortune_reward VALUES(14,18003,2,8,91002,400,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO chara_fortune_reward VALUES(15,18003,3,8,91002,300,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO chara_fortune_reward VALUES(16,18003,4,8,91002,250,0,0,0,0,0,0,0,0,0,0,0,0);
 COMMIT;

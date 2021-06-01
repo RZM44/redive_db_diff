@@ -78,6 +78,7 @@ INSERT INTO unlock_unit_condition VALUES(109001,'惠理子（情人节）',1,0,1
 INSERT INTO unlock_unit_condition VALUES(109101,'静流（情人节）',1,0,1,2,31091,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(109201,'安',1,0,1,2,31092,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(109301,'露',1,0,1,2,31093,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(109401,'古蕾雅',1,0,1,2,31094,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(109701,'雷姆',1,0,1,2,31097,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(109801,'拉姆',1,0,1,2,31098,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(109901,'爱蜜莉雅',1,0,1,2,31099,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
