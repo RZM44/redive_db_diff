@@ -5,7 +5,7 @@ INSERT INTO fke_happening_list VALUES(1,'梦魇牡羊');
 INSERT INTO fke_happening_list VALUES(2,'香蕉皮跳跃');
 INSERT INTO fke_happening_list VALUES(3,'香蕉皮滑行');
 INSERT INTO fke_happening_list VALUES(4,'步美的团扇');
-INSERT INTO fke_happening_list VALUES(5,'恶霸官爷雕像');
+INSERT INTO fke_happening_list VALUES(5,'恶霸地方官雕像');
 INSERT INTO fke_happening_list VALUES(6,'间歇泉');
 INSERT INTO fke_happening_list VALUES(7,'龙卷风');
 INSERT INTO fke_happening_list VALUES(8,'逆风');

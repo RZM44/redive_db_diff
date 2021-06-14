@@ -37,6 +37,11 @@ INSERT INTO room_item_detail VALUES(990315,1,'带有传统印象的新春墙纸�
 INSERT INTO room_item_detail VALUES(990316,1,'一觉醒来，外面的大地已是一片银装素裹。',0,0,0,0,0,0,0,0,0,0);
 INSERT INTO room_item_detail VALUES(990317,1,'采用传统的纸扎手艺制作的兔子灯笼，深受小孩子的喜爱。',0,0,0,0,0,0,0,0,0,0);
 INSERT INTO room_item_detail VALUES(990318,1,'一碗装着各种口味馅料的汤圆。吃汤圆，盼团圆！',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO room_item_detail VALUES(990319,1,'选用甜香糯米制成的白粽，令人忍不住咬上一口！',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO room_item_detail VALUES(990320,1,'选用高级魔物肉，以及酱香糯米制成的鲜肉粽，美味又富有营养！',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO room_item_detail VALUES(990321,1,'小电视变身为气球，与其他五彩气球一起为小屋添加节日氛围。',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO room_item_detail VALUES(990322,1,'以小电视为原型制作的地毯。',0,0,0,0,0,0,0,0,0,0);
+INSERT INTO room_item_detail VALUES(990323,1,'远离城市的宁静小镇。',0,0,0,0,0,0,0,0,0,0);
 INSERT INTO room_item_detail VALUES(1,1,'公会之家管理员花凛的办公桌。她在这里处理会馆内的诸多事务。扫荡券也是在这里发行。',101,0,10,0,0,0,1,0,1000,5);
 INSERT INTO room_item_detail VALUES(1,2,'公会之家管理员花凛的办公桌。她在这里处理会馆内的诸多事务。扫荡券也是在这里发行。',101,0,20,0,0,0,1,0,2000,30);
 INSERT INTO room_item_detail VALUES(1,3,'公会之家管理员花凛的办公桌。她在这里处理会馆内的诸多事务。扫荡券也是在这里发行。',101,0,30,0,0,0,1,0,3000,60);

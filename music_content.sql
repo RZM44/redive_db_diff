@@ -68,10 +68,10 @@ INSERT INTO music_content VALUES(64,'トルペドン','01:00','00:00','Clan Batt
 INSERT INTO music_content VALUES(65,'王都の名探偵　嘆きの追跡者（ストーカー）','00:39','00:00','Story Event Theme Song\n-｢未解決な想い｣Arrange-\n\n時間 / 00:39\n作曲 / 出口遼\n編曲 / 庄司真吾（Cygames）','bgm_M206','bgm_M206_juke');
 INSERT INTO music_content VALUES(66,'嘆きの女神','02:09','00:00','Story Event Boss Battle Music\n\n時間 / 02:09\n作曲 / 千葉梓（Cygames）\n編曲 / 千葉梓（Cygames）','bgm_M209','bgm_M209_juke');
 INSERT INTO music_content VALUES(67,'未解決な想い','01:22','00:38','Character Song\n\n時間 / 01:22\n歌　 / Makoto（小松未可子）\n　　　Kasumi（水瀬いのり）\n作詞 / 出口遼\n作曲 / 出口遼\n編曲 / 飯田涼太','bgm_M222','bgm_M222');
-INSERT INTO music_content VALUES(68,'ロボリマ来襲！王都滅亡までのカウントダウン','01:27','00:00','エイプリルフールイベント\n\n時間 / 01:27\n作曲 / 東大路憲太\n編曲 / 東大路憲太','bgm_M219','bgm_M219_juke');
+INSERT INTO music_content VALUES(68,'ロボリマ来襲！王都滅亡までのカウントダウン','01:27','00:00','エイプリルフールイベント\n\n時間 / 01:27\n作曲 / 東大路憲太\n編曲 / 東大路憲太','bgm_M219','bgm_M219');
 INSERT INTO music_content VALUES(69,'ロボリマ','01:38','00:00','エイプリルフールイベント\n\n時間 / 01:38\n作曲 / 東大路憲太\n編曲 / 東大路憲太','bgm_M220','bgm_M220_juke');
-INSERT INTO music_content VALUES(70,'ロボリマ~終焉~','01:12','00:00','エイプリルフールイベント\n\n時間 / 01:12\n作曲 / 東大路憲太\n編曲 / 東大路憲太','bgm_M221','bgm_M221_juke');
-INSERT INTO music_content VALUES(71,'アストルムに咲く双輪の華','00:55','00:00','ストーリーイベントテーマ\n-｢Crossing Destiny｣アレンジ-\n\n時間 / 00:55\n作曲 / 宮崎誠\n編曲 / 中村早織（Cygames）','bgm_M215','bgm_M215_juke');
+INSERT INTO music_content VALUES(70,'ロボリマ~終焉~','01:12','00:00','エイプリルフールイベント\n\n時間 / 01:12\n作曲 / 東大路憲太\n編曲 / 東大路憲太','bgm_M221','bgm_M221');
+INSERT INTO music_content VALUES(71,'アストルムに咲く双輪の華','00:55','00:00','ストーリーイベントテーマ\n-｢Crossing Destiny｣アレンジ-\n\n時間 / 00:55\n作曲 / 宮崎誠\n編曲 / 中村早織（Cygames）','bgm_M215','bgm_M215');
 INSERT INTO music_content VALUES(72,'コア・ギガース','01:45','00:00','ストーリーイベントボスバトル\n\n時間 / 01:45\n作曲 / 中村博\n編曲 / 中村博','bgm_M218','bgm_M218_juke');
 INSERT INTO music_content VALUES(73,'Crossing Destiny','01:30','00:54','キャラクターソング\n\n時間 / 01:30\n歌　 / アン（日笠陽子）\n　　　グレア（福原綾香）\n作詞 / 宮崎誠\n作曲 / 宮崎誠\n編曲 / 宮崎誠','bgm_M235','bgm_M235');
 INSERT INTO music_content VALUES(74,'岩峰に潜むもの','00:55','00:00','メインクエスト\n\n時間 / 00:55\n作曲 / 西村真吾\n編曲 / 西村真吾','bgm_M232','bgm_M232_juke');
@@ -85,8 +85,8 @@ INSERT INTO music_content VALUES(81,'鼓の音響く森','1:08','00:00','メイ�
 INSERT INTO music_content VALUES(82,'スズナレインボーステージ！','0:52','00:00','ストーリーイベントテーマ\n-｢背伸びFirst Kiss｣アレンジ-\n\n時間 / 00:52\n作曲 / 設楽哲也\n編曲 / 庄司真吾（Cygames）','bgm_M237','bgm_M237_juke');
 INSERT INTO music_content VALUES(83,'雨神様','2:47','00:00','ストーリーイベントボスバトル\n\n時間 / 02:47\n作曲 / 澤下葵\n編曲 / 東大路憲太','bgm_M240','bgm_M240_juke');
 INSERT INTO music_content VALUES(84,'背伸びFirst Kiss','1:19','00:45','キャラクターソング\n\n時間 / 01:19\n歌　 / イオ（伊藤静）\n　　　スズナ（上坂すみれ）\n　　　ミサキ（久野美咲）\n作詞 / 野村イクミ&滝沢和也（Cygames）\n作曲 / 設楽哲也\n編曲 / 設楽哲也','bgm_M252','bgm_M252');
-INSERT INTO music_content VALUES(85,'お兄ちゃん争奪！　シズルのお手伝い','00:31','00:00','ミニゲーム\n-｢SUPER CHOCOLATE｣アレンジ-\n\n時間 / 00:31\n作曲 / 山崎真吾\n編曲 / 中村早織（Cygames）','bgm_M199','bgm_M199_juke');
-INSERT INTO music_content VALUES(86,'お兄ちゃん争奪！　エリコのお手伝い','00:34','00:00','ミニゲーム\n-｢SUPER CHOCOLATE｣アレンジ-\n\n時間 / 00:34\n作曲 / 山崎真吾\n編曲 / 庄司真吾（Cygames）','bgm_M198','bgm_M198_juke');
+INSERT INTO music_content VALUES(85,'お兄ちゃん争奪！　シズルのお手伝い','00:31','00:00','ミニゲーム\n-｢SUPER CHOCOLATE｣アレンジ-\n\n時間 / 00:31\n作曲 / 山崎真吾\n編曲 / 中村早織（Cygames）','bgm_M199','bgm_M199');
+INSERT INTO music_content VALUES(86,'お兄ちゃん争奪！　エリコのお手伝い','00:34','00:00','ミニゲーム\n-｢SUPER CHOCOLATE｣アレンジ-\n\n時間 / 00:34\n作曲 / 山崎真吾\n編曲 / 庄司真吾（Cygames）','bgm_M198','bgm_M198');
 INSERT INTO music_content VALUES(87,'真夏のマホマホ王国　波打ち際のソウルサマー！','00:57','00:00','ストーリーイベントテーマ\n-｢We Are Golden｣アレンジ-\n\n時間 / 00:57\n作曲 / TAKU INOUE\n編曲 / 伊禮完（Cygames）','bgm_M245','bgm_M245_juke');
 INSERT INTO music_content VALUES(88,'マジムン','02:03','00:00','ストーリーイベントボスバトル\n\n時間 / 02:03\n作曲 / 東大路憲太\n編曲 / 東大路憲太','bgm_M248','bgm_M248_juke');
 INSERT INTO music_content VALUES(89,'We Are Golden','01:18','00:44','キャラクターソング\n\n時間 / 01:18\n歌　 / マホ（内田真礼）\n　　　マコト（小松未可子）\n　　　カオリ（高森奈津美）\n作詞 / MCTC\n作曲 / TAKU INOUE\n編曲 / TAKU INOUE','bgm_M263','bgm_M263');
