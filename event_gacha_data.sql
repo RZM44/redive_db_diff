@@ -17,5 +17,7 @@ INSERT INTO event_gacha_data VALUES(10014,10014,'复刻初音的礼物大作战'
 INSERT INTO event_gacha_data VALUES(10015,10015,'将军道中记　白翼的武士',2,60142,1,5);
 INSERT INTO event_gacha_data VALUES(10016,10016,'复刻小小甜心冒险家',2,60152,1,5);
 INSERT INTO event_gacha_data VALUES(10017,10017,'Re: 从零开始收集的异世界餐桌',2,60162,1,5);
+INSERT INTO event_gacha_data VALUES(10018,10018,'复刻吸血鬼猎人with伊莉亚',2,60172,1,5);
+INSERT INTO event_gacha_data VALUES(10019,10019,'铃奈的彩虹舞台！',2,60182,1,5);
 INSERT INTO event_gacha_data VALUES(19003,10003,'吸血鬼猎人with伊莉亚讨伐证交换',2,60022,1,5);
 COMMIT;
