@@ -16,4 +16,7 @@ INSERT INTO clanprofile_content VALUES(12,'墨丘利财团','2020-01-01 0:00:00'
 INSERT INTO clanprofile_content VALUES(13,'暮光流星群','2020-01-01 0:00:00','',24);
 INSERT INTO clanprofile_content VALUES(14,'月光学院','2020-01-01 0:00:00','',25);
 INSERT INTO clanprofile_content VALUES(15,'纯白之翼　兰德索尔分部','2020-01-01 0:00:00','',26);
+INSERT INTO clanprofile_content VALUES(16,'夏日沙滩的朝阳','2019-06-30 12:00:00','',9);
+INSERT INTO clanprofile_content VALUES(17,'夏日沙滩的夕阳','2019-06-30 12:00:00','',10);
+INSERT INTO clanprofile_content VALUES(18,'夏日沙滩的星空','2019-06-30 12:00:00','',11);
 COMMIT;

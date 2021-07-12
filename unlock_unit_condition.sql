@@ -84,6 +84,8 @@ INSERT INTO unlock_unit_condition VALUES(109601,'妮侬（大江户）',1,0,1,2,
 INSERT INTO unlock_unit_condition VALUES(109701,'雷姆',1,0,1,2,31097,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(109801,'拉姆',1,0,1,2,31098,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(109901,'爱蜜莉雅',1,0,1,2,31099,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(110001,'铃奈（夏日）',1,0,1,2,31100,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(110101,'伊绪（夏日）',1,0,1,2,31101,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(170101,'环奈',1,0,1,2,31701,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(170201,'环奈（振袖）',1,0,1,2,31702,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 COMMIT;

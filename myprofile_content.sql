@@ -9,4 +9,7 @@ INSERT INTO myprofile_content VALUES(5,'浅蓝色','2020-01-01 0:00:00','',16);
 INSERT INTO myprofile_content VALUES(6,'蓝色','2020-01-01 0:00:00','',17);
 INSERT INTO myprofile_content VALUES(7,'紫色','2020-01-01 0:00:00','',18);
 INSERT INTO myprofile_content VALUES(8,'灰色','2020-01-01 0:00:00','',19);
+INSERT INTO myprofile_content VALUES(9,'夏日沙滩的朝阳','2019-06-30 12:00:00','',9);
+INSERT INTO myprofile_content VALUES(10,'夏日沙滩的夕阳','2019-06-30 12:00:00','',10);
+INSERT INTO myprofile_content VALUES(11,'夏日沙滩的星空','2019-06-30 12:00:00','',11);
 COMMIT;

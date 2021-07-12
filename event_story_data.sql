@@ -4,7 +4,7 @@ CREATE TABLE IF NOT EXISTS 'event_story_data' ('story_group_id' INTEGER NOT NULL
 INSERT INTO event_story_data VALUES(5001,5,10014,'初音的礼物大作战',0,1,'2020/05/11 13:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5002,5,10016,'小小甜心冒险家',0,1,'2020/06/03 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5003,5,10018,'吸血鬼猎人with伊莉亚',0,1,'2020/07/02 15:00:00','2099/12/31 23:59:59');
-INSERT INTO event_story_data VALUES(5004,5,10004,'危险假日！！ 海边的美食家公主',0,1,'2020/07/30 15:00:00','2099/12/31 23:59:59');
+INSERT INTO event_story_data VALUES(5004,5,10020,'危险假日！！ 海边的美食家公主',0,1,'2020/07/30 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5005,5,10005,'珠希和美冬的无人岛0金币生活',0,1,'2020/08/27 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5006,5,10006,'黑铁的亡灵（梦魇）',0,1,'2020/09/24 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5007,5,10007,'不给布丁就捣蛋！约定的万圣节派对',0,1,'2020/10/22 15:00:00','2099/12/31 23:59:59');
@@ -16,6 +16,6 @@ INSERT INTO event_story_data VALUES(5012,5,10012,'王都的名侦探　叹息的
 INSERT INTO event_story_data VALUES(5013,5,10013,'盛开在阿斯特莱亚的双轮之花',0,1,'2021/05/13 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5015,5,10015,'将军道中记　白翼的武士',0,1,'2021/06/07 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5017,5,10017,'Re: 从零开始收集的异世界餐桌',0,1,'2021/04/14 15:00:00','2099/12/31 23:59:59');
-INSERT INTO event_story_data VALUES(5019,5,10019,'铃奈的彩虹舞台！',0,1,'2021/07/09 15:00:00','2030/04/24 14:59:59');
+INSERT INTO event_story_data VALUES(5019,5,10019,'铃奈的RAINBOW STAGE！',0,1,'2021/07/09 15:00:00','2030/04/24 14:59:59');
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
 COMMIT;
