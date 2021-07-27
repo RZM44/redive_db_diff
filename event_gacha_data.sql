@@ -20,5 +20,6 @@ INSERT INTO event_gacha_data VALUES(10017,10017,'Re: 从零开始收集的异世
 INSERT INTO event_gacha_data VALUES(10018,10018,'复刻吸血鬼猎人with伊莉亚',2,60172,1,5);
 INSERT INTO event_gacha_data VALUES(10019,10019,'铃奈的RAINBOW STAGE！',2,60182,1,5);
 INSERT INTO event_gacha_data VALUES(10020,10020,'复刻危险假日！海边的美食家公主',2,60192,1,5);
+INSERT INTO event_gacha_data VALUES(10021,10021,'盛夏的真步真步王国 海滩上的灵魂之夏！',2,60202,1,5);
 INSERT INTO event_gacha_data VALUES(19003,10003,'吸血鬼猎人with伊莉亚讨伐证交换',2,60022,1,5);
 COMMIT;

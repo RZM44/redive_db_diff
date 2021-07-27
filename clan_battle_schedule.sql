@@ -17,4 +17,5 @@ INSERT INTO clan_battle_schedule VALUES(1013,4,1012,1,1,2,'bgm_M90',1,'2021/04/1
 INSERT INTO clan_battle_schedule VALUES(1014,5,1013,1,1,2,'bgm_M97',2,'2021/05/09 5:00:00','2021/06/08 4:59:59');
 INSERT INTO clan_battle_schedule VALUES(1015,6,1014,1,1,2,'bgm_M104',1,'2021/6/08 5:00:00','2021/07/06 4:59:59');
 INSERT INTO clan_battle_schedule VALUES(1016,7,1015,1,1,2,'bgm_M115',2,'2021/07/06 5:00:00','2021/08/03 4:59:59');
+INSERT INTO clan_battle_schedule VALUES(1017,8,1016,1,1,2,'bgm_M119',1,'2021/08/03 5:00:00','2021/08/31 4:59:59');
 COMMIT;

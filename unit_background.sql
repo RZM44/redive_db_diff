@@ -91,7 +91,7 @@ INSERT INTO unit_background VALUES(109801,'拉姆',500175,'神秘森林',0.0,12)
 INSERT INTO unit_background VALUES(109901,'爱蜜莉雅',500175,'神秘森林',0.0,2);
 INSERT INTO unit_background VALUES(110001,'铃奈（夏日）',500683,'海_舞台',0.0,4);
 INSERT INTO unit_background VALUES(110101,'伊绪（夏日）',500683,'海_舞台',0.0,2);
-INSERT INTO unit_background VALUES(110301,'咲恋（夏日）',500164,'马尔简海岸',0.0,2);
+INSERT INTO unit_background VALUES(110301,'咲恋（夏日）',500164,'马尔冈海岸',0.0,2);
 INSERT INTO unit_background VALUES(110401,'真琴（夏日）',500710,'琉球风海岸',0.0,6);
 INSERT INTO unit_background VALUES(110501,'香织（夏日）',500710,'琉球风海岸',0.0,4);
 INSERT INTO unit_background VALUES(110601,'真步（夏日）',500710,'琉球风海岸',0.0,4);

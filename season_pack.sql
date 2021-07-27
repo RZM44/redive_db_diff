@@ -4,6 +4,8 @@ CREATE TABLE IF NOT EXISTS 'season_pack' ('id' INTEGER NOT NULL, 'mission_id' IN
 INSERT INTO season_pack VALUES(9,17001001,1,403,'每日宝石礼包·第{1}天道具包','每日宝石礼包·未收取的宝石',0,30,3,0,104,0,1,0,2000);
 INSERT INTO season_pack VALUES(15,0,0,0,'','',0,7,3,1,103,3,0,1,0);
 INSERT INTO season_pack VALUES(18,0,0,0,'','',0,30,3,1,103,3,0,1,0);
+INSERT INTO season_pack VALUES(50,17001101,0,403,'特惠宝石月卡·第{1}天道具包','特惠宝石月卡·未收取的宝石',0,30,3,0,0,0,10,0,0);
+INSERT INTO season_pack VALUES(51,17001102,0,405,'体力礼包中的第{1}天的道具包','',0,30,3,0,0,0,11,0,0);
 INSERT INTO season_pack VALUES(10019,17001002,2,405,'7天体力支援礼包中的第{1}天的道具包','',9402,7,0,0,103,1,2,0,0);
 INSERT INTO season_pack VALUES(10020,0,2,0,'','',9403,0,0,0,0,0,3,0,0);
 INSERT INTO season_pack VALUES(10021,0,4,0,'','',9404,0,0,0,0,0,4,0,0);
