@@ -63,4 +63,7 @@ INSERT INTO gacha_exchange_lineup VALUES(59,41,110001,3,0);
 INSERT INTO gacha_exchange_lineup VALUES(60,42,107501,3,0);
 INSERT INTO gacha_exchange_lineup VALUES(61,42,107801,3,0);
 INSERT INTO gacha_exchange_lineup VALUES(62,43,110301,3,0);
+INSERT INTO gacha_exchange_lineup VALUES(63,44,110401,3,0);
+INSERT INTO gacha_exchange_lineup VALUES(64,45,107701,3,0);
+INSERT INTO gacha_exchange_lineup VALUES(65,45,107901,3,0);
 COMMIT;

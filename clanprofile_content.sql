@@ -19,4 +19,6 @@ INSERT INTO clanprofile_content VALUES(15,'纯白之翼　兰德索尔分部','2
 INSERT INTO clanprofile_content VALUES(16,'夏日沙滩的朝阳','2019-06-30 12:00:00','',9);
 INSERT INTO clanprofile_content VALUES(17,'夏日沙滩的夕阳','2019-06-30 12:00:00','',10);
 INSERT INTO clanprofile_content VALUES(18,'夏日沙滩的星空','2019-06-30 12:00:00','',11);
+INSERT INTO clanprofile_content VALUES(19,'海底背景','2021-08-19 11:00:00','',8);
+INSERT INTO clanprofile_content VALUES(20,'？？？','2021-08-19 11:00:00','',29);
 COMMIT;

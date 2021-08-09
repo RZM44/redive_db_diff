@@ -12,4 +12,5 @@ INSERT INTO myprofile_content VALUES(8,'灰色','2020-01-01 0:00:00','',19);
 INSERT INTO myprofile_content VALUES(9,'夏日沙滩的朝阳','2019-06-30 12:00:00','',9);
 INSERT INTO myprofile_content VALUES(10,'夏日沙滩的夕阳','2019-06-30 12:00:00','',10);
 INSERT INTO myprofile_content VALUES(11,'夏日沙滩的星空','2019-06-30 12:00:00','',11);
+INSERT INTO myprofile_content VALUES(12,'海底背景','2021-08-19 11:00:00','',8);
 COMMIT;

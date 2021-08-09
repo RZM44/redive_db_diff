@@ -15,4 +15,8 @@ INSERT INTO campaign_freegacha_data VALUES(11,5,50027);
 INSERT INTO campaign_freegacha_data VALUES(12,5,30028);
 INSERT INTO campaign_freegacha_data VALUES(13,5,30029);
 INSERT INTO campaign_freegacha_data VALUES(14,5,30030);
+INSERT INTO campaign_freegacha_data VALUES(15,6,30044);
+INSERT INTO campaign_freegacha_data VALUES(16,6,40002);
+INSERT INTO campaign_freegacha_data VALUES(17,6,30046);
+INSERT INTO campaign_freegacha_data VALUES(18,6,50047);
 COMMIT;
