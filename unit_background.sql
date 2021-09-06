@@ -96,9 +96,9 @@ INSERT INTO unit_background VALUES(110401,'真琴（夏日）',500710,'琉球风
 INSERT INTO unit_background VALUES(110501,'香织（夏日）',500710,'琉球风海岸',0.0,4);
 INSERT INTO unit_background VALUES(110601,'真步（夏日）',500710,'琉球风海岸',0.0,4);
 INSERT INTO unit_background VALUES(110701,'碧（插班生）',500730,'圣特蕾莎女子学院_正门',0.0,2);
-INSERT INTO unit_background VALUES(110801,'克萝依',500730,'圣特蕾莎女子学院_正门',0.0,2);
+INSERT INTO unit_background VALUES(110801,'克罗依',500730,'圣特蕾莎女子学院_正门',0.0,2);
 INSERT INTO unit_background VALUES(110901,'千爱瑠',500730,'圣特蕾莎女子学院_正门',0.0,2);
-INSERT INTO unit_background VALUES(111001,'由仁',500730,'圣特蕾莎女子学院_正门',0.0,4);
+INSERT INTO unit_background VALUES(111001,'优妮',500730,'圣特蕾莎女子学院_正门',0.0,4);
 INSERT INTO unit_background VALUES(111101,'镜华（万圣节）',500811,'宅邸_大厅',0.0,2);
 INSERT INTO unit_background VALUES(111201,'未奏希（万圣节）',500811,'宅邸_大厅',0.0,4);
 INSERT INTO unit_background VALUES(111301,'美美（万圣节）',500811,'宅邸_大厅',0.0,4);
