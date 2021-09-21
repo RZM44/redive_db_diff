@@ -19,5 +19,6 @@ INSERT INTO event_story_data VALUES(5017,5,10017,'Re: 从零开始收集的异�
 INSERT INTO event_story_data VALUES(5019,5,10019,'铃奈的RAINBOW STAGE！',0,1,'2021/07/09 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5021,5,10021,'盛夏的真步真步王国 海滩上的灵魂之夏！',0,1,'2021/08/06 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5023,5,10023,'森林里的胆小鬼与神圣学院的问题儿童',0,1,'2021/09/01 15:00:00','2099/12/31 23:59:59');
+INSERT INTO event_story_data VALUES(5025,5,10025,'小小的勇气·万圣节之夜！',0,1,'2021/09/30 15:00:00','2099/12/31 23:59:59');
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
 COMMIT;
