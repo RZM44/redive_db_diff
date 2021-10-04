@@ -22,4 +22,6 @@ INSERT INTO clanprofile_content VALUES(18,'夏日沙滩的星空','2019-06-30 12
 INSERT INTO clanprofile_content VALUES(19,'海底背景','2021-08-19 11:00:00','',8);
 INSERT INTO clanprofile_content VALUES(20,'？？？','2021-08-19 11:00:00','',29);
 INSERT INTO clanprofile_content VALUES(21,'圣特蕾莎女子学院\n（好朋友社）','2021-09-21 11:00:00','',27);
+INSERT INTO clanprofile_content VALUES(22,'万圣节的白天','2021-10-04 11:00:00','',6);
+INSERT INTO clanprofile_content VALUES(23,'万圣节的夜晚','2021-10-04 11:00:00','',7);
 COMMIT;
