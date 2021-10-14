@@ -57,5 +57,11 @@ INSERT INTO hatsune_quest_area VALUES(10024201,10024,'王都兰德索尔',201,'b
 INSERT INTO hatsune_quest_area VALUES(10025101,10025,'鬼屋周边',201,'bgm_M265','bgm_M265_Top','2021/10/04 11:00:00','2021/10/18 23:59:59',1,1,0,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10025102,10025,'幽灵墓地',201,'bgm_M265','bgm_M265_Top','2021/10/04 11:00:00','2021/10/18 23:59:59',1,2,0,0,1,'202','0',0);
 INSERT INTO hatsune_quest_area VALUES(10025201,10025,'幽灵墓地',201,'bgm_M265','bgm_M265_Top','2021/10/04 11:00:00','2021/10/18 23:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10026101,10026,'兰德索尔郊外',201,'bgm_M135','bgm_M135','2021/10/19 11:00:00','2021/10/26 23:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10026102,10026,'灵界',201,'bgm_M29','bgm_M29','2021/10/19 11:00:00','2021/10/26 23:59:59',1,2,0,80,1,'202','208',0);
+INSERT INTO hatsune_quest_area VALUES(10026103,10026,'兰德索尔中心部',201,'bgm_M135','bgm_M135','2021/10/19 11:00:00','2021/10/26 23:59:59',1,3,0,0,1,'202','209',1);
+INSERT INTO hatsune_quest_area VALUES(10026201,10026,'兰德索尔郊外',201,'bgm_M135','bgm_M135','2021/10/19 11:00:00','2021/10/26 23:59:59',1,1,0,0,0,'0','0',31);
+INSERT INTO hatsune_quest_area VALUES(10027101,10027,'艾尔比思岛 营地开拓区',201,'bgm_M273','bgm_M273','2021/11/01 11:00:00','2021/11/15 23:59:59',1,0,90,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10027201,10027,'艾尔比思岛 营地开拓区',201,'bgm_M273','bgm_M273','2021/11/01 11:00:00','2021/11/15 23:59:59',1,0,0,0,0,'0','0',0);
 CREATE INDEX 'hatsune_quest_area_0_event_id' on 'hatsune_quest_area'('event_id');
 COMMIT;
