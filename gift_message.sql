@@ -40,7 +40,7 @@ INSERT INTO gift_message VALUES(9301,'超出持有数上限时获得的体力。
 INSERT INTO gift_message VALUES(9302,'战斗竞技场的防守奖励。',0,0,0,0);
 INSERT INTO gift_message VALUES(9303,'公主竞技场的防守奖励。',0,0,0,0);
 INSERT INTO gift_message VALUES(9304,'行会助战获得的奖励。',0,0,0,0);
-INSERT INTO gift_message VALUES(9305,'提升RANK前在强化装备中使用的一部分道具。',0,0,0,0);
+INSERT INTO gift_message VALUES(9305,'提升品级前在强化装备中使用的一部分道具。',0,0,0,0);
 INSERT INTO gift_message VALUES(9306,'玩家经验值变换后获得的金币。',0,0,0,0);
 INSERT INTO gift_message VALUES(9307,'在团队战的讨伐奖励中获得的道具。',0,0,0,0);
 INSERT INTO gift_message VALUES(9308,'向行会成员问好后获得的玛那。',0,0,0,0);
@@ -70,8 +70,8 @@ INSERT INTO gift_message VALUES(9412,'购买道具装备礼包Ⅵ获得的道具
 INSERT INTO gift_message VALUES(9501,'「活动登录奖励」第{1}天获得的道具。',13,2,0,0);
 INSERT INTO gift_message VALUES(9502,'初次通关活动关卡获得的道具。',13,0,0,0);
 INSERT INTO gift_message VALUES(9503,'通关活动关卡{1}获得的道具。',13,14,0,0);
-INSERT INTO gift_message VALUES(9504,'初次击败活动BOSS「{1}」获得的道具。',13,15,0,0);
-INSERT INTO gift_message VALUES(9505,'在活动BOSS「{1}」的战斗中获得的物品。',13,15,0,0);
+INSERT INTO gift_message VALUES(9504,'初次击败活动首领「{1}」获得的道具。',13,15,0,0);
+INSERT INTO gift_message VALUES(9505,'在活动首领「{1}」的战斗中获得的物品。',13,15,0,0);
 INSERT INTO gift_message VALUES(9506,'达成活动任务获得的道具。',13,0,0,0);
 INSERT INTO gift_message VALUES(9507,'在「{1}」获得的道具。',13,12,0,0);
 INSERT INTO gift_message VALUES(9508,'在「{0}」获得的道具。',13,0,0,0);

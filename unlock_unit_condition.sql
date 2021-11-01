@@ -96,6 +96,7 @@ INSERT INTO unlock_unit_condition VALUES(110801,'克罗依',1,0,1,2,31108,145,0,
 INSERT INTO unlock_unit_condition VALUES(111101,'镜华（万圣节）',1,0,1,2,31111,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(111201,'未奏希（万圣节）',1,0,1,2,31112,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(111301,'美美（万圣节）',1,0,1,2,31113,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(111401,'露娜',1,0,1,2,31114,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(170101,'环奈',1,0,1,2,31701,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(170201,'环奈（振袖）',1,0,1,2,31702,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 COMMIT;
