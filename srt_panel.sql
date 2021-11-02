@@ -59,7 +59,7 @@ INSERT INTO srt_panel VALUES(1001701,'短靴',1,10017,'能够保护到脚踝的�
 INSERT INTO srt_panel VALUES(1001703,'皮鞋',2,10017,'从老爷爷到高中女生，使用人群极广的\n时尚道具。可惜的是，就算煮了也不能吃。','i','ie');
 INSERT INTO srt_panel VALUES(1001800,'猫咪',1,10018,'猫科哺乳动物。与人类感情深厚的动物，其可爱的样子让人类无力抵抗。','ao','i');
 INSERT INTO srt_panel VALUES(1001802,'虎斑猫',2,10018,'有着像老虎一样斑纹的猫。也叫虎纹猫。','u','ao');
-INSERT INTO srt_panel VALUES(1001804,'珠希的朋友',3,10018,'指猫咪。珠希负责给它们喂食，据说开支不小。','u','ou');
+INSERT INTO srt_panel VALUES(1001804,'义贼之友',3,10018,'指猫咪。珠希负责给它们喂食，据说开支不小。','i','ou');
 INSERT INTO srt_panel VALUES(1001900,'金鱼',1,10019,'观赏用的红色小鱼。必须要在庙会上捞的麻烦家伙。','in','ü');
 INSERT INTO srt_panel VALUES(1001901,'吐泡泡',1,10019,'鱼类在水中排出空气而产生泡泡。','u','ao');
 INSERT INTO srt_panel VALUES(1001902,'观赏鱼',1,10019,'用于观赏而非食用所饲养的鱼。','an','ü');
