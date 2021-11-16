@@ -26,4 +26,5 @@ INSERT INTO clanprofile_content VALUES(22,'万圣节的白天','2021-10-04 11:00
 INSERT INTO clanprofile_content VALUES(23,'万圣节的夜晚','2021-10-04 11:00:00','',7);
 INSERT INTO clanprofile_content VALUES(24,'蘑菇和秋天的溪谷','2021-10-19 11:00:00','',4);
 INSERT INTO clanprofile_content VALUES(25,'蘑菇和小溪','2021-10-19 11:00:00','',5);
+INSERT INTO clanprofile_content VALUES(26,'龙族据点','2021-11-16 11:00:00','',28);
 COMMIT;
