@@ -101,5 +101,7 @@ INSERT INTO kaiser_restriction_group VALUES(1004,109901);
 INSERT INTO kaiser_restriction_group VALUES(1004,109801);
 INSERT INTO kaiser_restriction_group VALUES(1001,106501);
 INSERT INTO kaiser_restriction_group VALUES(1003,111401);
+INSERT INTO kaiser_restriction_group VALUES(1004,170101);
+INSERT INTO kaiser_restriction_group VALUES(1004,170201);
 CREATE INDEX 'kaiser_restriction_group_0_restriction_group_id' on 'kaiser_restriction_group'('restriction_group_id');
 COMMIT;

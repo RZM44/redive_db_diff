@@ -28,5 +28,7 @@ INSERT INTO event_gacha_data VALUES(10025,10025,'小小的勇气·万圣节之�
 INSERT INTO event_gacha_data VALUES(10026,10026,'不给布丁就捣蛋！约定的万圣节派对',2,60252,1,5);
 INSERT INTO event_gacha_data VALUES(10027,10027,'龙之探索者',2,60262,1,5);
 INSERT INTO event_gacha_data VALUES(10028,10028,'暮光破坏者',2,60272,1,5);
+INSERT INTO event_gacha_data VALUES(10029,10029,'礼物大恐慌！　兰德索尔的圣诞老人们',2,60282,1,5);
+INSERT INTO event_gacha_data VALUES(10030,10030,'忘却的圣歌',2,60292,1,5);
 INSERT INTO event_gacha_data VALUES(19003,10003,'吸血鬼猎人with伊莉亚讨伐证交换',2,60022,1,5);
 COMMIT;
