@@ -30,7 +30,7 @@ INSERT INTO quest_area_data VALUES(11026,'26.圣彼得大森林・西部',102,'b
 INSERT INTO quest_area_data VALUES(11027,'27.圣彼得大森林・东部',102,'bgm_M260','bgm_M260','2021/09/21 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11028,'28.迪斯塔尔河食岸・北部',102,'bgm_M278','bgm_M278_E28','2021/10/19 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11029,'29.迪斯塔尔河食岸・南部',102,'bgm_M278','bgm_M278_E29','2021/11/16 11:00:00','2099/12/31 23:59:59');
-INSERT INTO quest_area_data VALUES(11030,'30.富特拉断崖・北部',102,'bgm_M293','bgm_M293','2088/01/01 0:00:00','2099/12/31 23:59:59');
+INSERT INTO quest_area_data VALUES(11030,'30.富特拉断崖・北部',102,'bgm_M293','bgm_M293','2021/12/20 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11031,'31.富特拉断崖・南部',102,'bgm_M293','bgm_M293','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(11032,'32.法斯基亚森林・南部',102,'bgm_M339','bgm_M339','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12001,'1.朱诺平原',101,'bgm_M61','bgm_M61','2020/01/01 0:00:00','2099/12/31 23:59:59');
@@ -62,7 +62,7 @@ INSERT INTO quest_area_data VALUES(12026,'26.圣彼得大森林・西部',102,'b
 INSERT INTO quest_area_data VALUES(12027,'27.圣彼得大森林・东部',102,'bgm_M260','bgm_M260','2021/09/21 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12028,'28.迪斯塔尔河食岸・北部',102,'bgm_M278','bgm_M278_E28','2021/10/19 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12029,'29.迪斯塔尔河食岸・南部',102,'bgm_M278','bgm_M278_E29','2021/11/16 11:00:00','2099/12/31 23:59:59');
-INSERT INTO quest_area_data VALUES(12030,'30.富特拉断崖・北部',102,'bgm_M293','bgm_M293','2088/01/01 0:00:00','2099/12/31 23:59:59');
+INSERT INTO quest_area_data VALUES(12030,'30.富特拉断崖・北部',102,'bgm_M293','bgm_M293','2021/12/20 11:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12031,'31.富特拉断崖・南部',102,'bgm_M293','bgm_M293','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(12032,'32.法斯基亚森林・南部',102,'bgm_M339','bgm_M339','2088/01/01 0:00:00','2099/12/31 23:59:59');
 INSERT INTO quest_area_data VALUES(13018,'18.小行星原野・北部',102,'bgm_M179','bgm_M179','2021/09/06 9:00:00','2099/12/31 23:59:59');

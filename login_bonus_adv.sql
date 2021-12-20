@@ -6,5 +6,7 @@ INSERT INTO login_bonus_adv VALUES(2,70000,'2020/12/25 5:00:00','2020/12/26 4:59
 INSERT INTO login_bonus_adv VALUES(3,70001,'0','0',1,410);
 INSERT INTO login_bonus_adv VALUES(4,70001,'0','0',2,411);
 INSERT INTO login_bonus_adv VALUES(5,70001,'0','0',3,412);
+INSERT INTO login_bonus_adv VALUES(6,70002,'2021/12/24 5:00:00','2021/12/25 4:59:59',0,400);
+INSERT INTO login_bonus_adv VALUES(7,70002,'2021/12/25 5:00:00','2021/12/26 4:59:59',0,401);
 CREATE INDEX 'login_bonus_adv_0_login_bonus_id' on 'login_bonus_adv'('login_bonus_id');
 COMMIT;
