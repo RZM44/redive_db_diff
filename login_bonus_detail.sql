@@ -90,6 +90,9 @@ INSERT INTO login_bonus_detail VALUES(105,80001,14,8,91002,100,100201,'优衣','
 INSERT INTO login_bonus_detail VALUES(106,80001,15,8,91002,100,105801,'佩可莉姆','',1,500033);
 INSERT INTO login_bonus_detail VALUES(107,70002,1,8,91002,500,0,'','',0,0);
 INSERT INTO login_bonus_detail VALUES(108,70002,2,8,91002,500,0,'','',0,0);
+INSERT INTO login_bonus_detail VALUES(109,70003,1,8,91002,300,0,'','',0,0);
+INSERT INTO login_bonus_detail VALUES(110,70003,2,8,91002,300,0,'','',0,0);
+INSERT INTO login_bonus_detail VALUES(111,70003,3,8,91002,300,0,'','',0,0);
 INSERT INTO login_bonus_detail VALUES(1001,48001,1,8,91002,300,0,'','',0,0);
 INSERT INTO login_bonus_detail VALUES(1002,48001,2,8,91002,100,0,'','',0,0);
 INSERT INTO login_bonus_detail VALUES(1003,48001,3,8,91002,100,0,'','',0,0);

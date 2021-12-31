@@ -11,7 +11,7 @@ INSERT INTO gift_message VALUES(2007,'{0}月团队战月排位第{1}名的报酬
 INSERT INTO gift_message VALUES(2008,'在{0}获得的报酬。',9,0,0,0);
 INSERT INTO gift_message VALUES(2009,'{0}月团队战排位第{2}名的报酬。',10,11,7,0);
 INSERT INTO gift_message VALUES(2010,'「{0}」{1}天的补偿道具。',1,2,0,0);
-INSERT INTO gift_message VALUES(2011,'「{0}」第{1}天在「{2}」获得的道具。',1,2,16,0);
+INSERT INTO gift_message VALUES(2011,'「{0}」第{1}天抽取「{2}」时获得的道具。',1,2,16,0);
 INSERT INTO gift_message VALUES(2012,'「{0}」第{1}天获得的道具。',17,2,0,0);
 INSERT INTO gift_message VALUES(2013,'在「{0}」获得的道具。',1,0,0,0);
 INSERT INTO gift_message VALUES(2014,'{0}月团队战到达第{2}周的报酬。',10,11,19,0);
