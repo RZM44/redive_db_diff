@@ -73,5 +73,7 @@ INSERT INTO hatsune_quest_area VALUES(10030201,10030,'王都兰德索尔',201,'b
 INSERT INTO hatsune_quest_area VALUES(10031101,10031,'公会竞速赛　1区→2区',201,'bgm_M294','bgm_M294','2021/12/31 11:00:00','2022/01/14 23:59:59',1,1,30,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10031102,10031,'公会竞速赛　3区→4区',201,'bgm_M294','bgm_M294','2021/12/31 11:00:00','2022/01/14 23:59:59',1,2,30,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10031201,10031,'公会竞速赛　3区→4区',201,'bgm_M294','bgm_M294','2021/12/31 11:00:00','2022/01/14 23:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10032101,10032,'前往神殿的神道',201,'bgm_M182','bgm_M182','2022/01/14 11:00:00','2022/01/21 23:59:59',1,1,1,180,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10032201,10032,'前往神殿的神道',201,'bgm_M182','bgm_M182','2022/01/14 11:00:00','2022/01/21 23:59:59',1,1,0,0,0,'0','0',0);
 CREATE INDEX 'hatsune_quest_area_0_event_id' on 'hatsune_quest_area'('event_id');
 COMMIT;

@@ -101,6 +101,7 @@ INSERT INTO unlock_unit_condition VALUES(111401,'露娜',1,0,1,2,31114,145,0,0,0
 INSERT INTO unlock_unit_condition VALUES(111501,'克莉丝提娜（圣诞节）',1,0,1,2,31115,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(111601,'望（圣诞节）',1,0,1,2,31116,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(111701,'伊莉亚（圣诞节）',1,0,1,2,31117,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(111901,'可可萝（新年）',1,0,1,2,31119,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(112001,'凯露（新年）',1,0,1,2,31120,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(112101,'铃莓（新年）',1,0,1,2,31121,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(170101,'环奈',1,0,1,2,31701,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
