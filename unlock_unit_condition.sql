@@ -104,6 +104,8 @@ INSERT INTO unlock_unit_condition VALUES(111701,'伊莉亚（圣诞节）',1,0,1
 INSERT INTO unlock_unit_condition VALUES(111901,'可可萝（新年）',1,0,1,2,31119,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(112001,'凯露（新年）',1,0,1,2,31120,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(112101,'铃莓（新年）',1,0,1,2,31121,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(112301,'栞（魔法少女）',1,0,1,2,31123,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(170101,'环奈',1,0,1,2,31701,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(170201,'环奈（振袖）',1,0,1,2,31702,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO unlock_unit_condition VALUES(180401,'佩可莉姆（公主）',1,0,1,2,31804,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 COMMIT;

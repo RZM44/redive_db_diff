@@ -53,7 +53,7 @@ INSERT INTO gift_message VALUES(9314,'扭蛋更新后，未使用的角色交换
 INSERT INTO gift_message VALUES(9315,'转换体力获得的货币。',0,0,0,0);
 INSERT INTO gift_message VALUES(9316,'SP庆典角色交换Pt转换为的道具。',0,0,0,0);
 INSERT INTO gift_message VALUES(9317,'通过好友支援获得的报酬。',0,0,0,0);
-INSERT INTO gift_message VALUES(9318,'超出持有数上限后获得的特殊交换券报酬。',0,0,0,0);
+INSERT INTO gift_message VALUES(9318,'超出持有数上限后获得的特别兑换券报酬。',0,0,0,0);
 INSERT INTO gift_message VALUES(9319,'购买时获得的道具。',0,0,0,0);
 INSERT INTO gift_message VALUES(9401,'每日宝石礼包中的道具。',0,0,0,0);
 INSERT INTO gift_message VALUES(9402,'7天体力支援礼包中的道具。',0,0,0,0);
@@ -83,6 +83,6 @@ INSERT INTO gift_message VALUES(9701,'「机械莉玛来袭！」获得的攻击
 INSERT INTO gift_message VALUES(9702,'在「王都终末决战」中获得的道具。',0,0,0,0);
 INSERT INTO gift_message VALUES(88888,'购买「{0}」获得的道具',88,0,0,0);
 INSERT INTO gift_message VALUES(88889,'购买玛那获得的体力',0,0,0,0);
-INSERT INTO gift_message VALUES(88890,'从「女神祭」宝库中获得的道具',0,0,0,0);
+INSERT INTO gift_message VALUES(88890,'购买「女神祭宝库秘钥」获得的道具',0,0,0,0);
 INSERT INTO gift_message VALUES(88891,'季票额外经验兑换玛那',0,0,0,0);
 COMMIT;

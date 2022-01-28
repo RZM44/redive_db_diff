@@ -32,5 +32,6 @@ INSERT INTO event_gacha_data VALUES(10029,10029,'礼物大恐慌！　兰德索�
 INSERT INTO event_gacha_data VALUES(10030,10030,'忘却的圣歌',2,60292,1,5);
 INSERT INTO event_gacha_data VALUES(10031,10031,'狂奔！　兰德索尔公会竞速赛',2,60302,1,5);
 INSERT INTO event_gacha_data VALUES(10032,10032,'新春破晓之星大危机',2,60312,1,5);
+INSERT INTO event_gacha_data VALUES(10033,10033,'魔法少女　二人是Misty＆Purely',2,60322,1,5);
 INSERT INTO event_gacha_data VALUES(19003,10003,'吸血鬼猎人with伊莉亚讨伐证交换',2,60022,1,5);
 COMMIT;

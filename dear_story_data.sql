@@ -7,5 +7,6 @@ INSERT INTO dear_story_data VALUES(6023,6,10023,'森林里的胆小鬼与神圣�
 INSERT INTO dear_story_data VALUES(6025,6,10025,'小小的勇气·万圣节之夜！',0,1,'2021/10/04 11:00:00','2099/12/31/ 23:59:59');
 INSERT INTO dear_story_data VALUES(6027,6,10027,'龙之探索者',0,1,'2021/11/01 11:00:00','2099/12/31/ 23:59:59');
 INSERT INTO dear_story_data VALUES(6029,6,10029,'礼物大恐慌！　兰德索尔的圣诞老人们',0,1,'2021/11/30 11:00:00','2099/12/31/ 23:59:59');
+INSERT INTO dear_story_data VALUES(6033,6,10033,'魔法少女　二人是Misty&Purely',0,1,'2022/01/28 9:00:00','2099/12/31/ 23:59:59');
 CREATE INDEX 'dear_story_data_0_value' on 'dear_story_data'('value');
 COMMIT;
