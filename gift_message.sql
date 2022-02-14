@@ -61,10 +61,10 @@ INSERT INTO gift_message VALUES(9403,'购买道具装备礼包Ⅰ获得的道具
 INSERT INTO gift_message VALUES(9404,'购买道具装备礼包Ⅱ获得的道具。',0,0,0,0);
 INSERT INTO gift_message VALUES(9405,'购买道具装备礼包Ⅲ获得的道具。',0,0,0,0);
 INSERT INTO gift_message VALUES(9406,'购买道具装备礼包Ⅳ获得的道具。',0,0,0,0);
-INSERT INTO gift_message VALUES(9407,'购买道具装备礼包Ⅰ（重新上架）获得的道具。',0,0,0,0);
-INSERT INTO gift_message VALUES(9408,'购买道具装备礼包Ⅱ（重新上架）获得的道具。',0,0,0,0);
-INSERT INTO gift_message VALUES(9409,'购买道具装备礼包Ⅲ（重新上架）获得的道具。',0,0,0,0);
-INSERT INTO gift_message VALUES(9410,'购买道具装备礼包Ⅳ（重新上架）获得的道具。',0,0,0,0);
+INSERT INTO gift_message VALUES(9407,'购买道具装备礼包Ⅰ（再贩）获得的道具。',0,0,0,0);
+INSERT INTO gift_message VALUES(9408,'购买道具装备礼包Ⅱ（再贩）获得的道具。',0,0,0,0);
+INSERT INTO gift_message VALUES(9409,'购买道具装备礼包Ⅲ（再贩）获得的道具。',0,0,0,0);
+INSERT INTO gift_message VALUES(9410,'购买道具装备礼包Ⅳ（再贩）获得的道具。',0,0,0,0);
 INSERT INTO gift_message VALUES(9411,'购买道具装备礼包Ⅴ获得的道具。',0,0,0,0);
 INSERT INTO gift_message VALUES(9412,'购买道具装备礼包Ⅵ获得的道具。',0,0,0,0);
 INSERT INTO gift_message VALUES(9501,'「活动登录奖励」第{1}天获得的道具。',13,2,0,0);
