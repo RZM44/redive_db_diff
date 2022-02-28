@@ -109,4 +109,5 @@ INSERT INTO gift_message VALUES(88888,'购买「{0}」获得的道具',88,0,0,0)
 INSERT INTO gift_message VALUES(88889,'购买玛那获得的体力',0,0,0,0);
 INSERT INTO gift_message VALUES(88890,'购买「女神祭宝库秘钥」获得的道具',0,0,0,0);
 INSERT INTO gift_message VALUES(88891,'季票额外经验兑换玛那',0,0,0,0);
+INSERT INTO gift_message VALUES(99999,'抽取扭蛋时获取的玛那。',0,0,0,0);
 COMMIT;
