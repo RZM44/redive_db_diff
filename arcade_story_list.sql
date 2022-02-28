@@ -9,4 +9,11 @@ INSERT INTO arcade_story_list VALUES(5027700,1004,'再次前往厄尔庇斯岛�
 INSERT INTO arcade_story_list VALUES(5027701,1004,'过于热血的战斗');
 INSERT INTO arcade_story_list VALUES(5027702,1004,'压轴登场');
 INSERT INTO arcade_story_list VALUES(5027703,1004,'战斗的结局……');
+INSERT INTO arcade_story_list VALUES(5027704,1004,'向更高处进发！');
+INSERT INTO arcade_story_list VALUES(5040700,1005,'看好奶酪！');
+INSERT INTO arcade_story_list VALUES(5040701,1005,'和弱小敌人的攻防');
+INSERT INTO arcade_story_list VALUES(5040702,1005,'奶酪的诱惑');
+INSERT INTO arcade_story_list VALUES(5040703,1005,'萌芽的爱情？');
+INSERT INTO arcade_story_list VALUES(5040704,1005,'劳动会一直持续下去');
+CREATE INDEX 'arcade_story_list_0_arcade_id' on 'arcade_story_list'('arcade_id');
 COMMIT;

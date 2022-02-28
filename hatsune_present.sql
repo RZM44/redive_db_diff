@@ -5,5 +5,7 @@ INSERT INTO hatsune_present VALUES(1,10009,'获得圣诞节礼物','作为圣诞
 INSERT INTO hatsune_present VALUES(2,10010,'获得压岁钱','作为压岁钱，获得了以下道具。',0,1001001,0,5010901,8,91002,150,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO hatsune_present VALUES(3,10030,'获得圣诞节礼物','作为圣诞节的礼物，获得了以下道具。',0,1003001,0,5009901,8,91002,150,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO hatsune_present VALUES(4,10032,'获得压岁钱','作为压岁钱，获得了以下道具。',0,1003201,0,5010901,8,91002,150,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO hatsune_present VALUES(2009001,20009,'获得圣诞节礼物','作为圣诞节的礼物，获得了以下道具。',0,2000901,0,5009901,8,91002,150,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO hatsune_present VALUES(2010001,20010,'获得压岁钱','作为压岁钱，获得了以下道具。',0,2001001,0,5010901,8,91002,150,0,0,0,0,0,0,0,0,0,0,0,0);
 CREATE INDEX 'hatsune_present_0_event_id' on 'hatsune_present'('event_id');
 COMMIT;

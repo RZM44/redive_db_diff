@@ -1,0 +1,17 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'tme_map_data' ('tme_object_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'condition_story_id' INTEGER NOT NULL, 'area_difficulty_type' INTEGER NOT NULL, 'release_effect' INTEGER NOT NULL, 'tap_effect' INTEGER NOT NULL, PRIMARY KEY('tme_object_id'));
+INSERT INTO tme_map_data VALUES(1101,10042,0,1,0,1);
+INSERT INTO tme_map_data VALUES(1102,10042,0,1,0,1);
+INSERT INTO tme_map_data VALUES(1103,10042,5042002,1,1,0);
+INSERT INTO tme_map_data VALUES(1104,10042,0,1,0,1);
+INSERT INTO tme_map_data VALUES(1105,10042,5042003,1,1,0);
+INSERT INTO tme_map_data VALUES(1106,10042,0,1,0,1);
+INSERT INTO tme_map_data VALUES(1107,10042,5042005,1,2,0);
+INSERT INTO tme_map_data VALUES(1201,10042,5042007,2,1,0);
+INSERT INTO tme_map_data VALUES(1202,10042,5042007,2,2,0);
+INSERT INTO tme_map_data VALUES(1203,10042,0,2,0,1);
+INSERT INTO tme_map_data VALUES(1204,10042,0,2,0,1);
+INSERT INTO tme_map_data VALUES(1301,10042,0,1,0,0);
+CREATE INDEX 'tme_map_data_0_event_id' on 'tme_map_data'('event_id');
+COMMIT;

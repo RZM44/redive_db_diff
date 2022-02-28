@@ -1,0 +1,14 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'nyx_drama_data' ('drama_id' INTEGER NOT NULL, 'story_phase' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'condition_unlocked_story_id' INTEGER NOT NULL, 'condition_locked_story_id' INTEGER NOT NULL, PRIMARY KEY('drama_id'));
+INSERT INTO nyx_drama_data VALUES(101,1,'特別講座プレゼンレポート','ちぇるるんインパクト',12,13);
+INSERT INTO nyx_drama_data VALUES(102,1,'特別講座プレゼンレポート','クロエご明察',13,14);
+INSERT INTO nyx_drama_data VALUES(103,1,'特別講座プレゼンレポート','吹き散らせ先輩風',14,22);
+INSERT INTO nyx_drama_data VALUES(201,2,'メルクリウス財団活動日誌','アキノのリーダーシップ',22,23);
+INSERT INTO nyx_drama_data VALUES(202,2,'メルクリウス財団活動日誌','燃えろたい焼き魂',23,24);
+INSERT INTO nyx_drama_data VALUES(203,2,'メルクリウス財団活動日誌','麦しゅわに不可能なし',24,25);
+INSERT INTO nyx_drama_data VALUES(204,2,'メルクリウス財団活動日誌','ミフユの説教１日コース',25,32);
+INSERT INTO nyx_drama_data VALUES(301,3,'ユニのメモ帳','発泡と生菓子の哲学',32,33);
+INSERT INTO nyx_drama_data VALUES(302,3,'ユニのメモ帳','虎穴に潜らずんば',33,34);
+INSERT INTO nyx_drama_data VALUES(303,3,'ユニのメモ帳','動作試験と破滅の誘惑',34,0);
+COMMIT;

@@ -1,0 +1,10 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'clan_battle_training_data' ('id' INTEGER NOT NULL, 'training_id' INTEGER NOT NULL, 'mode' INTEGER NOT NULL, 'phase' INTEGER NOT NULL, 'map_data_id' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO clan_battle_training_data VALUES(1,1038,0,1,150);
+INSERT INTO clan_battle_training_data VALUES(2,1038,0,2,151);
+INSERT INTO clan_battle_training_data VALUES(3,1038,0,3,152);
+INSERT INTO clan_battle_training_data VALUES(4,1038,0,4,153);
+INSERT INTO clan_battle_training_data VALUES(5,1038,0,5,154);
+CREATE INDEX 'clan_battle_training_data_0_training_id' on 'clan_battle_training_data'('training_id');
+COMMIT;

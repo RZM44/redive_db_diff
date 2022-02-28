@@ -80,5 +80,9 @@ INSERT INTO hatsune_quest_area VALUES(10033201,10033,'王都兰德索尔',201,'b
 INSERT INTO hatsune_quest_area VALUES(10034101,10034,'王都兰德索尔',201,'bgm_M189','bgm_M189','2022/02/14 11:00:00','2022/02/21 23:59:59',1,1,0,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10034102,10034,'厨房竞技场',201,'bgm_M189','bgm_M189','2022/02/14 11:00:00','2022/02/21 23:59:59',1,2,110,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10034201,10034,'厨房竞技场',201,'bgm_M189','bgm_M189','2022/02/14 11:00:00','2022/02/21 23:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10035101,10035,'兰德索尔近郊',201,'bgm_M330','bgm_M330','2022/02/28 9:00:00','2022/03/21 23:59:59',1,1,70,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10035201,10035,'兰德索尔近郊',201,'bgm_M330','bgm_M330','2022/02/28 9:00:00','2022/03/21 23:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10036101,10036,'缪斯镇',201,'bgm_M341','bgm_M341','2022/03/12 15:00:00','2022/03/21 23:59:59',1,0,40,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10036201,10036,'缪斯镇',201,'bgm_M341','bgm_M341','2022/03/12 15:00:00','2022/03/21 23:59:59',1,0,0,0,0,'0','0',0);
 CREATE INDEX 'hatsune_quest_area_0_event_id' on 'hatsune_quest_area'('event_id');
 COMMIT;

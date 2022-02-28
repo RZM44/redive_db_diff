@@ -3,7 +3,7 @@ BEGIN TRANSACTION;
 CREATE TABLE IF NOT EXISTS 'fke_reward' ('id' INTEGER NOT NULL, 'fke_point' INTEGER NOT NULL, 'mission_detail' TEXT NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_id_1' INTEGER NOT NULL, 'reward_count_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_id_2' INTEGER NOT NULL, 'reward_count_2' INTEGER NOT NULL, 'reward_type_3' INTEGER NOT NULL, 'reward_id_3' INTEGER NOT NULL, 'reward_count_3' INTEGER NOT NULL, 'reward_type_4' INTEGER NOT NULL, 'reward_id_4' INTEGER NOT NULL, 'reward_count_4' INTEGER NOT NULL, 'reward_type_5' INTEGER NOT NULL, 'reward_id_5' INTEGER NOT NULL, 'reward_count_5' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO fke_reward VALUES(1,2000,'在空花大回旋中飞行合计2000m',12,94002,5000,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO fke_reward VALUES(2,4000,'在空花大回旋中飞行合计4000m',12,94002,10000,0,0,0,0,0,0,0,0,0,0,0,0);
-INSERT INTO fke_reward VALUES(3,6000,'在空花大回旋转中飞行合计6000m',12,94002,15000,0,0,0,0,0,0,0,0,0,0,0,0);
+INSERT INTO fke_reward VALUES(3,6000,'在空花大回旋中飞行合计6000m',12,94002,15000,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO fke_reward VALUES(4,8000,'在空花大回旋中飞行合计8000m',12,94002,20000,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO fke_reward VALUES(5,10000,'在空花大回旋中飞行合计10000m',8,91002,50,2,23001,5,0,0,0,0,0,0,0,0,0);
 INSERT INTO fke_reward VALUES(6,12000,'在空花大回旋中飞行合计12000m',12,94002,25000,0,0,0,0,0,0,0,0,0,0,0,0);

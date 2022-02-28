@@ -275,5 +275,8 @@ INSERT INTO room_chat_scenario VALUES(23,1,1,0,2,42,0);
 INSERT INTO room_chat_scenario VALUES(23,2,1,0,2,72,0);
 INSERT INTO room_chat_scenario VALUES(24,1,1,0,2,43,0);
 INSERT INTO room_chat_scenario VALUES(25,1,1,0,2,44,0);
+INSERT INTO room_chat_scenario VALUES(26,1,1,0,2,45,0);
+INSERT INTO room_chat_scenario VALUES(27,1,1,0,2,46,0);
+INSERT INTO room_chat_scenario VALUES(28,1,1,0,2,47,0);
 CREATE INDEX 'room_chat_scenario_0_id' on 'room_chat_scenario'('id');
 COMMIT;

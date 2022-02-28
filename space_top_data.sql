@@ -1,0 +1,14 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'space_top_data' ('id' INTEGER NOT NULL, 'space_id' INTEGER NOT NULL, 'space_battle_id' INTEGER NOT NULL, 'part_flag' INTEGER NOT NULL, 'story_id' INTEGER NOT NULL, 'time_from' TEXT NOT NULL, 'time_to' TEXT NOT NULL, 'skip_battle_time' TEXT NOT NULL, 'name' TEXT NOT NULL, PRIMARY KEY('id'));
+INSERT INTO space_top_data VALUES(1,1002,0,1,4007001,'2020/04/01','2020/04/01 23:59:59','2020/04/02','バトル オブ ランドソル');
+INSERT INTO space_top_data VALUES(2,1002,1002001,0,0,'2020/04/01','2020/04/01 23:59:59','2020/04/02','バトル オブ ランドソル');
+INSERT INTO space_top_data VALUES(3,1002,0,2,4007001,'2020/04/01','2020/04/01 23:59:59','0','バトル オブ ランドソル');
+INSERT INTO space_top_data VALUES(4,1002,0,0,4007002,'2020/04/01','2020/04/01 23:59:59','0','バトル オブ ランドソル');
+INSERT INTO space_top_data VALUES(5,1002,0,0,4007003,'2020/04/01','2020/04/01 23:59:59','0','バトル オブ ランドソル');
+INSERT INTO space_top_data VALUES(6,1002,0,0,4007004,'2020/04/01','2020/04/01 23:59:59','0','バトル オブ ランドソル');
+INSERT INTO space_top_data VALUES(7,1002,0,0,0,'2020/04/01','2020/04/01 23:59:59','2020/04/02','バトル オブ ランドソル');
+INSERT INTO space_top_data VALUES(8,1002,0,0,4007005,'2020/04/02','2020/04/08 23:59:59','0','バトル オブ ランドソル');
+CREATE INDEX 'space_top_data_0_space_id' on 'space_top_data'('space_id');
+CREATE INDEX 'space_top_data_0_story_id' on 'space_top_data'('story_id');
+COMMIT;

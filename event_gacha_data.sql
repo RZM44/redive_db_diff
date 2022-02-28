@@ -34,5 +34,8 @@ INSERT INTO event_gacha_data VALUES(10031,10031,'狂奔！　兰德索尔公会�
 INSERT INTO event_gacha_data VALUES(10032,10032,'新春破晓之星大危机',2,60312,1,5);
 INSERT INTO event_gacha_data VALUES(10033,10033,'魔法少女　二人是Misty＆Purely',2,60322,1,5);
 INSERT INTO event_gacha_data VALUES(10034,10034,'情人节之战！　正中红心的甜蜜战斗',2,60332,1,5);
+INSERT INTO event_gacha_data VALUES(10035,10035,'星光公主　Re:M@STER！',2,60342,1,5);
+INSERT INTO event_gacha_data VALUES(10036,10036,'星光公主　Re:M@STER！',2,60342,1,5);
 INSERT INTO event_gacha_data VALUES(19003,10003,'吸血鬼猎人with伊莉亚讨伐证交换',2,60022,1,5);
+CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');
 COMMIT;

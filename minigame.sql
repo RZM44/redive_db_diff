@@ -1,9 +1,11 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
-CREATE TABLE IF NOT EXISTS 'minigame' ('id' INTEGER NOT NULL, 'minigame_scheme_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'release_conditions_1' INTEGER NOT NULL, 'conditions_id_1' INTEGER NOT NULL, 'first_time_story_id' INTEGER NOT NULL, PRIMARY KEY('minigame_scheme_id'));
-INSERT INTO minigame VALUES(1,1001,10011,2,10011105,0);
-INSERT INTO minigame VALUES(2,1002,10015,2,10015103,0);
-INSERT INTO minigame VALUES(3,1003,10021,2,10021108,5021700);
-INSERT INTO minigame VALUES(4,1004,10027,3,5027007,5027700);
+CREATE TABLE IF NOT EXISTS 'minigame' ('id' INTEGER NOT NULL, 'minigame_scheme_id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'release_conditions_1' INTEGER NOT NULL, 'conditions_id_1' INTEGER NOT NULL, 'first_time_story_id' INTEGER NOT NULL, 'display_condition_type' INTEGER NOT NULL, 'display_condition_id' INTEGER NOT NULL, 'result_chat_condition_id' INTEGER NOT NULL, 'score_unit' TEXT NOT NULL, 'is_enabled_zero_score' INTEGER NOT NULL, PRIMARY KEY('minigame_scheme_id'));
+INSERT INTO minigame VALUES(1,1001,10011,2,10011105,0,0,0,1,'pt',0);
+INSERT INTO minigame VALUES(2,1002,10015,2,10015103,0,0,0,1,'m',1);
+INSERT INTO minigame VALUES(3,1003,10021,2,10021108,5021700,0,0,1,'pt',0);
+INSERT INTO minigame VALUES(4,1004,10027,3,5027007,5027700,0,0,1,'pt',0);
+INSERT INTO minigame VALUES(5,1005,10040,2,10040105,5040700,0,0,1,'pt',0);
+INSERT INTO minigame VALUES(6,1006,10046,1,5046006,0,1,5046006,1,'pt',0);
 CREATE INDEX 'minigame_0_event_id' on 'minigame'('event_id');
 COMMIT;

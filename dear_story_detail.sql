@@ -174,4 +174,5 @@ INSERT INTO dear_story_detail VALUES(6033208,6033,'与栞的信赖度章节','�
 INSERT INTO dear_story_detail VALUES(6033209,6033,'与栞的信赖度章节','莫拉',0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,'2022/01/28 9:00:00','2099/12/31 23:59:59');
 INSERT INTO dear_story_detail VALUES(6033210,6033,'与栞的信赖度章节','新同伴？',0,0,0,0,0,0,0,2,10033115,1003301,0,0,0,0,0,0,0,0,0,'2022/01/28 9:00:00','2099/12/31 23:59:59');
 CREATE INDEX 'dear_story_detail_0_story_group_id_1_chara_index' on 'dear_story_detail'('story_group_id','chara_index');
+CREATE INDEX 'dear_story_detail_0_story_group_id' on 'dear_story_detail'('story_group_id');
 COMMIT;

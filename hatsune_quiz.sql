@@ -6,4 +6,5 @@ INSERT INTO hatsune_quiz VALUES(10012,1001202,'要寻找的目标人物是谁呢
 INSERT INTO hatsune_quiz VALUES(10012,1001203,'有主角的是哪一个呢？','0','1.美美和镜华看到了某人，大吃一惊','2.在夏日度假胜地烤肉','3.暮光流星群的成员正在谈笑','4.和克莉丝提娜对峙的是……','','',3,'一张明显体现主角性格的图。',0,10012110,135,-84,910012,'谜题3',5012604,5012605);
 INSERT INTO hatsune_quiz VALUES(10012,1001204,'解读暗号，推理人物吧','0','1.流夏','2.美冬','3.怜','4.静流','','',4,'把散乱的信息整理一下吧。',0,10012115,810,58,910012,'谜题4',5012606,5012607);
 CREATE INDEX 'hatsune_quiz_0_event_id' on 'hatsune_quiz'('event_id');
+CREATE INDEX 'hatsune_quiz_0_event_id_1_release_quest_id' on 'hatsune_quiz'('event_id','release_quest_id');
 COMMIT;

@@ -1,0 +1,8 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'ttk_score' ('difficulty_level' INTEGER NOT NULL, 'coefficient_difficulty' INTEGER NOT NULL, 'coefficient_coin_score' INTEGER NOT NULL, 'life' INTEGER NOT NULL, 'coefficient_wrong_num' INTEGER NOT NULL, PRIMARY KEY('difficulty_level'));
+INSERT INTO ttk_score VALUES(1,1000,20000,5,20000000);
+INSERT INTO ttk_score VALUES(2,1200,30000,5,30000000);
+INSERT INTO ttk_score VALUES(3,1500,40000,5,40000000);
+INSERT INTO ttk_score VALUES(4,2000,50000,5,50000000);
+COMMIT;

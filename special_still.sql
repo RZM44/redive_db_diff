@@ -1,0 +1,5 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'special_still' ('still_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'back_momory_type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, PRIMARY KEY('still_id'));
+INSERT INTO special_still VALUES(504660101,1,0,0);
+COMMIT;

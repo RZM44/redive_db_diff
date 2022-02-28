@@ -30,4 +30,7 @@ INSERT INTO ailment_data VALUES(26,69,-1,'驯鹿化');
 INSERT INTO ailment_data VALUES(27,8,10,'昏迷');
 INSERT INTO ailment_data VALUES(28,9,5,'诅咒');
 INSERT INTO ailment_data VALUES(29,70,-1,'HP变化');
+INSERT INTO ailment_data VALUES(30,8,11,'时间停止');
+INSERT INTO ailment_data VALUES(31,76,-1,'生命值回复量减少');
+INSERT INTO ailment_data VALUES(32,78,-1,'弱体伤害上升');
 COMMIT;

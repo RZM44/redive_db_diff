@@ -26,4 +26,7 @@ INSERT INTO room_chat_info VALUES(22,2,22);
 INSERT INTO room_chat_info VALUES(23,5,23);
 INSERT INTO room_chat_info VALUES(24,5,24);
 INSERT INTO room_chat_info VALUES(25,5,25);
+INSERT INTO room_chat_info VALUES(26,6,26);
+INSERT INTO room_chat_info VALUES(27,6,27);
+INSERT INTO room_chat_info VALUES(28,6,28);
 COMMIT;
