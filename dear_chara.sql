@@ -19,5 +19,8 @@ INSERT INTO dear_chara VALUES(10029,1,'克莉丝提娜',1000,1,111501,0,0,0,0,0)
 INSERT INTO dear_chara VALUES(10029,2,'伊莉亚',1000,1,111701,0,0,0,0,0);
 INSERT INTO dear_chara VALUES(10033,1,'香澄',1000,1,112201,0,0,0,0,0);
 INSERT INTO dear_chara VALUES(10033,2,'栞',1000,1,112301,0,0,0,0,0);
+INSERT INTO dear_chara VALUES(10038,1,'千爱瑠',1000,1,110901,0,0,0,0,0);
+INSERT INTO dear_chara VALUES(10038,2,'克罗依',1000,1,110801,0,0,0,0,0);
+INSERT INTO dear_chara VALUES(10038,3,'优妮',1000,1,111001,0,0,0,0,0);
 CREATE INDEX 'dear_chara_0_event_id' on 'dear_chara'('event_id');
 COMMIT;

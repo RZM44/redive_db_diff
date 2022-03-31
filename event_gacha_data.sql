@@ -37,6 +37,7 @@ INSERT INTO event_gacha_data VALUES(10034,10034,'情人节之战！　正中红�
 INSERT INTO event_gacha_data VALUES(10035,10035,'星光公主　Re:M@STER！',2,60342,1,5);
 INSERT INTO event_gacha_data VALUES(10036,10036,'星光公主　Re:M@STER！',2,60342,1,5);
 INSERT INTO event_gacha_data VALUES(10037,10037,'王都的名侦探　叹息的追缉者（STALKER）',2,60362,1,5);
+INSERT INTO event_gacha_data VALUES(10038,10038,'恩赐的财团与神圣学院的问题儿童',2,60372,1,5);
 INSERT INTO event_gacha_data VALUES(19003,10003,'吸血鬼猎人with伊莉亚讨伐证交换',2,60022,1,5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');
 COMMIT;
