@@ -9,7 +9,7 @@ INSERT INTO nyx_story_data VALUES(21,5,2,'','','0',10038111,0,2,5038601);
 INSERT INTO nyx_story_data VALUES(22,6,2,'记录负责人　秋乃','我想到了！','0',10038111,0,0,0);
 INSERT INTO nyx_story_data VALUES(23,7,2,'记录负责人　珠希','组装喵！','0',10038112,0,0,0);
 INSERT INTO nyx_story_data VALUES(24,8,2,'记录负责人　由加莉','我写过这个吗？','0',10038113,0,0,0);
-INSERT INTO nyx_story_data VALUES(25,9,2,'记录负责人　美冬','不能防着不管','0',10038114,0,0,0);
+INSERT INTO nyx_story_data VALUES(25,9,2,'记录负责人　美冬','不能放着不管','0',10038114,0,0,0);
 INSERT INTO nyx_story_data VALUES(26,10,2,'总结','特别讲座结束','0',10038115,0,0,0);
 INSERT INTO nyx_story_data VALUES(31,11,3,'','','0',10038115,1,2,5038602);
 INSERT INTO nyx_story_data VALUES(32,12,3,'浪漫继承计划','开发记录 - 考察','0',10038115,1,0,0);

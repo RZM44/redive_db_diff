@@ -125,8 +125,8 @@ INSERT INTO music_content VALUES(121,'授けの財団と聖なる学舎の異端
 INSERT INTO music_content VALUES(122,'なかよしX','2:43','0:00','ストーリーイベントボスバトル\n\n時間 / 02:43\n作曲 / 加藤慶久（Cygames）\n編曲 / 加藤慶久（Cygames）','bgm_M346','bgm_M346_juke');
 INSERT INTO music_content VALUES(123,'青春スピナー','1:20','0:51','キャラクターソング\n\n時間 / 01:20\n歌　 / チエル（佐倉綾音）\n　　　クロエ（種﨑敦美）\n　　　ユニ（小原好美）\n作詞 / ミズノゲンキ\n作曲 / 睦月周平\n編曲 / 睦月周平','bgm_M359','bgm_M359');
 INSERT INTO music_content VALUES(124,'密林の影に待つは','2:00','0:00','メインクエスト\n\n時間 / 02:00\n作曲 / 加藤慶久（Cygames）\n編曲 / 加藤慶久（Cygames）','bgm_M339','bgm_M339_juke');
-INSERT INTO music_content VALUES(125,'Mirage Game','1:52','1:09','キャラクターソング\n\n時間 / 01:52\n歌　 / ペコリーヌ（Ｍ?Ａ?Ｏ）\n　　　コッコロ（伊藤美来）\n　　　キャル（立花理香）\n　　　ユイ（種田梨沙）\n　　　ヒヨリ（東山奈央）\n　　　レイ（早見沙織）\n　　　シェフィ（近藤玲奈）\n作詞 / しほり\n作曲 / 田中公平\n編曲 / 東大路憲太','bgm_M370','bgm_M370');
-INSERT INTO music_content VALUES(126,'Yes！ Precious Harmony！','1:48','0:52','キャラクターソング\n\n時間 / 01:48\n歌　 / ペコリーヌ（Ｍ?Ａ?Ｏ）\n　　　コッコロ（伊藤美来）\n　　　キャル（立花理香）\n作詞 / 高尾奏之介\n作曲 / 高尾奏之介\n編曲 / 奈良悠樹','bgm_M371','bgm_M371');
+INSERT INTO music_content VALUES(125,'Mirage Game','1:52','1:09','キャラクターソング\n\n時間 / 01:52\n歌　 / ペコリーヌ（M・A・O）\n　　　コッコロ（伊藤美来）\n　　　キャル（立花理香）\n　　　ユイ（種田梨沙）\n　　　ヒヨリ（東山奈央）\n　　　レイ（早見沙織）\n　　　シェフィ（近藤玲奈）\n作詞 / しほり\n作曲 / 田中公平\n編曲 / 東大路憲太','bgm_M370','bgm_M370');
+INSERT INTO music_content VALUES(126,'Yes！ Precious Harmony！','1:48','0:52','キャラクターソング\n\n時間 / 01:48\n歌　 / ペコリーヌ（M・A・O）\n　　　コッコロ（伊藤美来）\n　　　キャル（立花理香）\n作詞 / 高尾奏之介\n作曲 / 高尾奏之介\n編曲 / 奈良悠樹','bgm_M371','bgm_M371');
 INSERT INTO music_content VALUES(127,'チュウチュウパニック！　チーズお守り大作戦！','0:45','0:00','ミニゲーム\n-?Heartful Place?アレンジ-\n\n時間 / 00:45\n作曲 / 小野貴光\n編曲 / 澤下葵','bgm_M355_Lofi','bgm_M355_Lofi_juke');
 INSERT INTO music_content VALUES(128,'まきばの四農士　貧乏牧場奮闘記！','1:00','0:00','ストーリーイベントテーマ\n-?Heartful Place?アレンジ-\n\n時間 / 01:00\n作曲 / 小野貴光\n編曲 / 淺田美咲（Cygames）','bgm_M351','bgm_M351_juke');
 INSERT INTO music_content VALUES(129,'忍びの頭領ハンゾウ','1:56','0:00','ストーリーイベントボスバトル\n\n時間 / 01:56\n作曲 / 長門千晴（Cygames）\n編曲 / 長門千晴（Cygames）','bgm_M354','bgm_M354_juke');

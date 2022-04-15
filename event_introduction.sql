@@ -40,5 +40,6 @@ INSERT INTO event_introduction VALUES(36,10036,1,'2022/2/25 15:00:00','2099/12/3
 INSERT INTO event_introduction VALUES(37,10037,1,'2022/3/13 11:00:00','2099/12/31 23:59:59',380000,380000,0,0,0,0,'bgm_M206','bgm_M206');
 INSERT INTO event_introduction VALUES(38,10038,1,'2022/3/26 15:00:00','2099/12/31 23:59:59',380000,380000,0,0,0,0,'bgm_M343','bgm_M343');
 INSERT INTO event_introduction VALUES(39,10039,1,'2022/4/8 15:00:00','2099/12/31 23:59:59',380000,380000,0,0,0,0,'bgm_M215','bgm_M215');
+INSERT INTO event_introduction VALUES(40,10040,1,'2022/4/24 15:00:00','2099/12/31 23:59:59',380000,380000,0,0,0,0,'bgm_M351','bgm_M351');
 CREATE INDEX 'event_introduction_0_event_id' on 'event_introduction'('event_id');
 COMMIT;
