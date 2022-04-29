@@ -1,10 +1,10 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE IF NOT EXISTS 'ttk_story' ('ttk_story_id' INTEGER NOT NULL, 'ttk_score' INTEGER NOT NULL, 'title' TEXT NOT NULL, PRIMARY KEY('ttk_story_id'));
-INSERT INTO ttk_story VALUES(1,32000,'観察開始！');
-INSERT INTO ttk_story VALUES(2,128000,'熟成');
-INSERT INTO ttk_story VALUES(3,224000,'麗しき青');
-INSERT INTO ttk_story VALUES(4,320000,'誘惑');
-INSERT INTO ttk_story VALUES(5,416000,'謎は謎のままに');
+INSERT INTO ttk_story VALUES(1,32000,'观察开始！');
+INSERT INTO ttk_story VALUES(2,128000,'成熟');
+INSERT INTO ttk_story VALUES(3,224000,'美丽的蓝色');
+INSERT INTO ttk_story VALUES(4,320000,'诱惑');
+INSERT INTO ttk_story VALUES(5,416000,'谜团未解');
 CREATE INDEX 'ttk_story_0_ttk_score' on 'ttk_story'('ttk_score');
 COMMIT;

@@ -91,5 +91,9 @@ INSERT INTO hatsune_quest_area VALUES(10038201,10038,'圣特蕾莎女子学院',
 INSERT INTO hatsune_quest_area VALUES(10039101,10039,'加斯特罗斯山',201,'bgm_M215','bgm_M215','2022/04/15 11:00:00','2022/04/22 23:59:59',1,1,110,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10039102,10039,'光之裂缝',201,'bgm_M215','bgm_M215','2022/04/15 11:00:00','2022/04/22 23:59:59',1,2,0,0,1,'202','208',11);
 INSERT INTO hatsune_quest_area VALUES(10039201,10039,'光之裂缝',201,'bgm_M215','bgm_M215','2022/04/15 11:00:00','2022/04/22 23:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10040101,10040,'伊丽莎白牧场',201,'bgm_M351','bgm_M351','2022/04/30 11:00:00','2022/05/14 23:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10040102,10040,'王都兰德索尔',201,'bgm_M351','bgm_M351','2022/04/30 11:00:00','2022/05/14 23:59:59',1,2,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10040103,10040,'伊丽莎白牧场',201,'bgm_M351','bgm_M351','2022/04/30 11:00:00','2022/05/14 23:59:59',1,3,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10040201,10040,'伊丽莎白牧场',201,'bgm_M351','bgm_M351','2022/04/30 11:00:00','2022/05/14 23:59:59',1,1,0,0,0,'0','0',0);
 CREATE INDEX 'hatsune_quest_area_0_event_id' on 'hatsune_quest_area'('event_id');
 COMMIT;
