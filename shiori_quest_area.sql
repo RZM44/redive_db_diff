@@ -5,5 +5,7 @@ INSERT INTO shiori_quest_area VALUES(20001101,20001,'塔古姆地区',201,'bgm_M
 INSERT INTO shiori_quest_area VALUES(20001201,20001,'塔古姆地区',201,'bgm_M32','bgm_M32',1,0,0,0,0,'0','0',0);
 INSERT INTO shiori_quest_area VALUES(20002101,20002,'马希纳地区',201,'bgm_M98','bgm_M98_2',1,0,0,0,0,'0','0',0);
 INSERT INTO shiori_quest_area VALUES(20002201,20002,'马希纳地区',201,'bgm_M98','bgm_M98_2',1,0,0,0,0,'0','0',0);
+INSERT INTO shiori_quest_area VALUES(20003101,20003,'兰德索尔郊外',201,'bgm_M106','bgm_M106',1,0,0,0,0,'0','0',0);
+INSERT INTO shiori_quest_area VALUES(20003201,20003,'兰德索尔郊外',201,'bgm_M106','bgm_M106',1,0,0,0,0,'0','0',0);
 CREATE INDEX 'shiori_quest_area_0_event_id' on 'shiori_quest_area'('event_id');
 COMMIT;
