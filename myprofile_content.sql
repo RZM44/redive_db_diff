@@ -20,4 +20,6 @@ INSERT INTO myprofile_content VALUES(16,'蘑菇和小溪','2021-10-19 11:00:00',
 INSERT INTO myprofile_content VALUES(17,'圣诞节的白天','2021-12-11 11:00:00','',7);
 INSERT INTO myprofile_content VALUES(18,'圣诞节的夜晚','2021-12-11 11:00:00','',8);
 INSERT INTO myprofile_content VALUES(19,'元旦日出','2021-12-31 11:00:00','',6);
+INSERT INTO myprofile_content VALUES(20,'不可思议之国的城堡','2022-05-31 11:00:00','',4);
+INSERT INTO myprofile_content VALUES(21,'不可思议之国的平原','2022-05-31 11:00:00','',5);
 COMMIT;

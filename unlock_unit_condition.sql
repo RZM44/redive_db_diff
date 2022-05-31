@@ -114,6 +114,8 @@ INSERT INTO unlock_unit_condition VALUES(112501,'凛（偶像大师）',1,0,1,2,
 INSERT INTO unlock_unit_condition VALUES(112601,'未央（偶像大师）',1,0,1,2,31126,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(112701,'铃（游骑兵）',1,0,1,2,31127,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(112801,'真阳（游骑兵）',1,0,1,2,31128,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(112901,'璃乃（仙境）',1,0,1,2,31129,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(113001,'步美（仙境）',1,0,1,2,31130,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(170101,'环奈',1,0,1,2,31701,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(170201,'环奈（振袖）',1,0,1,2,31702,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(180401,'佩可莉姆（公主）',1,0,1,2,31804,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);

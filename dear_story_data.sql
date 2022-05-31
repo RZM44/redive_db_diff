@@ -10,5 +10,6 @@ INSERT INTO dear_story_data VALUES(6029,6,10029,'礼物大恐慌！　兰德索�
 INSERT INTO dear_story_data VALUES(6033,6,10033,'魔法少女　二人是Misty&Purely',0,1,'2022/01/28 9:00:00','2099/12/31/ 23:59:59');
 INSERT INTO dear_story_data VALUES(6038,6,10038,'恩赐的财团与神圣学院的问题儿童',0,1,'2022/03/31 11:00:00','2099/12/31/ 23:59:59');
 INSERT INTO dear_story_data VALUES(6040,6,10040,'牧场里的四农士　贫穷农场奋斗记！',0,1,'2022/04/30 11:00:00','2099/12/31/ 23:59:59');
+INSERT INTO dear_story_data VALUES(6042,6,10042,'不可思议之国的璃乃　小小爱丽丝与希望的绘本',0,1,'2022/05/31 11:00:00','2099/12/31/ 23:59:59');
 CREATE INDEX 'dear_story_data_0_value' on 'dear_story_data'('value');
 COMMIT;

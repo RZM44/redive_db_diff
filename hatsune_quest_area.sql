@@ -97,5 +97,7 @@ INSERT INTO hatsune_quest_area VALUES(10040103,10040,'伊丽莎白牧场',201,'b
 INSERT INTO hatsune_quest_area VALUES(10040201,10040,'伊丽莎白牧场',201,'bgm_M351','bgm_M351','2022/04/30 11:00:00','2022/05/14 23:59:59',1,1,0,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10041101,10041,'大江户镇',201,'bgm_M223','bgm_M223','2022/05/18 11:00:00','2022/05/25 23:59:59',1,1,120,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10041201,10041,'大江户镇',201,'bgm_M223','bgm_M223','2022/05/18 11:00:00','2022/05/25 23:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10042101,10042,'不可思议之国',201,'bgm_M375','bgm_M375','2022/05/31 11:00:00','2022/06/14 23:59:59',1,0,200,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10042201,10042,'不可思议之国',201,'bgm_M375','bgm_M375','2022/05/31 11:00:00','2022/06/14 23:59:59',1,0,100,0,0,'0','0',0);
 CREATE INDEX 'hatsune_quest_area_0_event_id' on 'hatsune_quest_area'('event_id');
 COMMIT;
