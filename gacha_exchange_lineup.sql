@@ -129,5 +129,14 @@ INSERT INTO gacha_exchange_lineup VALUES(128,79,107101,3,0,'2022/4/17  11:00:00'
 INSERT INTO gacha_exchange_lineup VALUES(129,80,112901,3,1018,'2022/5/31  11:00:00','2022/6/7 8:59:59');
 INSERT INTO gacha_exchange_lineup VALUES(130,81,110001,3,0,'2022/6/7  9:00:00','2022/6/14 10:59:59');
 INSERT INTO gacha_exchange_lineup VALUES(131,81,110301,3,0,'2022/6/7  9:00:00','2022/6/14 10:59:59');
+INSERT INTO gacha_exchange_lineup VALUES(132,82,106601,3,1019,'2022/6/14  11:00:00','2022/6/21 10:59:59');
+INSERT INTO gacha_exchange_lineup VALUES(133,83,111501,3,0,'2022/6/21  11:00:00','2022/6/26 10:59:59');
+INSERT INTO gacha_exchange_lineup VALUES(134,84,180201,3,1020,'2022/6/26  11:00:00','2022/6/29 10:59:59');
+INSERT INTO gacha_exchange_lineup VALUES(135,84,180501,3,0,'2022/6/26  11:00:00','2022/6/29 10:59:59');
+INSERT INTO gacha_exchange_lineup VALUES(136,84,180401,3,0,'2022/6/26  11:00:00','2022/6/29 10:59:59');
+INSERT INTO gacha_exchange_lineup VALUES(137,84,107001,3,0,'2022/6/26  11:00:00','2022/6/29 10:59:59');
+INSERT INTO gacha_exchange_lineup VALUES(138,84,106101,3,0,'2022/6/26  11:00:00','2022/6/29 10:59:59');
+INSERT INTO gacha_exchange_lineup VALUES(139,84,107101,3,0,'2022/6/26  11:00:00','2022/6/29 10:59:59');
+INSERT INTO gacha_exchange_lineup VALUES(140,85,113101,3,1021,'2022/6/29  11:00:00','2022/7/8 10:59:59');
 CREATE INDEX 'gacha_exchange_lineup_0_exchange_id' on 'gacha_exchange_lineup'('exchange_id');
 COMMIT;
