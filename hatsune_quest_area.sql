@@ -101,5 +101,8 @@ INSERT INTO hatsune_quest_area VALUES(10042101,10042,'不可思议之国',201,'b
 INSERT INTO hatsune_quest_area VALUES(10042201,10042,'不可思议之国',201,'bgm_M375','bgm_M375','2022/05/31 11:00:00','2022/06/14 23:59:59',1,0,100,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10043101,10043,'阳雨海滩',201,'bgm_M237','bgm_M237','2022/06/16 12:00:00','2022/06/23 23:59:59',1,1,100,0,0,'0','0',12);
 INSERT INTO hatsune_quest_area VALUES(10043201,10043,'阳雨海滩',201,'bgm_M237','bgm_M237','2022/06/16 12:00:00','2022/06/23 23:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10044101,10044,'心愿海滩周边',201,'bgm_M380A','bgm_M380A','2022/06/30 11:00:00','2022/07/14 23:59:59',1,1,90,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10044102,10044,'星降银河',201,'bgm_M380B','bgm_M380B_02','2022/06/30 11:00:00','2022/07/14 23:59:59',1,2,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10044201,10044,'星降银河',201,'bgm_M380B','bgm_M380B_02','2022/06/30 11:00:00','2022/07/14 23:59:59',1,0,0,0,0,'0','0',0);
 CREATE INDEX 'hatsune_quest_area_0_event_id' on 'hatsune_quest_area'('event_id');
 COMMIT;
