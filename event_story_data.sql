@@ -5,7 +5,7 @@ INSERT INTO event_story_data VALUES(5001,5,20001,'初音的礼物大作战',0,1,
 INSERT INTO event_story_data VALUES(5002,5,20002,'小小甜心冒险家',0,1,'2020/06/03 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5003,5,20003,'吸血鬼猎人with伊莉亚',0,1,'2020/07/02 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5004,5,20004,'危险假日！！ 海边的美食家公主',0,1,'2020/07/30 15:00:00','2099/12/31 23:59:59');
-INSERT INTO event_story_data VALUES(5005,5,10022,'珠希与美冬的无人岛0金币生活',0,1,'2020/08/27 15:00:00','2099/12/31 23:59:59');
+INSERT INTO event_story_data VALUES(5005,5,20005,'珠希与美冬的无人岛0金币生活',0,1,'2020/08/27 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5006,5,10024,'黑铁的亡灵（梦魇）',0,1,'2020/09/24 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5007,5,10026,'不给布丁就捣蛋！约定的万圣节派对',0,1,'2020/10/22 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5008,5,10028,'暮光破坏者',0,1,'2020/11/19 15:00:00','2099/12/31 23:59:59');
@@ -30,5 +30,6 @@ INSERT INTO event_story_data VALUES(5038,5,10038,'恩赐的财团与神圣学院
 INSERT INTO event_story_data VALUES(5040,5,10040,'牧场里的四农士　贫穷农场奋斗记！',0,1,'2022/04/24 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5042,5,10042,'不可思议之国的璃乃　小小爱丽丝与希望的绘本',0,1,'2022/05/26 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5044,5,10044,'七夕剑客旅情谭　天际川流夏之恋',0,1,'2022/06/24 15:00:00','2099/12/31 23:59:59');
+INSERT INTO event_story_data VALUES(5046,5,10046,'美里的夏日应援！　追梦的盛夏棒球队',0,1,'2022/07/26 15:00:00','2099/12/31 23:59:59');
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
 COMMIT;

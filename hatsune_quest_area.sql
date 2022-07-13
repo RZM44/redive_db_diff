@@ -104,5 +104,7 @@ INSERT INTO hatsune_quest_area VALUES(10043201,10043,'阳雨海滩',201,'bgm_M23
 INSERT INTO hatsune_quest_area VALUES(10044101,10044,'心愿海滩周边',201,'bgm_M380A','bgm_M380A','2022/06/30 11:00:00','2022/07/14 23:59:59',1,1,90,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10044102,10044,'星降银河',201,'bgm_M380B','bgm_M380B_02','2022/06/30 11:00:00','2022/07/14 23:59:59',1,2,0,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10044201,10044,'星降银河',201,'bgm_M380B','bgm_M380B_02','2022/06/30 11:00:00','2022/07/14 23:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10045101,10045,'真步真步王国避暑地？',201,'bgm_M245','bgm_M245_02','2022/07/16 12:00:00','2022/07/23 23:59:59',1,0,150,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10045201,10045,'真步真步王国避暑地？',201,'bgm_M245','bgm_M245_02','2022/07/16 12:00:00','2022/07/23 23:59:59',1,0,0,0,0,'0','0',0);
 CREATE INDEX 'hatsune_quest_area_0_event_id' on 'hatsune_quest_area'('event_id');
 COMMIT;
