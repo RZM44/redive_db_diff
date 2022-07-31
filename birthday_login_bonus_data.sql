@@ -51,6 +51,6 @@ INSERT INTO birthday_login_bonus_data VALUES(9109401,'古蕾雅「生日剧情�
 INSERT INTO birthday_login_bonus_data VALUES(9110801,'克罗依「生日剧情」',9,'2022/8/7 5:00:00','2022/8/8 4:59:00',1108500);
 INSERT INTO birthday_login_bonus_data VALUES(9110901,'千爱瑠「生日剧情」',9,'2022/9/15 5:00:00','2022/9/16 4:59:00',1109500);
 INSERT INTO birthday_login_bonus_data VALUES(9112401,'卯月（偶像大师）「生日剧情」',9,'2022/4/24 5:00:00','2022/4/25 4:59:00',1124500);
-INSERT INTO birthday_login_bonus_data VALUES(9112501,'铃「生日剧情」',9,'2022/8/10 5:00:00','2022/8/11 4:59:00',1125500);
+INSERT INTO birthday_login_bonus_data VALUES(9112501,'凛「生日剧情」',9,'2022/8/10 5:00:00','2022/8/11 4:59:00',1125500);
 INSERT INTO birthday_login_bonus_data VALUES(9112601,'未央（偶像大师）「生日剧情」',9,'2022/12/1 5:00:00','2022/12/2 4:59:00',1126500);
 COMMIT;
