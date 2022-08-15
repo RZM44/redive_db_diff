@@ -121,6 +121,7 @@ INSERT INTO unlock_unit_condition VALUES(113201,'杏奈（夏日）',1,0,1,2,311
 INSERT INTO unlock_unit_condition VALUES(113301,'七七香（夏日）',1,0,1,2,31133,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(113401,'初音（夏日）',1,0,1,2,31134,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(113501,'美里（夏日）',1,0,1,2,31135,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(113601,'纯（夏日）',1,0,1,2,31136,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(170101,'环奈',1,0,1,2,31701,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(170201,'环奈（振袖）',1,0,1,2,31702,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(180201,'优衣（公主）',1,0,1,2,31802,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);

@@ -46,6 +46,7 @@ INSERT INTO event_gacha_data VALUES(10043,10043,'铃奈的RAINBOW STAGE！',2,60
 INSERT INTO event_gacha_data VALUES(10044,10044,'七夕剑客旅情谭　天际川流夏之恋',2,60432,1,5);
 INSERT INTO event_gacha_data VALUES(10045,10045,'盛夏的真步真步王国 海滩上的灵魂之夏！',2,60442,1,5);
 INSERT INTO event_gacha_data VALUES(10046,10046,'美里的夏日应援！　追梦的盛夏棒球队',2,60452,1,5);
+INSERT INTO event_gacha_data VALUES(10047,10047,'森林里的胆小鬼与神圣学院的问题儿童',2,60462,1,5);
 INSERT INTO event_gacha_data VALUES(19003,10003,'吸血鬼猎人with伊莉亚讨伐证交换',2,60022,1,5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');
 COMMIT;

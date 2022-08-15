@@ -125,7 +125,7 @@ INSERT INTO unit_background VALUES(113201,'杏奈（夏日）',501030,'心愿海
 INSERT INTO unit_background VALUES(113301,'七七香（夏日）',501030,'心愿海滩',0.0,4);
 INSERT INTO unit_background VALUES(113401,'初音（夏日）',501100,'沙滩广场',0.0,4);
 INSERT INTO unit_background VALUES(113501,'美里（夏日）',501100,'沙滩广场',0.0,4);
-INSERT INTO unit_background VALUES(113601,'纯（夏日）',500164,'马尔简海岸',0.0,2);
+INSERT INTO unit_background VALUES(113601,'纯（夏日）',500164,'马尔冈海岸',0.0,2);
 INSERT INTO unit_background VALUES(113701,'茜里（天使）',500010,'兰德索尔_市区_白天',0.0,4);
 INSERT INTO unit_background VALUES(113801,'依里（天使）',500010,'兰德索尔_市区_白天',0.0,2);
 INSERT INTO unit_background VALUES(113901,'纺希（万圣节）',501130,'万圣节公园_白天',0.0,4);
@@ -140,7 +140,7 @@ INSERT INTO unit_background VALUES(114701,'矛依未（新年）',501162,'大间
 INSERT INTO unit_background VALUES(115001,'似似花（新年）',501162,'大间镇_白天',0.0,2);
 INSERT INTO unit_background VALUES(115501,'可可萝（礼服）',500140,'普拉诺平原',0.0,4);
 INSERT INTO unit_background VALUES(115601,'优衣（礼服）',500140,'普拉诺平原',0.0,17);
-INSERT INTO unit_background VALUES(115701,'香澄（夏日）',500160,'马尔简海岸',0.0,4);
+INSERT INTO unit_background VALUES(115701,'香澄（夏日）',500160,'马尔冈海岸',0.0,4);
 INSERT INTO unit_background VALUES(115801,'莉玛（灰姑娘）',500130,'埃斯特雷拉街道',0.0,4);
 INSERT INTO unit_background VALUES(115901,'真琴（灰姑娘）',500130,'埃斯特雷拉街道',0.0,4);
 INSERT INTO unit_background VALUES(116001,'真步（灰姑娘）',500060,'自卫团 据点',0.0,4);
