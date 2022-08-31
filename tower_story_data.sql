@@ -14,4 +14,5 @@ INSERT INTO tower_story_data VALUES(7010,7,10,'老师们的学习辅导',0,1,'20
 INSERT INTO tower_story_data VALUES(7011,7,11,'忍剑奇道中',0,1,'2022/03/16 12:00:00','2099/12/31 23:59:59');
 INSERT INTO tower_story_data VALUES(7012,7,12,'擦肩而过的距离',0,1,'2022/05/15 12:00:00','2099/12/31 23:59:59');
 INSERT INTO tower_story_data VALUES(7013,7,13,'劳逸不均',0,1,'2022/07/14 12:00:00','2099/12/31 23:59:59');
+INSERT INTO tower_story_data VALUES(7014,7,14,'淑女的理想的大人的真实',0,1,'2022/09/15 12:00:00','2099/12/31 23:59:59');
 COMMIT;

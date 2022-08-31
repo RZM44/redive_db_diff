@@ -110,5 +110,10 @@ INSERT INTO hatsune_quest_area VALUES(10046101,10046,'沙滩球公园',201,'bgm_
 INSERT INTO hatsune_quest_area VALUES(10046201,10046,'沙滩球公园',201,'bgm_M393','bgm_M393','2022/07/31 11:00:00','2022/08/14 23:59:59',1,0,0,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10047101,10047,'圣特蕾莎女子学院',201,'bgm_M254','bgm_M254','2022/08/16 12:00:00','2022/08/23 23:59:59',1,1,70,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10047201,10047,'圣特蕾莎女子学院',201,'bgm_M254','bgm_M254','2022/08/16 12:00:00','2022/08/23 23:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10048101,10048,'王都兰德索尔',201,'bgm_M403','bgm_M403','2022/08/31 11:00:00','2022/09/14 23:59:59',1,1,80,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10048201,10048,'王都兰德索尔',201,'bgm_M403','bgm_M403','2022/08/31 11:00:00','2022/09/14 23:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10049101,10049,'鬼屋周边',201,'bgm_M265','bgm_M265_Top','2022/09/17 12:00:00','2022/09/24 23:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10049102,10049,'幽灵墓地',201,'bgm_M265','bgm_M265_Top','2022/09/17 12:00:00','2022/09/24 23:59:59',1,2,0,0,1,'202','0',0);
+INSERT INTO hatsune_quest_area VALUES(10049201,10049,'幽灵墓地',201,'bgm_M265','bgm_M265_Top','2022/09/17 12:00:00','2022/09/24 23:59:59',1,1,0,0,0,'0','0',0);
 CREATE INDEX 'hatsune_quest_area_0_event_id' on 'hatsune_quest_area'('event_id');
 COMMIT;
