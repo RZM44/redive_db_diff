@@ -13,5 +13,6 @@ INSERT INTO dear_story_data VALUES(6040,6,10040,'牧场里的四农士　贫穷�
 INSERT INTO dear_story_data VALUES(6042,6,10042,'不可思议之国的璃乃　小小爱丽丝与希望的绘本',0,1,'2022/05/31 11:00:00','2099/12/31/ 23:59:59');
 INSERT INTO dear_story_data VALUES(6044,6,10044,'七夕剑客旅情谭　天际川流夏之恋',0,1,'2022/06/30 11:00:00','2099/12/31/ 23:59:59');
 INSERT INTO dear_story_data VALUES(6048,6,10048,'快乐变身 双生天使',0,1,'2022/08/31 11:00:00','2099/12/31/ 23:59:59');
+INSERT INTO dear_story_data VALUES(6050,6,10050,'尖叫！连连！万圣鬼怪狂欢节',0,1,'2022/09/30 11:00:00','2099/12/31/ 23:59:59');
 CREATE INDEX 'dear_story_data_0_value' on 'dear_story_data'('value');
 COMMIT;
