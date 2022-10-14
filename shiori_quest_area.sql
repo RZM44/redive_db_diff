@@ -17,5 +17,7 @@ INSERT INTO shiori_quest_area VALUES(20007101,20007,'兰德索尔郊外',201,'bg
 INSERT INTO shiori_quest_area VALUES(20007102,20007,'灵界',201,'bgm_M29','bgm_M29',1,2,0,80,1,'202','208',0);
 INSERT INTO shiori_quest_area VALUES(20007103,20007,'兰德索尔中心部',201,'bgm_M135','bgm_M135',1,3,0,0,1,'202','209',1);
 INSERT INTO shiori_quest_area VALUES(20007201,20007,'兰德索尔郊外',201,'bgm_M135','bgm_M135',1,1,0,0,0,'0','0',31);
+INSERT INTO shiori_quest_area VALUES(20008101,20008,'兰德索尔近郊',201,'bgm_M162','bgm_M162',1,0,35,0,0,'0','0',0);
+INSERT INTO shiori_quest_area VALUES(20008201,20008,'兰德索尔近郊',201,'bgm_M162','bgm_M162',1,0,0,0,0,'0','0',0);
 CREATE INDEX 'shiori_quest_area_0_event_id' on 'shiori_quest_area'('event_id');
 COMMIT;

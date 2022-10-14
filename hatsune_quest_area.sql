@@ -117,5 +117,7 @@ INSERT INTO hatsune_quest_area VALUES(10049102,10049,'幽灵墓地',201,'bgm_M26
 INSERT INTO hatsune_quest_area VALUES(10049201,10049,'幽灵墓地',201,'bgm_M265','bgm_M265_Top','2022/09/17 12:00:00','2022/09/24 23:59:59',1,1,0,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10050101,10050,'万圣节公园',201,'bgm_M413','bgm_M413','2022/09/30 11:00:00','2022/10/14 23:59:59',1,0,128,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10050201,10050,'万圣节公园',201,'bgm_M413','bgm_M413','2022/09/30 11:00:00','2022/10/14 23:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10051101,10051,'厄尔庇斯岛 营地开拓区',201,'bgm_M273','bgm_M273','2022/10/16 12:00:00','2022/10/23 23:59:59',1,0,90,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10051201,10051,'厄尔庇斯岛 营地开拓区',201,'bgm_M273','bgm_M273','2022/10/16 12:00:00','2022/10/23 23:59:59',1,0,0,0,0,'0','0',0);
 CREATE INDEX 'hatsune_quest_area_0_event_id' on 'hatsune_quest_area'('event_id');
 COMMIT;
