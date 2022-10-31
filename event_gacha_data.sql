@@ -51,6 +51,8 @@ INSERT INTO event_gacha_data VALUES(10048,10048,'Happy·Change·Angels',2,60472,
 INSERT INTO event_gacha_data VALUES(10049,10049,'小小的勇气·万圣节之夜！',2,60482,1,5);
 INSERT INTO event_gacha_data VALUES(10050,10050,'尖叫！连连！万圣鬼怪狂欢节',2,60492,1,5);
 INSERT INTO event_gacha_data VALUES(10051,10051,'龙之探索者',2,60502,1,5);
+INSERT INTO event_gacha_data VALUES(10052,10052,'魔法提督Lovely★莫妮卡 Let''s Go！魔法的四重奏！',2,60512,1,5);
+INSERT INTO event_gacha_data VALUES(10053,10053,'Re:从零开始收集的异世界餐桌',2,60522,1,5);
 INSERT INTO event_gacha_data VALUES(19003,10003,'吸血鬼猎人with伊莉亚讨伐证交换',2,60022,1,5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');
 COMMIT;

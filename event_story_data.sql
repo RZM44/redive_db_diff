@@ -15,7 +15,7 @@ INSERT INTO event_story_data VALUES(5011,5,10034,'情人节之战！正中红心
 INSERT INTO event_story_data VALUES(5012,5,10037,'王都的名侦探　叹息的追踪者（STALKER）',0,1,'2021/03/11 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5013,5,10039,'盛开在阿斯特莱亚的双轮之花',0,1,'2021/05/13 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5015,5,10041,'将军道中记　白翼的武士',0,1,'2021/06/07 15:00:00','2099/12/31 23:59:59');
-INSERT INTO event_story_data VALUES(5017,5,10017,'Re: 从零开始收集的异世界餐桌',0,1,'2021/04/14 15:00:00','2099/12/31 23:59:59');
+INSERT INTO event_story_data VALUES(5017,5,10053,'Re: 从零开始收集的异世界餐桌',0,1,'2021/04/14 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5019,5,10043,'铃奈的RAINBOW STAGE！',0,1,'2021/07/09 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5021,5,10045,'盛夏的真步真步王国 海滩上的灵魂之夏！',0,1,'2021/08/06 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5023,5,10047,'森林里的胆小鬼与神圣学院的问题儿童',0,1,'2021/09/01 15:00:00','2099/12/31 23:59:59');
@@ -33,6 +33,6 @@ INSERT INTO event_story_data VALUES(5044,5,10044,'七夕剑客旅情谭　天际
 INSERT INTO event_story_data VALUES(5046,5,10046,'美里的夏日应援！　追梦的盛夏棒球队',0,1,'2022/07/26 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5048,5,10048,'快乐变身 双生天使',0,1,'2022/08/25 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5050,5,10050,'尖叫！连连！万圣鬼怪狂欢节',0,1,'2022/09/23 15:00:00','2099/12/31 23:59:59');
-INSERT INTO event_story_data VALUES(5052,5,10052,'魔法提督Lovely★莫妮卡 Let''s Go！魔法的四重奏！',0,1,'2022/10/25 15:00:00','2099/12/31 23:59:59');
+INSERT INTO event_story_data VALUES(5052,5,10052,'魔法提督Lovely★莫妮卡 Let''s　Go！魔法的四重奏！',0,1,'2022/10/25 15:00:00','2099/12/31 23:59:59');
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
 COMMIT;
