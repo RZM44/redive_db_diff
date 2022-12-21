@@ -11,5 +11,7 @@ INSERT INTO login_bonus_adv VALUES(7,70002,'2021/12/25 5:00:00','2021/12/26 4:59
 INSERT INTO login_bonus_adv VALUES(8,70003,'0','0',1,413,0);
 INSERT INTO login_bonus_adv VALUES(9,70003,'0','0',2,414,0);
 INSERT INTO login_bonus_adv VALUES(10,70003,'0','0',3,415,0);
+INSERT INTO login_bonus_adv VALUES(21,70004,'2022/12/24 5:00:00','2022/12/25 4:59:59',0,400,0);
+INSERT INTO login_bonus_adv VALUES(22,70004,'2022/12/25 5:00:00','2022/12/25 4:59:59',0,401,0);
 CREATE INDEX 'login_bonus_adv_0_login_bonus_id' on 'login_bonus_adv'('login_bonus_id');
 COMMIT;
