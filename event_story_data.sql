@@ -22,7 +22,7 @@ INSERT INTO event_story_data VALUES(5023,5,10047,'森林里的胆小鬼与神圣
 INSERT INTO event_story_data VALUES(5025,5,10049,'小小的勇气·万圣节之夜！',0,1,'2021/09/30 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5027,5,10051,'龙之探索者',0,1,'2021/10/28 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5029,5,10055,'礼物大恐慌！　兰德索尔的圣诞老人们',0,1,'2021/11/25 15:00:00','2099/12/31 23:59:59');
-INSERT INTO event_story_data VALUES(5031,5,10031,'狂奔！　兰德索尔公会竞速赛',0,1,'2021/12/26 15:00:00','2099/12/31 23:59:59');
+INSERT INTO event_story_data VALUES(5031,5,10057,'狂奔！　兰德索尔公会竞速赛',0,1,'2021/12/26 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5033,5,10033,'魔法少女　二人是Misty＆Purely',0,1,'2022/01/24 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5035,5,10035,'星光公主　Re:M@STER！',0,1,'2022/02/25 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5036,5,10036,'星光公主　Re:M@STER！',0,1,'2022/02/25 15:00:00','2099/12/31 23:59:59');
@@ -35,6 +35,6 @@ INSERT INTO event_story_data VALUES(5048,5,10048,'快乐变身 双生天使',0,1
 INSERT INTO event_story_data VALUES(5050,5,10050,'尖叫！连连！万圣鬼怪狂欢节',0,1,'2022/09/23 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5052,5,10052,'魔法提督Lovely★莫妮卡 Let''s　Go！魔法的四重奏！',0,1,'2022/10/25 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5054,5,10054,'初次登场·香格里拉　圣夜的爱情游戏',0,1,'2022/11/25 15:00:00','2099/12/31 23:59:59');
-INSERT INTO event_story_data VALUES(5056,5,10056,'新春美食公主！　赌上关键一掷的少女们',0,1,'2022/12/26 15:00:00','2099/12/31 23:59:59');
+INSERT INTO event_story_data VALUES(5056,5,10056,'新春美食公主！　孤注一掷的少女们',0,1,'2022/12/26 15:00:00','2099/12/31 23:59:59');
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
 COMMIT;

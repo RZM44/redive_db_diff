@@ -135,6 +135,9 @@ INSERT INTO login_bonus_detail VALUES(170,80003,14,8,91002,100,0,'','',1,500371)
 INSERT INTO login_bonus_detail VALUES(171,80003,15,8,91002,100,0,'','',1,500033);
 INSERT INTO login_bonus_detail VALUES(183,70004,1,8,91002,500,0,'','',0,0);
 INSERT INTO login_bonus_detail VALUES(184,70004,2,8,91002,500,0,'','',0,0);
+INSERT INTO login_bonus_detail VALUES(185,70005,1,8,91002,300,0,'','',0,0);
+INSERT INTO login_bonus_detail VALUES(186,70005,2,8,91002,300,0,'','',0,0);
+INSERT INTO login_bonus_detail VALUES(187,70005,3,8,91002,300,0,'','',0,0);
 INSERT INTO login_bonus_detail VALUES(1001,48001,1,8,91002,300,0,'','',0,0);
 INSERT INTO login_bonus_detail VALUES(1002,48001,2,8,91002,100,0,'','',0,0);
 INSERT INTO login_bonus_detail VALUES(1003,48001,3,8,91002,100,0,'','',0,0);

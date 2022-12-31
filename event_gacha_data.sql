@@ -55,6 +55,8 @@ INSERT INTO event_gacha_data VALUES(10052,10052,'魔法提督Lovely★莫妮卡 
 INSERT INTO event_gacha_data VALUES(10053,10053,'Re:从零开始收集的异世界餐桌',2,60522,1,5);
 INSERT INTO event_gacha_data VALUES(10054,10054,'初次登场·香格里拉　圣夜的爱情游戏',2,60532,1,6);
 INSERT INTO event_gacha_data VALUES(10055,10055,'礼物大恐慌！　兰德索尔的圣诞老人们',2,60542,1,5);
+INSERT INTO event_gacha_data VALUES(10056,10056,'新春美食公主！　孤注一掷的少女们',2,60552,1,6);
+INSERT INTO event_gacha_data VALUES(10057,10057,'狂奔！　兰德索尔公会竞速赛',2,60562,1,5);
 INSERT INTO event_gacha_data VALUES(19003,10003,'吸血鬼猎人with伊莉亚讨伐证交换',2,60022,1,5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');
 COMMIT;

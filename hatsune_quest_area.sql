@@ -129,5 +129,10 @@ INSERT INTO hatsune_quest_area VALUES(10054201,10054,'初次登场·香格里拉
 INSERT INTO hatsune_quest_area VALUES(10055101,10055,'王都兰德索尔 郊外',201,'bgm_M281','bgm_M281','2022/12/16 12:00:00','2022/12/23 23:59:59',1,1,0,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10055102,10055,'王都兰德索尔 中央广场',201,'bgm_M281','bgm_M281','2022/12/16 12:00:00','2022/12/23 23:59:59',1,2,0,0,0,'0','0',11);
 INSERT INTO hatsune_quest_area VALUES(10055201,10055,'王都兰德索尔 中央广场',201,'bgm_M281','bgm_M281','2022/12/16 12:00:00','2022/12/23 23:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10056101,10056,'港口城镇·大间',201,'bgm_M435','bgm_M435','2022/12/31 11:00:00','2023/01/14 23:59:59',1,1,95,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10056201,10056,'港口城镇·大间',201,'bgm_M435','bgm_M435','2022/12/31 11:00:00','2023/01/14 23:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10057101,10057,'公会竞速赛　1区→2区',201,'bgm_M294','bgm_M294','2023/01/15 12:00:00','2023/01/22 23:59:59',1,1,30,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10057102,10057,'公会竞速赛　3区→4区',201,'bgm_M294','bgm_M294','2023/01/15 12:00:00','2023/01/22 23:59:59',1,2,30,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10057201,10057,'公会竞速赛　3区→4区',201,'bgm_M294','bgm_M294','2023/01/15 12:00:00','2023/01/22 23:59:59',1,1,0,0,0,'0','0',0);
 CREATE INDEX 'hatsune_quest_area_0_event_id' on 'hatsune_quest_area'('event_id');
 COMMIT;
