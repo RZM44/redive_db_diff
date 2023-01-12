@@ -125,7 +125,7 @@ shiori_enemy_parameter,,7328
 goldset_data,,70
 sekai_add_times_data,,12
 clan_battle_s_map_data,clan_battle_s_map_data_0_clan_battle_id,"134 4"
-unit_unique_equip,,99
+unit_unique_equip,,102
 story_detail,,1209
 content_map_data,,5
 odds_name_data,,145
@@ -156,7 +156,7 @@ quest_data,,796
 emblem_mission_reward_data,emblem_mission_reward_data_0_reward_id,"729 2"
 emblem_mission_reward_data,emblem_mission_reward_data_0_mission_reward_id,"729 2"
 tower_quest_fix_reward_group,,581
-hatsune_special_mission_data,,304
+hatsune_special_mission_data,,305
 sekai_unlock_story_condition,,5
 dungeon_quest_data,,47
 campaign_mission_reward_data,campaign_mission_reward_data_0_campaign_mission_reward_id,"24 2"
