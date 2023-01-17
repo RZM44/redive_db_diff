@@ -11,7 +11,7 @@ INSERT INTO event_story_data VALUES(5007,5,20007,'不给布丁就捣蛋！约定
 INSERT INTO event_story_data VALUES(5008,5,20008,'暮光破坏者',0,1,'2020/11/19 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5009,5,20009,'忘却的圣歌',0,1,'2020/12/17 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5010,5,20010,'新春破晓之星大危机',0,1,'2021/01/14 15:00:00','2099/12/31 23:59:59');
-INSERT INTO event_story_data VALUES(5011,5,10034,'情人节之战！正中红心的甜蜜战斗',0,1,'2022/02/10 15:00:00','2099/12/31 23:59:59');
+INSERT INTO event_story_data VALUES(5011,5,20011,'情人节之战！正中红心的甜蜜战斗',0,1,'2022/02/10 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5012,5,10037,'王都的名侦探　叹息的追踪者（STALKER）',0,1,'2021/03/11 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5013,5,10039,'盛开在阿斯特莱亚的双轮之花',0,1,'2021/05/13 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5015,5,10041,'将军道中记　白翼的武士',0,1,'2021/06/07 15:00:00','2099/12/31 23:59:59');
@@ -36,5 +36,6 @@ INSERT INTO event_story_data VALUES(5050,5,10050,'尖叫！连连！万圣鬼怪
 INSERT INTO event_story_data VALUES(5052,5,10052,'魔法提督Lovely★莫妮卡 Let''s　Go！魔法的四重奏！',0,1,'2022/10/25 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5054,5,10054,'初次登场·香格里拉　圣夜的爱情游戏',0,1,'2022/11/25 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5056,5,10056,'新春美食公主！　孤注一掷的少女们',0,1,'2022/12/26 15:00:00','2099/12/31 23:59:59');
+INSERT INTO event_story_data VALUES(5058,5,10058,'羁绊相连。心相系。',0,1,'2023/01/25 15:00:00','2099/12/31 23:59:59');
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
 COMMIT;
