@@ -5,6 +5,6 @@ INSERT INTO room_item_get_announcement VALUES(1,2801,'2022/10/31 11:00:00','2030
 INSERT INTO room_item_get_announcement VALUES(2,2802,'2022/11/21 11:00:00','2030/12/31 23:59:59','');
 INSERT INTO room_item_get_announcement VALUES(3,2307,'2021/2/16 12:00:00','2030/12/31 23:59:59','2021/2/16 12:00:00');
 INSERT INTO room_item_get_announcement VALUES(4,2308,'2021/2/16 12:00:00','2030/12/31 23:59:59','2021/2/16 12:00:00');
-INSERT INTO room_item_get_announcement VALUES(5,2806,'2021/2/10 12:00:00','2030/12/31 23:59:59','');
+INSERT INTO room_item_get_announcement VALUES(5,2806,'2023/02/10 12:00:00','2030/12/31 23:59:59','');
 INSERT INTO room_item_get_announcement VALUES(6,2808,'2021/2/28 12:00:00','2030/12/31 23:59:59','');
 COMMIT;
