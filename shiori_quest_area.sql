@@ -26,5 +26,7 @@ INSERT INTO shiori_quest_area VALUES(20010201,20010,'前往神殿的神道',201,
 INSERT INTO shiori_quest_area VALUES(20011101,20011,'王都兰德索尔',201,'bgm_M189','bgm_M189',1,1,0,0,0,'0','0',0);
 INSERT INTO shiori_quest_area VALUES(20011102,20011,'厨房竞技场',201,'bgm_M189','bgm_M189',1,2,110,0,0,'0','0',0);
 INSERT INTO shiori_quest_area VALUES(20011201,20011,'厨房竞技场',201,'bgm_M189','bgm_M189',1,1,0,0,0,'0','0',0);
+INSERT INTO shiori_quest_area VALUES(20012101,20012,'王都兰德索尔',201,'bgm_M206','bgm_M206',1,1,115,0,0,'0','0',0);
+INSERT INTO shiori_quest_area VALUES(20012201,20012,'王都兰德索尔',201,'bgm_M206','bgm_M206',1,1,0,0,0,'0','0',0);
 CREATE INDEX 'shiori_quest_area_0_event_id' on 'shiori_quest_area'('event_id');
 COMMIT;
