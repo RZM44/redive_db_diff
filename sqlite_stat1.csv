@@ -101,13 +101,13 @@ nyx_story_data,nyx_story_data_0_story_phase,"15 5"
 nyx_story_data,nyx_story_data_0_story_seq,"15 1"
 clan_battle_s_boss_data,,190
 clan_battle_2_map_data,clan_battle_2_map_data_0_clan_battle_id,"154 5"
-story_data,,192
+story_data,,193
 spskill_label_data,,1
 hatsune_diary_script,hatsune_diary_script_0_diary_id,"427 31"
 gift_message,,109
 skill_action,,5878
 kaiser_extermination_reward,,4
-emblem_data,,609
+emblem_data,,612
 vote_unit,sqlite_autoindex_vote_unit_1,"55 55 1"
 pct_itempoint,pct_itempoint_0_item_id,"3 1"
 hatsune_diary_setting,,1
@@ -126,7 +126,7 @@ goldset_data,,70
 sekai_add_times_data,,12
 clan_battle_s_map_data,clan_battle_s_map_data_0_clan_battle_id,"134 4"
 unit_unique_equip,,104
-story_detail,,1244
+story_detail,,1248
 content_map_data,,5
 odds_name_data,,145
 hatsune_special_boss_ticket_count,,1
@@ -160,7 +160,7 @@ hatsune_special_mission_data,,329
 sekai_unlock_story_condition,,5
 dungeon_quest_data,,47
 campaign_mission_reward_data,campaign_mission_reward_data_0_campaign_mission_reward_id,"24 2"
-emblem_mission_data,,511
+emblem_mission_data,,514
 pct_gaming_motion,,8
 dear_reward,dear_reward_0_event_id_1_chara_index,"260 15 5"
 shiori_mission_reward_data,shiori_mission_reward_data_0_mission_reward_id,"637 2"
@@ -229,7 +229,7 @@ item_e_ticket_data,sqlite_autoindex_item_e_ticket_data_1,"27 3 1"
 pkb_reward,,14
 clan_battle_odds_data,clan_battle_odds_data_0_odds_group_id,"26 6"
 clan_battle_odds_data,sqlite_autoindex_clan_battle_odds_data_1,"26 6 1 1"
-unit_data,,183
+unit_data,,184
 ailment_data,,32
 kmk_reward,,15
 pct_tap_speed,,8
@@ -338,7 +338,7 @@ event_effect_setting,sqlite_autoindex_event_effect_setting_1,"48 3 1"
 grand_arena_defence_reward,,1
 chara_fortune_schedule,,7
 unit_mypage_pos,,36
-unlock_unit_condition,,144
+unlock_unit_condition,,145
 daily_mission_data,,394
 equipment_donation,,9
 equipment_data,,665
@@ -374,7 +374,7 @@ room_character_personality,,155
 guild_additional_member,,1
 unit_promotion,unit_promotion_0_unit_id,"3520 20"
 unit_promotion,sqlite_autoindex_unit_promotion_1,"3520 20 1"
-item_data,,330
+item_data,,331
 ttk_reward,ttk_reward_0_ttk_score,"2 1"
 event_navi_comment_condition,,253
 shiori_quest_condition,,240
