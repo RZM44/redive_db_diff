@@ -17,5 +17,6 @@ INSERT INTO dear_story_data VALUES(6050,6,10050,'尖叫！连连！万圣鬼怪�
 INSERT INTO dear_story_data VALUES(6052,6,10052,'魔法提督Lovely★莫妮卡 Let''s　Go！魔法的四重奏！',0,1,'2022/10/31 11:00:00','2099/12/31/ 23:59:59');
 INSERT INTO dear_story_data VALUES(6054,6,10054,'初次登场·香格里拉　圣夜的爱情游戏',0,1,'2022/11/30 11:00:00','2099/12/31/ 23:59:59');
 INSERT INTO dear_story_data VALUES(6056,6,10056,'新春美食公主！　孤注一掷的少女们',0,1,'2022/12/31 11:00:00','2099/12/31/ 23:59:59');
+INSERT INTO dear_story_data VALUES(6061,6,10061,'灰姑娘课程　璀璨的日子是苹果的滋味',0,1,'2023/2/28 11:00:00','2099/12/31/ 23:59:59');
 CREATE INDEX 'dear_story_data_0_value' on 'dear_story_data'('value');
 COMMIT;

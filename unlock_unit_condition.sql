@@ -140,10 +140,12 @@ INSERT INTO unlock_unit_condition VALUES(115001,'似似花（新年）',1,0,1,2,
 INSERT INTO unlock_unit_condition VALUES(115501,'可可萝（礼服）',1,0,1,2,31155,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(115601,'优衣（礼服）',1,0,1,2,31156,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(115701,'香澄（夏日）',1,0,1,2,31157,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(115801,'莉玛（灰姑娘）',1,0,1,2,31158,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(170101,'环奈',1,0,1,2,31701,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(170201,'环奈（振袖）',1,0,1,2,31702,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(180101,'日和莉（公主）',1,0,1,2,31801,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(180201,'优衣（公主）',1,0,1,2,31802,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(180401,'佩可莉姆（公主）',1,0,1,2,31804,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(180501,'可可萝（公主）',1,0,1,2,31805,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(180601,'凯露（公主）',1,0,1,2,31806,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 COMMIT;
