@@ -30,11 +30,11 @@ INSERT INTO unit_comments VALUES(1002009,100231,1,4,1,0.0,1,'要学什么样的�
 INSERT INTO unit_comments VALUES(1002010,100231,1,5,1,0.0,1,'新学会的魔法呀，\n有防火、防寒、耐热……还有\n防止鱼骨刺到喉咙的\n魔法……要保密哦？');
 INSERT INTO unit_comments VALUES(1002011,100201,2,6,1,7.9,5,'骑士君。生日快乐\n呃……这是生日的蛋糕！\n那个……不介意的话，请尝尝吧！\n嗯……今后也请多指教！');
 INSERT INTO unit_comments VALUES(1002012,100231,2,6,1,0.0,1,'生日快乐，骑士君\n今天除了蛋糕\n我还准备了各种食物\n大家一起庆祝吧！');
-INSERT INTO unit_comments VALUES(1002013,100261,1,1,1,0.0,1,'诶嘿嘿，美美飞天了哦♪\n走吧，小小格里芬，\n向着天空的另一头\n出发♪');
-INSERT INTO unit_comments VALUES(1002014,100261,1,2,1,0.0,1,'美美和小小格里芬是\n最棒的朋友♪\n要一直一直\n在一起哦♪');
-INSERT INTO unit_comments VALUES(1002015,100261,1,3,1,0.0,1,'哥哥怎么样？\n美美帅气吗，\n有没有做好大姐姐？\n真的？　太好了太好了♪');
-INSERT INTO unit_comments VALUES(1002016,100261,1,4,1,0.0,1,'等美美长大之后，\n想要和哥哥一起\n前往很远很远的地方～\n快点长大吧♪');
-INSERT INTO unit_comments VALUES(1002017,100261,1,5,1,0.0,1,'至今为止，一直是哥哥\n在帮助我，这次由\n美美来守护好\n哥哥♪');
+INSERT INTO unit_comments VALUES(1002013,100261,1,1,1,0.0,1,'骑士君——我的重要之人\n受到伤害的时候，我想要治愈他……\n这就是我现在的愿望');
+INSERT INTO unit_comments VALUES(1002014,100261,1,2,1,0.0,1,'骑士君，有没有哪里痛？\n伤都好了吗？\n太好了。已经没事了吧');
+INSERT INTO unit_comments VALUES(1002015,100261,1,3,1,0.0,1,'拜托了，骑士君今后也请\n给我勇气……\n为了能够成为更加强大、更加温柔的自己！');
+INSERT INTO unit_comments VALUES(1002016,100261,1,4,1,0.0,1,'只论想念的程度，我也不会输的……\n但是，光有想念还不够吧，\n要好好付诸行动才行！');
+INSERT INTO unit_comments VALUES(1002017,100261,1,5,1,0.0,1,'喜欢骑士君的心情总是\n能够带给我力量……\n骑士君！？你听到刚才的话了吗！？');
 INSERT INTO unit_comments VALUES(1003001,100301,1,1,1,4.0,2,'若是为了达到目的，\n我不惜付出任何努力，\n希望你也有同样的决心');
 INSERT INTO unit_comments VALUES(1003002,100301,1,2,2,4.5,6,'关于下次的修行\n我想和你商量一下，可以吗？\n地点要选在哪里呢……');
 INSERT INTO unit_comments VALUES(1003003,100301,1,3,1,4.5,2,'想要变强……\n只要坚守这个信念\n你一定也能变强');
@@ -281,7 +281,7 @@ INSERT INTO unit_comments VALUES(1020011,102001,2,6,2,2.7,5,'生日快乐♪\n�
 INSERT INTO unit_comments VALUES(1020012,102031,2,6,1,0.0,1,'美美，要唱祝福的歌了哦\n噜嗒嗒噜嗒嗒♪\n生日快乐♪\n最喜欢、最喜欢♪哥哥啦♪');
 INSERT INTO unit_comments VALUES(1020013,102061,1,1,1,0.0,1,'诶嘿嘿，美美飞天了哦♪\n走吧，小小格里芬，\n向着天空的另一头\n出发♪');
 INSERT INTO unit_comments VALUES(1020014,102061,1,2,1,0.0,1,'美美和小小格里芬是\n最棒的朋友♪\n要一直一直\n在一起哦♪');
-INSERT INTO unit_comments VALUES(1020015,102061,1,3,1,0.0,1,'哥哥怎么样？\n美美帅气吗，\n有没有做好大姐姐？\n真的？太好了太好了♪');
+INSERT INTO unit_comments VALUES(1020015,102061,1,3,1,0.0,1,'哥哥怎么样？\n美美帅气吗，\n有没有做好大姐姐？\n真的？　太好了太好了♪');
 INSERT INTO unit_comments VALUES(1020016,102061,1,4,1,0.0,1,'等美美长大之后，\n想要和哥哥一起\n前往很远很远的地方～\n快点长大吧♪');
 INSERT INTO unit_comments VALUES(1020017,102061,1,5,1,0.0,1,'至今为止，一直是哥哥\n在帮助我，这次由\n美美来守护好\n哥哥♪');
 INSERT INTO unit_comments VALUES(1021001,102101,1,1,1,0.0,2,'呆在哥哥身边\n就会觉得心情非常平静\n诶嘿，不由得就对你撒娇了……');

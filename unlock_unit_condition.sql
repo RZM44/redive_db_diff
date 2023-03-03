@@ -141,6 +141,7 @@ INSERT INTO unlock_unit_condition VALUES(115501,'可可萝（礼服）',1,0,1,2,
 INSERT INTO unlock_unit_condition VALUES(115601,'优衣（礼服）',1,0,1,2,31156,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(115701,'香澄（夏日）',1,0,1,2,31157,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(115801,'莉玛（灰姑娘）',1,0,1,2,31158,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(115901,'真琴（灰姑娘）',1,0,1,2,31159,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(170101,'环奈',1,0,1,2,31701,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(170201,'环奈（振袖）',1,0,1,2,31702,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(180101,'日和莉（公主）',1,0,1,2,31801,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
