@@ -17,4 +17,5 @@ INSERT INTO tower_story_data VALUES(7013,7,13,'劳逸不均',0,1,'2022/07/14 12:
 INSERT INTO tower_story_data VALUES(7014,7,14,'淑女的理想和大人的真实',0,1,'2022/09/15 12:00:00','2099/12/31 23:59:59');
 INSERT INTO tower_story_data VALUES(7015,7,15,'姐姐的命题和博士的对偶',0,1,'2022/11/18 12:00:00','2099/12/31 23:59:59');
 INSERT INTO tower_story_data VALUES(7016,7,16,'追忆的歌姬与仿徨的幽灵',0,1,'2023/01/18 12:00:00','2099/12/31 23:59:59');
+INSERT INTO tower_story_data VALUES(7017,7,17,'美的探求者和女君的宴席',0,1,'2023/03/18 12:00:00','2099/12/31 23:59:59');
 COMMIT;
