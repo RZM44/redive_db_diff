@@ -147,5 +147,7 @@ INSERT INTO hatsune_quest_area VALUES(10062101,10062,'兰德索尔近郊',201,'b
 INSERT INTO hatsune_quest_area VALUES(10062201,10062,'兰德索尔近郊',201,'bgm_M330','bgm_M330','2023/3/8 12:00:00','2023/3/24 23:59:59',1,0,0,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10063101,10063,'缪斯镇',201,'bgm_M341','bgm_M341','2023/3/16 11:00:00','2023/3/24 23:59:59',1,0,40,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10063201,10063,'缪斯镇',201,'bgm_M341','bgm_M341','2023/3/16 11:00:00','2023/3/24 23:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10064101,10064,'圣特蕾莎女子学院 圣学祭会场',201,'bgm_M457','bgm_M457','2023/3/31 11:00:00','2023/4/14 23:59:59',1,1,91,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10064201,10064,'圣特蕾莎女子学院 圣学祭会场',201,'bgm_M457','bgm_M457','2023/3/31 11:00:00','2023/4/14 23:59:59',1,0,0,0,0,'0','0',0);
 CREATE INDEX 'hatsune_quest_area_0_event_id' on 'hatsune_quest_area'('event_id');
 COMMIT;
