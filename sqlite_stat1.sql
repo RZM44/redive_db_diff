@@ -469,8 +469,8 @@ INSERT INTO sqlite_stat1 VALUES('wac_mural_data','sqlite_autoindex_wac_mural_dat
 INSERT INTO sqlite_stat1 VALUES('hatsune_item',NULL,'94');
 INSERT INTO sqlite_stat1 VALUES('unit_motion_list',NULL,'194');
 INSERT INTO sqlite_stat1 VALUES('dodge_tp_recovery',NULL,'41');
-INSERT INTO sqlite_stat1 VALUES('unique_equipment_rankup','unique_equipment_rankup_0_equip_id','2352 16');
-INSERT INTO sqlite_stat1 VALUES('unique_equipment_rankup','sqlite_autoindex_unique_equipment_rankup_1','2352 16 1');
+INSERT INTO sqlite_stat1 VALUES('unique_equipment_rankup','unique_equipment_rankup_0_equip_id','1764 12');
+INSERT INTO sqlite_stat1 VALUES('unique_equipment_rankup','sqlite_autoindex_unique_equipment_rankup_1','1764 12 1');
 INSERT INTO sqlite_stat1 VALUES('hatsune_emblem_mission_reward','hatsune_emblem_mission_reward_0_reward_id','348 2');
 INSERT INTO sqlite_stat1 VALUES('hatsune_emblem_mission_reward','hatsune_emblem_mission_reward_0_mission_reward_id','348 2');
 INSERT INTO sqlite_stat1 VALUES('pkb_navi_comment',NULL,'33');
