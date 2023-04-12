@@ -1,0 +1,11 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'secret_dungeon_emblem_reward' ('id' INTEGER NOT NULL, 'mission_reward_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_num' INTEGER NOT NULL, 'icon_type' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO secret_dungeon_emblem_reward VALUES(1,32001001,15,10701100,1,1002);
+INSERT INTO secret_dungeon_emblem_reward VALUES(2,32001002,15,10701101,1,1002);
+INSERT INTO secret_dungeon_emblem_reward VALUES(3,32001003,15,10701102,1,1002);
+INSERT INTO secret_dungeon_emblem_reward VALUES(4,32001004,15,10701103,1,1003);
+INSERT INTO secret_dungeon_emblem_reward VALUES(5,32001005,15,10701104,1,1003);
+CREATE INDEX 'secret_dungeon_emblem_reward_0_mission_reward_id' on 'secret_dungeon_emblem_reward'('mission_reward_id');
+CREATE INDEX 'secret_dungeon_emblem_reward_0_reward_id' on 'secret_dungeon_emblem_reward'('reward_id');
+COMMIT;

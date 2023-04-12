@@ -15,5 +15,8 @@ INSERT INTO arcade_story_list VALUES(5040701,1005,'和弱小敌人的攻防');
 INSERT INTO arcade_story_list VALUES(5040702,1005,'奶酪的诱惑');
 INSERT INTO arcade_story_list VALUES(5040703,1005,'萌芽的爱情？');
 INSERT INTO arcade_story_list VALUES(5040704,1005,'劳动会一直持续下去');
+INSERT INTO arcade_story_list VALUES(5080700,1008,'通往究极的道路');
+INSERT INTO arcade_story_list VALUES(5080701,1008,'布丁永存');
+INSERT INTO arcade_story_list VALUES(9004201,1009,'以正确答案为目标团结一致！');
 CREATE INDEX 'arcade_story_list_0_arcade_id' on 'arcade_story_list'('arcade_id');
 COMMIT;

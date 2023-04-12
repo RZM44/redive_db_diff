@@ -1,0 +1,10 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'clan_battle_archive_person_rank' ('id' INTEGER NOT NULL, 'rank_from' INTEGER NOT NULL, 'rank_to' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO clan_battle_archive_person_rank VALUES(1,1,1);
+INSERT INTO clan_battle_archive_person_rank VALUES(2,2,2);
+INSERT INTO clan_battle_archive_person_rank VALUES(3,3,3);
+INSERT INTO clan_battle_archive_person_rank VALUES(4,4,10);
+INSERT INTO clan_battle_archive_person_rank VALUES(5,11,15);
+INSERT INTO clan_battle_archive_person_rank VALUES(6,16,-1);
+COMMIT;

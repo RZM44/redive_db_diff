@@ -1,0 +1,10 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'cgg_completion_reward_data' ('id' INTEGER NOT NULL, 'completion_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_num' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO cgg_completion_reward_data VALUES(101,101,12,94002,100000);
+INSERT INTO cgg_completion_reward_data VALUES(102,102,12,94002,100000);
+INSERT INTO cgg_completion_reward_data VALUES(103,103,12,94002,100000);
+INSERT INTO cgg_completion_reward_data VALUES(201,201,12,94002,200000);
+INSERT INTO cgg_completion_reward_data VALUES(202,202,8,91002,100);
+CREATE INDEX 'cgg_completion_reward_data_0_completion_id' on 'cgg_completion_reward_data'('completion_id');
+COMMIT;

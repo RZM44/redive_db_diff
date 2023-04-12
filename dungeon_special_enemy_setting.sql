@@ -1,0 +1,11 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'dungeon_special_enemy_setting' ('id' INTEGER NOT NULL, 'special_battle_id' INTEGER NOT NULL, 'enemy_identify' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'must_kill_flag' INTEGER NOT NULL, 'detail_offset_x' REAL NOT NULL, 'detail_offset_y' REAL NOT NULL, 'detail_scale' REAL NOT NULL, PRIMARY KEY('id'), UNIQUE('special_battle_id','disp_order'));
+INSERT INTO dungeon_special_enemy_setting VALUES(101001,101,1,1,1,0.0,0.0,1.0);
+INSERT INTO dungeon_special_enemy_setting VALUES(101002,102,1,3,0,0.0,0.0,1.1);
+INSERT INTO dungeon_special_enemy_setting VALUES(101003,102,2,1,1,0.0,0.0,0.6);
+INSERT INTO dungeon_special_enemy_setting VALUES(101004,102,3,2,1,0.0,0.0,0.8);
+INSERT INTO dungeon_special_enemy_setting VALUES(101005,103,1,1,1,0.0,0.0,1.0);
+CREATE INDEX 'dungeon_special_enemy_setting_0_special_battle_id' on 'dungeon_special_enemy_setting'('special_battle_id');
+CREATE UNIQUE INDEX 'dungeon_special_enemy_setting_0_special_battle_id_1_enemy_identify' on 'dungeon_special_enemy_setting'('special_battle_id','enemy_identify');
+COMMIT;

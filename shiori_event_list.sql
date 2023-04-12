@@ -14,4 +14,6 @@ INSERT INTO shiori_event_list VALUES(20010,'2022/12/21 11:00:00','2088/06/15 11:
 INSERT INTO shiori_event_list VALUES(20011,'2023/1/17 11:00:00','2088/06/15 11:00:00',0,0,0,0,10011,'2021/02/14 11:00:00',5034,'1,8');
 INSERT INTO shiori_event_list VALUES(20012,'2023/2/15 11:00:00','2088/06/15 11:00:00',0,0,0,0,10012,'2021/03/15 11:00:00',402,'1');
 INSERT INTO shiori_event_list VALUES(20013,'2023/3/16 11:00:00','2088/06/15 11:00:00',0,0,0,0,10013,'2021/5/15 9:00:00',22,'1,9');
+INSERT INTO shiori_event_list VALUES(20014,'2023/4/09 9:00:00','2088/06/15 11:00:00',0,0,0,0,10015,'2021/06/14 11:00:00',2174,'1');
+CREATE INDEX 'shiori_event_list_0_original_event_id' on 'shiori_event_list'('original_event_id');
 COMMIT;

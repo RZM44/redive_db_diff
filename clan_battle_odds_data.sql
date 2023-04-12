@@ -26,6 +26,10 @@ INSERT INTO clan_battle_odds_data VALUES(3100201,150,159,'61003_19','61003_20','
 INSERT INTO clan_battle_odds_data VALUES(3100201,160,169,'61003_21','61003_22','','','','','','','','');
 INSERT INTO clan_battle_odds_data VALUES(3100201,170,179,'61003_23','61003_24','','','','','','','','');
 INSERT INTO clan_battle_odds_data VALUES(3100201,180,189,'61003_25','61003_26','','','','','','','','');
-INSERT INTO clan_battle_odds_data VALUES(3100201,190,-1,'61003_27','61003_28','','','','','','','','');
+INSERT INTO clan_battle_odds_data VALUES(3100201,190,199,'61003_27','61003_28','','','','','','','','');
+INSERT INTO clan_battle_odds_data VALUES(3100201,200,209,'61003_29','61003_30','','','','','','','','');
+INSERT INTO clan_battle_odds_data VALUES(3100201,210,219,'61003_31','61003_32','','','','','','','','');
+INSERT INTO clan_battle_odds_data VALUES(3100201,220,229,'61003_33','61003_34','','','','','','','','');
+INSERT INTO clan_battle_odds_data VALUES(3100201,230,-1,'61003_35','61003_36','','','','','','','','');
 CREATE INDEX 'clan_battle_odds_data_0_odds_group_id' on 'clan_battle_odds_data'('odds_group_id');
 COMMIT;

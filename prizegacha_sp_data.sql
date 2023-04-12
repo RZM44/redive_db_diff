@@ -1,0 +1,15 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'prizegacha_sp_data' ('gacha_id' INTEGER NOT NULL, 'rarity' INTEGER NOT NULL, 'disp_rarity' INTEGER NOT NULL, PRIMARY KEY('gacha_id','rarity'));
+INSERT INTO prizegacha_sp_data VALUES(50183,1,101);
+INSERT INTO prizegacha_sp_data VALUES(50183,2,102);
+INSERT INTO prizegacha_sp_data VALUES(50183,3,103);
+INSERT INTO prizegacha_sp_data VALUES(50183,4,104);
+INSERT INTO prizegacha_sp_data VALUES(50183,5,1);
+INSERT INTO prizegacha_sp_data VALUES(50183,6,2);
+INSERT INTO prizegacha_sp_data VALUES(50183,7,3);
+INSERT INTO prizegacha_sp_data VALUES(50183,8,4);
+INSERT INTO prizegacha_sp_data VALUES(50183,9,5);
+INSERT INTO prizegacha_sp_data VALUES(50183,10,6);
+CREATE INDEX 'prizegacha_sp_data_0_gacha_id' on 'prizegacha_sp_data'('gacha_id');
+COMMIT;

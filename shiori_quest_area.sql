@@ -31,5 +31,7 @@ INSERT INTO shiori_quest_area VALUES(20012201,20012,'王都兰德索尔',201,'bg
 INSERT INTO shiori_quest_area VALUES(20013101,20013,'加斯特罗斯山',201,'bgm_M215','bgm_M215',1,1,100,0,0,'0','0',0);
 INSERT INTO shiori_quest_area VALUES(20013102,20013,'光之裂缝',201,'bgm_M215','bgm_M215',1,2,0,0,1,'202','208',11);
 INSERT INTO shiori_quest_area VALUES(20013201,20013,'光之裂缝',201,'bgm_M215','bgm_M215',1,1,0,0,0,'0','0',0);
+INSERT INTO shiori_quest_area VALUES(20014101,20014,'大江户镇',201,'bgm_M223','bgm_M223',1,1,120,0,0,'0','0',0);
+INSERT INTO shiori_quest_area VALUES(20014201,20014,'大江户镇',201,'bgm_M223','bgm_M223',1,1,0,0,0,'0','0',0);
 CREATE INDEX 'shiori_quest_area_0_event_id' on 'shiori_quest_area'('event_id');
 COMMIT;

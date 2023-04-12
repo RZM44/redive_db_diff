@@ -1,0 +1,4 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'legion_effect' ('effect_id' INTEGER NOT NULL, 'bonus_1' INTEGER NOT NULL, 'bonus_2' INTEGER NOT NULL, 'bonus_3' INTEGER NOT NULL, 'bonus_4' INTEGER NOT NULL, 'bonus_5' INTEGER NOT NULL, PRIMARY KEY('effect_id'));
+COMMIT;

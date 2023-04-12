@@ -1,0 +1,10 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS 'taq_genre' ('genre_id' INTEGER NOT NULL, 'genre_name' TEXT NOT NULL, PRIMARY KEY('genre_id'));
+INSERT INTO taq_genre VALUES(1,'バトル・スポーツ');
+INSERT INTO taq_genre VALUES(2,'ことば・物語');
+INSERT INTO taq_genre VALUES(3,'カルチャー・雑学');
+INSERT INTO taq_genre VALUES(4,'サイエンス・地理・数学');
+INSERT INTO taq_genre VALUES(5,'グルメ・ライフ');
+INSERT INTO taq_genre VALUES(6,'人・生き物');
+COMMIT;
