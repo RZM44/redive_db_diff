@@ -27,7 +27,7 @@ INSERT INTO event_story_data VALUES(5033,5,10060,'魔法少女　二人是Misty�
 INSERT INTO event_story_data VALUES(5035,5,10062,'星光公主　Re:M@STER！',0,1,'2022/02/25 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5036,5,10063,'星光公主　Re:M@STER！',0,1,'2022/02/25 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5038,5,10065,'恩赐的财团与神圣学院的问题儿童',0,1,'2022/03/26 15:00:00','2099/12/31 23:59:59');
-INSERT INTO event_story_data VALUES(5040,5,10040,'牧场里的四农士　贫穷农场奋斗记！',0,1,'2022/04/24 15:00:00','2099/12/31 23:59:59');
+INSERT INTO event_story_data VALUES(5040,5,10067,'牧场里的四农士　贫穷农场奋斗记！',0,1,'2022/04/24 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5042,5,10042,'不可思议之国的璃乃　小小爱丽丝与希望的绘本',0,1,'2022/05/26 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5044,5,10044,'七夕剑客旅情谭　天际川流夏之恋',0,1,'2022/06/24 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5046,5,10046,'美里的夏日应援！　追梦的盛夏棒球队',0,1,'2022/07/26 15:00:00','2099/12/31 23:59:59');
@@ -40,6 +40,6 @@ INSERT INTO event_story_data VALUES(5058,5,10058,'情相连。心相系。',0,1,
 INSERT INTO event_story_data VALUES(5059,5,10059,'情相连。心相系。',0,1,'2023/01/25 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5061,5,10061,'灰姑娘课程　璀璨的日子是苹果的滋味',0,1,'2023/02/24 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5064,5,10064,'钢铁圣女与神圣学院的问题儿童',0,1,'2023/03/27 15:00:00','2099/12/31 23:59:59');
-INSERT INTO event_story_data VALUES(5066,5,10066,'祈梨SOS！！　时间旅行的龙人族',0,1,'2023/04/25 15:00:00','2099/12/31 23:59:59');
+INSERT INTO event_story_data VALUES(5066,5,10066,'祈梨SOS！！　时间旅行的龙族们',0,1,'2023/04/25 15:00:00','2099/12/31 23:59:59');
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
 COMMIT;

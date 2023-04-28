@@ -6,7 +6,7 @@ INSERT INTO arcade_story_list VALUES(5021701,1003,'以礼而始以礼而终');
 INSERT INTO arcade_story_list VALUES(5021710,1003,'挑战自己的极限');
 INSERT INTO arcade_story_list VALUES(5021711,1003,'真的才是最好的');
 INSERT INTO arcade_story_list VALUES(5027700,1004,'再次前往厄尔庇斯岛！');
-INSERT INTO arcade_story_list VALUES(5027701,1004,'过于热血的战斗');
+INSERT INTO arcade_story_list VALUES(5027701,1004,'过于激烈的战斗');
 INSERT INTO arcade_story_list VALUES(5027702,1004,'压轴登场');
 INSERT INTO arcade_story_list VALUES(5027703,1004,'战斗的结局……');
 INSERT INTO arcade_story_list VALUES(5027704,1004,'向更高处进发！');
