@@ -154,5 +154,9 @@ INSERT INTO hatsune_quest_area VALUES(10065201,10065,'圣特蕾莎女子学院',
 INSERT INTO hatsune_quest_area VALUES(10066101,10066,'异时间轴的兰德索尔',201,'bgm_M467','bgm_M467','2023/4/28 11:00:00','2023/5/12 23:59:59',1,1,90,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10066102,10066,'时间隧道',201,'bgm_M467','bgm_M467','2023/4/28 11:00:00','2023/5/12 23:59:59',1,2,0,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10066201,10066,'时间隧道',201,'bgm_M467','bgm_M467','2023/4/28 11:00:00','2023/5/12 23:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10067101,10067,'伊丽莎白牧场',201,'bgm_M351','bgm_M351','2023/5/16 12:00:00','2023/5/23 23:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10067102,10067,'王都兰德索尔',201,'bgm_M351','bgm_M351','2023/5/16 12:00:00','2023/5/23 23:59:59',1,2,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10067103,10067,'伊丽莎白牧场',201,'bgm_M351','bgm_M351','2023/5/16 12:00:00','2023/5/23 23:59:59',1,3,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10067201,10067,'伊丽莎白牧场',201,'bgm_M351','bgm_M351','2023/5/16 12:00:00','2023/5/23 23:59:59',1,1,0,0,0,'0','0',0);
 CREATE INDEX 'hatsune_quest_area_0_event_id' on 'hatsune_quest_area'('event_id');
 COMMIT;

@@ -66,6 +66,7 @@ INSERT INTO event_gacha_data VALUES(10063,10063,'星光公主　Re:M@STER！',2,
 INSERT INTO event_gacha_data VALUES(10064,10064,'钢铁圣女与神圣学院的问题儿童',2,60632,1,6);
 INSERT INTO event_gacha_data VALUES(10065,10065,'恩赐的财团与神圣学院的问题儿童',2,60642,1,5);
 INSERT INTO event_gacha_data VALUES(10066,10066,'祈梨SOS！！　时间旅行的龙族们',2,60652,1,6);
+INSERT INTO event_gacha_data VALUES(10067,10067,'牧场里的四农士　贫穷农场奋斗记！',2,60662,1,5);
 INSERT INTO event_gacha_data VALUES(19003,10003,'吸血鬼猎人with伊莉亚讨伐证交换',2,60022,1,5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');
 COMMIT;
