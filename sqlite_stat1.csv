@@ -101,7 +101,7 @@ clan_battle_s_boss_data,,255
 clan_battle_2_map_data,clan_battle_2_map_data_0_clan_battle_id,"232 5"
 love_rankup,love_rankup_0_unit_id,"25 7"
 love_rankup,sqlite_autoindex_love_rankup_1,"25 7 1"
-story_data,,204
+story_data,,205
 taq_game_setting,,1
 kaiser_special_battle,,3
 pkb_pitcher_ball_type,pkb_pitcher_ball_type_0_pitcher_id,"17 5"
@@ -147,7 +147,7 @@ goldset_data,,70
 sekai_add_times_data,,12
 clan_battle_s_map_data,clan_battle_s_map_data_0_clan_battle_id,"186 4"
 unit_unique_equip,,111
-story_detail,,1335
+story_detail,,1339
 content_map_data,,5
 odds_name_data,,197
 hatsune_series_gacha_reference,,1
@@ -352,7 +352,7 @@ arena_daily_rank_reward,,40
 room_change,,1
 chara_fortune_rail,,109
 story_character_mask,,645
-tips,,97
+tips,,98
 ttk_score,,4
 tower_area_data,,33
 event_boss_treasure_content,,1869
@@ -428,7 +428,7 @@ event_effect_setting,sqlite_autoindex_event_effect_setting_1,"92 3 1"
 grand_arena_defence_reward,,1
 chara_fortune_schedule,,8
 unit_mypage_pos,,36
-unlock_unit_condition,,153
+unlock_unit_condition,,154
 daily_mission_data,,406
 equipment_donation,,9
 equipment_data,,834
