@@ -392,7 +392,7 @@ INSERT INTO sqlite_stat1 VALUES('exceed_level_unit','sqlite_autoindex_exceed_lev
 INSERT INTO sqlite_stat1 VALUES('bg_data','sqlite_autoindex_bg_data_1','163 1');
 INSERT INTO sqlite_stat1 VALUES('ttk_enemy',NULL,'8');
 INSERT INTO sqlite_stat1 VALUES('chara_fortune_scenario',NULL,'30');
-INSERT INTO sqlite_stat1 VALUES('skill_data',NULL,'3450');
+INSERT INTO sqlite_stat1 VALUES('skill_data',NULL,'3451');
 INSERT INTO sqlite_stat1 VALUES('love_chara',NULL,'12');
 INSERT INTO sqlite_stat1 VALUES('nop_drama_data','nop_drama_data_0_stage_id','18 6');
 INSERT INTO sqlite_stat1 VALUES('hatsune_boss','hatsune_boss_0_wave_group_id_1','294 2');
