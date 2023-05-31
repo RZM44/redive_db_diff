@@ -158,5 +158,8 @@ INSERT INTO hatsune_quest_area VALUES(10067101,10067,'伊丽莎白牧场',201,'b
 INSERT INTO hatsune_quest_area VALUES(10067102,10067,'王都兰德索尔',201,'bgm_M351','bgm_M351','2023/5/16 12:00:00','2023/5/23 23:59:59',1,2,0,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10067103,10067,'伊丽莎白牧场',201,'bgm_M351','bgm_M351','2023/5/16 12:00:00','2023/5/23 23:59:59',1,3,0,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10067201,10067,'伊丽莎白牧场',201,'bgm_M351','bgm_M351','2023/5/16 12:00:00','2023/5/23 23:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10068101,10068,'玩具工厂',201,'bgm_M478','bgm_M478_Lofi','2023/5/31 11:00:00','2023/6/14 23:59:59',1,1,0,40,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10068102,10068,'王都兰德索尔',201,'bgm_M478','bgm_M478_Lofi','2023/5/31 11:00:00','2023/6/14 23:59:59',1,2,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10068201,10068,'王都兰德索尔',201,'bgm_M478','bgm_M478_Lofi','2023/5/31 11:00:00','2023/6/14 23:59:59',1,0,0,0,0,'0','0',0);
 CREATE INDEX 'hatsune_quest_area_0_event_id' on 'hatsune_quest_area'('event_id');
 COMMIT;
