@@ -148,7 +148,7 @@ INSERT INTO sqlite_stat1 VALUES('shiori_enemy_parameter',NULL,'3769');
 INSERT INTO sqlite_stat1 VALUES('goldset_data',NULL,'70');
 INSERT INTO sqlite_stat1 VALUES('sekai_add_times_data',NULL,'12');
 INSERT INTO sqlite_stat1 VALUES('clan_battle_s_map_data','clan_battle_s_map_data_0_clan_battle_id','186 4');
-INSERT INTO sqlite_stat1 VALUES('unit_unique_equip',NULL,'111');
+INSERT INTO sqlite_stat1 VALUES('unit_unique_equip',NULL,'114');
 INSERT INTO sqlite_stat1 VALUES('story_detail',NULL,'1351');
 INSERT INTO sqlite_stat1 VALUES('content_map_data',NULL,'5');
 INSERT INTO sqlite_stat1 VALUES('odds_name_data',NULL,'197');
