@@ -37,5 +37,7 @@ INSERT INTO shiori_quest_area VALUES(20015101,20015,'阳雨海滩',201,'bgm_M237
 INSERT INTO shiori_quest_area VALUES(20015201,20015,'阳雨海滩',201,'bgm_M237','bgm_M237',1,0,0,0,0,'0','0',0);
 INSERT INTO shiori_quest_area VALUES(20016101,20016,'真步真步王国避暑地？',201,'bgm_M245','bgm_M245_02',1,0,150,0,0,'0','0',0);
 INSERT INTO shiori_quest_area VALUES(20016201,20016,'真步真步王国避暑地？',201,'bgm_M245','bgm_M245_02',1,0,0,0,0,'0','0',0);
+INSERT INTO shiori_quest_area VALUES(20017101,20017,'圣特蕾莎女子学院',201,'bgm_M254','bgm_M254',1,1,70,0,0,'0','0',0);
+INSERT INTO shiori_quest_area VALUES(20017201,20017,'圣特蕾莎女子学院',201,'bgm_M254','bgm_M254',1,0,0,0,0,'0','0',0);
 CREATE INDEX 'shiori_quest_area_0_event_id' on 'shiori_quest_area'('event_id');
 COMMIT;

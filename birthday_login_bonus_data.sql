@@ -32,6 +32,7 @@ INSERT INTO birthday_login_bonus_data VALUES(9102302,'绫音「生日剧情」',
 INSERT INTO birthday_login_bonus_data VALUES(9102501,'铃莓「生日剧情」',9,'2022/12/12 5:00:00','2022/12/13 4:59:00',1025500);
 INSERT INTO birthday_login_bonus_data VALUES(9102601,'铃「生日剧情」',9,'2023/1/1 5:00:00','2023/1/2 4:59:00',1026500);
 INSERT INTO birthday_login_bonus_data VALUES(9102701,'惠理子「生日剧情」',9,'2022/7/30 5:00:00','2022/7/31 4:59:00',1027500);
+INSERT INTO birthday_login_bonus_data VALUES(9102702,'惠理子「生日剧情」',9,'2023/7/30 5:00:00','2023/7/31 4:59:00',1027501);
 INSERT INTO birthday_login_bonus_data VALUES(9102801,'咲恋「生日剧情」',9,'2022/10/4 5:00:00','2022/10/5 4:59:00',1028500);
 INSERT INTO birthday_login_bonus_data VALUES(9102901,'望「生日剧情」',9,'2023/1/24 5:00:00','2023/1/25 4:59:00',1029500);
 INSERT INTO birthday_login_bonus_data VALUES(9103001,'妮侬「生日剧情」',9,'2022/8/31 5:00:00','2022/9/1 4:59:00',1030500);
@@ -58,6 +59,7 @@ INSERT INTO birthday_login_bonus_data VALUES(9105001,'美咲「生日剧情」',
 INSERT INTO birthday_login_bonus_data VALUES(9105101,'深月「生日剧情」',9,'2023/3/7 5:00:00','2023/3/8 4:59:00',1051500);
 INSERT INTO birthday_login_bonus_data VALUES(9105201,'莉玛「生日剧情」',9,'2023/3/14 5:00:00','2023/3/15 4:59:00',1052500);
 INSERT INTO birthday_login_bonus_data VALUES(9105301,'莫妮卡「生日剧情」',9,'2022/7/28 5:00:00','2022/7/29 4:59:00',1053500);
+INSERT INTO birthday_login_bonus_data VALUES(9105302,'莫妮卡「生日剧情」',9,'2023/7/28 5:00:00','2023/7/29 4:59:00',1053501);
 INSERT INTO birthday_login_bonus_data VALUES(9105401,'纺希「生日剧情」',9,'2022/9/7 5:00:00','2022/9/8 4:59:00',1054500);
 INSERT INTO birthday_login_bonus_data VALUES(9105501,'步美「生日剧情」',9,'2022/4/7 5:00:00','2022/4/8 4:59:00',1055500);
 INSERT INTO birthday_login_bonus_data VALUES(9105502,'步美「生日剧情」',9,'2023/4/7 5:00:00','2023/4/8 4:59:00',1055501);
@@ -75,6 +77,7 @@ INSERT INTO birthday_login_bonus_data VALUES(9106302,'亚里莎「生日剧情�
 INSERT INTO birthday_login_bonus_data VALUES(9106501,'嘉夜「生日剧情」',9,'2022/6/25 5:00:00','2022/6/26 4:59:00',1065500);
 INSERT INTO birthday_login_bonus_data VALUES(9106502,'嘉夜「生日剧情」',9,'2023/6/25 5:00:00','2023/6/26 4:59:00',1065501);
 INSERT INTO birthday_login_bonus_data VALUES(9106601,'祈梨「生日剧情」',9,'2022/9/29 5:00:00','2022/9/30 4:59:00',1066500);
+INSERT INTO birthday_login_bonus_data VALUES(9106802,'菈比莉斯塔「生日剧情」',9,'2023/7/25 5:00:00','2023/7/26 4:59:00',1068501);
 INSERT INTO birthday_login_bonus_data VALUES(9107001,'似似花「生日剧情」',9,'2023/3/24 5:00:00','2023/3/25 4:59:00',1070500);
 INSERT INTO birthday_login_bonus_data VALUES(9107101,'克莉丝提娜「生日剧情」',9,'2023/2/7 5:00:00','2023/2/8 4:59:00',1071500);
 INSERT INTO birthday_login_bonus_data VALUES(9109201,'安「生日剧情」',9,'2022/12/1 5:00:00','2022/12/2 4:59:00',1092500);

@@ -70,6 +70,8 @@ INSERT INTO event_gacha_data VALUES(10067,10067,'牧场里的四农士　贫穷�
 INSERT INTO event_gacha_data VALUES(10068,10068,'心电感应！碧与她的玩具朋友',2,60672,1,6);
 INSERT INTO event_gacha_data VALUES(10069,10069,'不可思议之国的璃乃　小小爱丽丝与希望的绘本',2,60682,1,5);
 INSERT INTO event_gacha_data VALUES(10070,10070,'无限夏日计划　两人独占的盛夏乐园',2,60692,1,6);
+INSERT INTO event_gacha_data VALUES(10071,10071,'七夕剑客旅情谭　天际川流夏之恋',2,60702,1,5);
+INSERT INTO event_gacha_data VALUES(10072,10072,'慈乐之音的夏日演唱会　转瞬即逝的时光！',2,60712,1,6);
 INSERT INTO event_gacha_data VALUES(19003,10003,'吸血鬼猎人with伊莉亚讨伐证交换',2,60022,1,5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');
 COMMIT;
