@@ -319,5 +319,9 @@ INSERT INTO promotion_bonus VALUES(170101,20,0.0,1100.0,0.0,0.0,0.0,0.0,0.0,0.0,
 INSERT INTO promotion_bonus VALUES(170101,21,0.0,1100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0);
 INSERT INTO promotion_bonus VALUES(170201,20,0.0,1100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0);
 INSERT INTO promotion_bonus VALUES(170201,21,0.0,1100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0);
+INSERT INTO promotion_bonus VALUES(117201,20,0.0,1100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0);
+INSERT INTO promotion_bonus VALUES(117201,21,0.0,1100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0);
+INSERT INTO promotion_bonus VALUES(117401,20,0.0,1100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0);
+INSERT INTO promotion_bonus VALUES(117401,21,0.0,1100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0);
 CREATE INDEX 'promotion_bonus_0_unit_id' on 'promotion_bonus'('unit_id');
 COMMIT;
