@@ -19,7 +19,7 @@ INSERT INTO event_story_data VALUES(5017,5,10053,'Re: 从零开始收集的异�
 INSERT INTO event_story_data VALUES(5019,5,20015,'铃奈的\nRAINBOW STAGE！',0,1,'2021/07/09 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5021,5,20016,'盛夏的真步真步王国　\n海滩上的灵魂之夏！',0,1,'2021/08/06 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5023,5,20017,'森林里的胆小鬼与神圣学院的问题儿童',0,1,'2021/09/01 15:00:00','2099/12/31 23:59:59');
-INSERT INTO event_story_data VALUES(5025,5,10049,'小小的勇气·万圣节之夜！',0,1,'2021/09/30 15:00:00','2099/12/31 23:59:59');
+INSERT INTO event_story_data VALUES(5025,5,20018,'小小的勇气·万圣节之夜！',0,1,'2021/09/30 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5027,5,10051,'龙之探索者',0,1,'2021/10/28 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5029,5,10055,'礼物大恐慌！　兰德索尔的圣诞老人们',0,1,'2021/11/25 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5031,5,10057,'狂奔！　兰德索尔公会竞速赛',0,1,'2021/12/26 15:00:00','2099/12/31 23:59:59');
@@ -44,5 +44,6 @@ INSERT INTO event_story_data VALUES(5066,5,10066,'祈梨SOS！！　时间旅行
 INSERT INTO event_story_data VALUES(5068,5,10068,'心电感应！\n碧与她的玩具朋友',0,1,'2023/05/25 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5070,5,10070,'无限夏日计划　\n两人独占的盛夏乐园',0,1,'2023/06/26 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5072,5,10072,'慈乐之音的夏日演唱会　\n转瞬即逝的时光！',0,1,'2023/07/26 15:00:00','2099/12/31 23:59:59');
+INSERT INTO event_story_data VALUES(5074,5,10074,'大江户的非法病历　\nDr.深月的诊疗室',0,1,'2023/08/26 15:00:00','2099/12/31 23:59:59');
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
 COMMIT;

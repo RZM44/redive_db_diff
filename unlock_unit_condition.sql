@@ -153,6 +153,7 @@ INSERT INTO unlock_unit_condition VALUES(116901,'美冬（工作服）',1,0,1,2,
 INSERT INTO unlock_unit_condition VALUES(117001,'惠理子（夏日）',1,0,1,2,31170,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(117101,'静流（夏日）',1,0,1,2,31171,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(117201,'望（夏日）',1,0,1,2,31172,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(117301,'千歌（夏日）',1,0,1,2,31173,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(117401,'纺希（夏日）',1,0,1,2,31174,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(170101,'环奈',1,0,1,2,31701,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(170201,'环奈（振袖）',1,0,1,2,31702,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
