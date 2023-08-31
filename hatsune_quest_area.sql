@@ -174,5 +174,8 @@ INSERT INTO hatsune_quest_area VALUES(10072101,10072,'慈乐之音夏日演出�
 INSERT INTO hatsune_quest_area VALUES(10072201,10072,'慈乐之音夏日演出会场',201,'bgm_M496','bgm_M496','2023/7/31 11:00:00','2023/8/14 23:59:59',1,0,0,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10073101,10073,'沙滩球公园',201,'bgm_M393','bgm_M393','2023/8/18 12:00:00','2023/8/25 23:59:59',1,0,115,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10073201,10073,'沙滩球公园',201,'bgm_M393','bgm_M393','2023/8/18 12:00:00','2023/8/25 23:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10074101,10074,'王都兰德索尔',201,'bgm_M508','bgm_M508','2023/8/31 11:00:00','2023/9/14 23:59:59',1,1,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10074102,10074,'大江户镇',201,'bgm_M508','bgm_M508','2023/8/31 11:00:00','2023/9/14 23:59:59',1,2,45,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10074201,10074,'大江户镇',201,'bgm_M508','bgm_M508','2023/8/31 11:00:00','2023/9/14 23:59:59',1,0,0,0,0,'0','0',0);
 CREATE INDEX 'hatsune_quest_area_0_event_id' on 'hatsune_quest_area'('event_id');
 COMMIT;
