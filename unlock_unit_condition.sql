@@ -156,6 +156,7 @@ INSERT INTO unlock_unit_condition VALUES(117201,'望（夏日）',1,0,1,2,31172,
 INSERT INTO unlock_unit_condition VALUES(117301,'千歌（夏日）',1,0,1,2,31173,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(117401,'纺希（夏日）',1,0,1,2,31174,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(117501,'深月（大江户）',1,0,1,2,31175,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(117601,'雪（大江户）',1,0,1,2,31176,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(170101,'环奈',1,0,1,2,31701,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(170201,'环奈（振袖）',1,0,1,2,31702,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(180101,'日和莉（公主）',1,0,1,2,31801,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
