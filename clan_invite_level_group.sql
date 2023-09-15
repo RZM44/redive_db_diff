@@ -41,5 +41,6 @@ INSERT INTO clan_invite_level_group VALUES(37,191,195);
 INSERT INTO clan_invite_level_group VALUES(38,196,200);
 INSERT INTO clan_invite_level_group VALUES(39,201,205);
 INSERT INTO clan_invite_level_group VALUES(40,206,210);
-INSERT INTO clan_invite_level_group VALUES(41,211,-1);
+INSERT INTO clan_invite_level_group VALUES(41,211,215);
+INSERT INTO clan_invite_level_group VALUES(42,216,-1);
 COMMIT;

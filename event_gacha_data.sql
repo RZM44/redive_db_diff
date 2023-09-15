@@ -74,6 +74,7 @@ INSERT INTO event_gacha_data VALUES(10071,10071,'七夕剑客旅情谭　天际�
 INSERT INTO event_gacha_data VALUES(10072,10072,'慈乐之音的夏日演唱会　转瞬即逝的时光！',2,60712,1,6);
 INSERT INTO event_gacha_data VALUES(10073,10073,'美里的夏日应援！　追梦的盛夏棒球队 ',2,60722,1,5);
 INSERT INTO event_gacha_data VALUES(10074,10074,'大江户的非法病历　Dr.深月的诊疗室',2,60732,1,6);
+INSERT INTO event_gacha_data VALUES(10075,10075,'快乐变身 双生天使',2,60742,1,5);
 INSERT INTO event_gacha_data VALUES(19003,10003,'吸血鬼猎人with伊莉亚讨伐证交换',2,60022,1,5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');
 COMMIT;

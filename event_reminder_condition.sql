@@ -11,5 +11,7 @@ INSERT INTO event_reminder_condition VALUES(1006103,1006103,1,5061601);
 INSERT INTO event_reminder_condition VALUES(1006601,1006601,4,5027704);
 INSERT INTO event_reminder_condition VALUES(1007001,1007001,5,0);
 INSERT INTO event_reminder_condition VALUES(1007301,1007301,1,5046601);
+INSERT INTO event_reminder_condition VALUES(1007501,1007501,1,5048007);
+INSERT INTO event_reminder_condition VALUES(1007502,1007502,2,1004801);
 CREATE INDEX 'event_reminder_condition_0_reminder_id' on 'event_reminder_condition'('reminder_id');
 COMMIT;

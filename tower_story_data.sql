@@ -20,4 +20,5 @@ INSERT INTO tower_story_data VALUES(7016,7,16,'追忆的歌姬与仿徨的幽灵
 INSERT INTO tower_story_data VALUES(7017,7,17,'美的探求者和女君的宴席',0,1,'2023/03/18 12:00:00','2099/12/31 23:59:59');
 INSERT INTO tower_story_data VALUES(7018,7,18,'冒失退散！　摆脱大凶大作战',0,1,'2023/05/17 12:00:00','2099/12/31 23:59:59');
 INSERT INTO tower_story_data VALUES(7019,7,19,'军人们的联合任务',0,1,'2023/07/16 12:00:00','2099/12/31 23:59:59');
+INSERT INTO tower_story_data VALUES(7020,7,20,'笑声和鲷鱼烧引起的风波',0,1,'2023/09/16 12:00:00','2099/12/31 23:59:59');
 COMMIT;
