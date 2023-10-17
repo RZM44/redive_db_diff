@@ -53,6 +53,6 @@ INSERT INTO dungeon_quest_data VALUES(31008002,31008,2,1,0,90,0.85,0,0,0,90002,9
 INSERT INTO dungeon_quest_data VALUES(31008003,31008,3,1,0,90,0.9,0,0,0,90002,99002,20000,140001,25001,94002,1200,40004,3100801,103002,103002,-50,1.2,0.0,0.0,0.0,0.0,'bgm_M06','bgm_M06');
 INSERT INTO dungeon_quest_data VALUES(31008004,31008,4,1,0,90,1.0,0,0,0,90002,99002,20000,140001,25001,90005,1200,40004,3100802,103002,103002,-50,1.2,0.0,0.0,0.0,0.0,'bgm_M06','bgm_M06');
 INSERT INTO dungeon_quest_data VALUES(31008005,31008,5,4,0,90,1.0,1,1,0,90002,99002,20000,140001,25001,94002,600,40004,3100803,103001,103001,-50,1.3,0.0,0.0,0.0,2.9,'bgm_M63','bgm_M63');
-CREATE UNIQUE INDEX 'dungeon_quest_data_0_dungeon_area_id_1_floor_num' on 'dungeon_quest_data'('dungeon_area_id','floor_num');
 CREATE INDEX 'dungeon_quest_data_0_dungeon_area_id' on 'dungeon_quest_data'('dungeon_area_id');
+CREATE UNIQUE INDEX 'dungeon_quest_data_0_dungeon_area_id_1_floor_num' on 'dungeon_quest_data'('dungeon_area_id','floor_num');
 COMMIT;
