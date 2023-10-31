@@ -31,6 +31,7 @@ INSERT INTO content_release_data VALUES(503,1,0,11002002,'通关主线战斗2-2�
 INSERT INTO content_release_data VALUES(506,1,0,11003005,'通关主线战斗3-5（普通难度）后解锁');
 INSERT INTO content_release_data VALUES(509,1,0,11002003,'通关主线关卡2-3（普通难度）后解锁');
 INSERT INTO content_release_data VALUES(510,1,0,11019001,'通关主线关卡19-1（普通难度）后解锁');
+INSERT INTO content_release_data VALUES(511,1,0,11019005,'通关主线关卡19-5（普通难度）后解锁');
 INSERT INTO content_release_data VALUES(601,1,0,11002001,'通关主线战斗2-1（普通难度）后解锁');
 INSERT INTO content_release_data VALUES(602,1,0,11007001,'通关主线战斗7-1（普通难度）后解锁');
 INSERT INTO content_release_data VALUES(603,1,0,11016014,'通关主线战斗16-14（普通难度）后解锁');
