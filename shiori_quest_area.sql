@@ -47,5 +47,8 @@ INSERT INTO shiori_quest_area VALUES(20019201,20019,'厄尔庇斯岛 营地开�
 INSERT INTO shiori_quest_area VALUES(20020101,20020,'王都兰德索尔 郊外',201,'bgm_M281','bgm_M281',1,1,0,0,0,'0','0',0);
 INSERT INTO shiori_quest_area VALUES(20020102,20020,'王都兰德索尔 中央广场',201,'bgm_M281','bgm_M281',1,2,0,0,0,'0','0',11);
 INSERT INTO shiori_quest_area VALUES(20020201,20020,'王都兰德索尔 中央广场',201,'bgm_M281','bgm_M281',1,1,0,0,0,'0','0',0);
+INSERT INTO shiori_quest_area VALUES(20021101,20021,'公会竞速赛　1区→2区',201,'bgm_M294','bgm_M294',1,1,30,0,0,'0','0',0);
+INSERT INTO shiori_quest_area VALUES(20021102,20021,'公会竞速赛　3区→4区',201,'bgm_M294','bgm_M294',1,2,30,0,0,'0','0',0);
+INSERT INTO shiori_quest_area VALUES(20021201,20021,'公会竞速赛　3区→4区',201,'bgm_M294','bgm_M294',1,1,0,0,0,'0','0',0);
 CREATE INDEX 'shiori_quest_area_0_event_id' on 'shiori_quest_area'('event_id');
 COMMIT;

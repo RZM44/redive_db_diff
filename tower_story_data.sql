@@ -21,4 +21,5 @@ INSERT INTO tower_story_data VALUES(7017,7,17,'美的探求者和女君的宴席
 INSERT INTO tower_story_data VALUES(7018,7,18,'冒失退散！　摆脱大凶大作战',0,1,'2023/05/17 12:00:00','2099/12/31 23:59:59');
 INSERT INTO tower_story_data VALUES(7019,7,19,'军人们的联合任务',0,1,'2023/07/16 12:00:00','2099/12/31 23:59:59');
 INSERT INTO tower_story_data VALUES(7020,7,20,'笑声和鲷鱼烧引起的风波',0,1,'2023/09/16 12:00:00','2099/12/31 23:59:59');
+INSERT INTO tower_story_data VALUES(7021,7,21,'年轻的正义与成年人的美学',0,1,'2023/11/17 12:00:00','2099/12/31 23:59:59');
 COMMIT;
