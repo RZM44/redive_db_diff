@@ -165,6 +165,8 @@ INSERT INTO unlock_unit_condition VALUES(118001,'克蕾琪塔',1,0,1,2,31180,145
 INSERT INTO unlock_unit_condition VALUES(118501,'花凛',1,0,1,2,31185,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(119001,'伊绪（黑暗）',1,0,1,2,31190,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(119101,'空花（黑暗）',1,0,1,2,31191,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(119201,'真阳（圣诞节）',1,0,1,2,31192,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(119901,'宫子（圣诞节）',1,0,1,2,31199,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(170101,'环奈',1,0,1,2,31701,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(170201,'环奈（振袖）',1,0,1,2,31702,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0);
 INSERT INTO unlock_unit_condition VALUES(180101,'日和莉（公主）',1,0,1,2,31801,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
