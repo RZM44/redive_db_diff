@@ -307,5 +307,7 @@ INSERT INTO gacha_exchange_lineup VALUES(306,167,108401,3,0,'2023/11/24 11:00:00
 INSERT INTO gacha_exchange_lineup VALUES(307,167,108601,3,0,'2023/11/24 11:00:00','2023/11/30 10:59:59');
 INSERT INTO gacha_exchange_lineup VALUES(308,168,119901,3,1064,'2023/11/30 11:00:00','2023/12/08 10:59:59');
 INSERT INTO gacha_exchange_lineup VALUES(309,169,114401,3,0,'2023/12/08 11:00:00','2023/12/15 09:59:59');
+INSERT INTO gacha_exchange_lineup VALUES(310,170,111501,3,0,'2023/12/15 10:00:00','2023/12/20 10:59:59');
+INSERT INTO gacha_exchange_lineup VALUES(311,171,119301,3,1065,'2023/12/20 11:00:00','2023/12/29 10:59:59');
 CREATE INDEX 'gacha_exchange_lineup_0_exchange_id' on 'gacha_exchange_lineup'('exchange_id');
 COMMIT;

@@ -80,6 +80,7 @@ INSERT INTO event_gacha_data VALUES(10077,10077,'尖叫！连连！万圣鬼怪�
 INSERT INTO event_gacha_data VALUES(10078,10078,'魔法少女外传　黑暗魔法★三人组！',2,60772,1,6);
 INSERT INTO event_gacha_data VALUES(10079,10079,'魔法提督Lovely★莫妮卡 Let''s　Go！魔法的四重奏！',2,60782,1,5);
 INSERT INTO event_gacha_data VALUES(10080,10080,'圣诞布丁快乐！　飞舞的少女与饱含真情的点心',2,60792,1,6);
+INSERT INTO event_gacha_data VALUES(10081,10081,'初次登场·香格里拉　圣夜的爱情游戏',2,60802,1,6);
 INSERT INTO event_gacha_data VALUES(19003,10003,'吸血鬼猎人with伊莉亚讨伐证交换',2,60022,1,5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');
 COMMIT;

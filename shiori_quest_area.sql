@@ -50,5 +50,7 @@ INSERT INTO shiori_quest_area VALUES(20020201,20020,'王都兰德索尔 中央�
 INSERT INTO shiori_quest_area VALUES(20021101,20021,'公会竞速赛　1区→2区',201,'bgm_M294','bgm_M294',1,1,30,0,0,'0','0',0);
 INSERT INTO shiori_quest_area VALUES(20021102,20021,'公会竞速赛　3区→4区',201,'bgm_M294','bgm_M294',1,2,30,0,0,'0','0',0);
 INSERT INTO shiori_quest_area VALUES(20021201,20021,'公会竞速赛　3区→4区',201,'bgm_M294','bgm_M294',1,1,0,0,0,'0','0',0);
+INSERT INTO shiori_quest_area VALUES(20022101,20022,'王都兰德索尔',201,'bgm_M316','bgm_M316',1,1,87,0,0,'0','0',0);
+INSERT INTO shiori_quest_area VALUES(20022201,20022,'王都兰德索尔',201,'bgm_M316','bgm_M316',1,1,0,0,0,'0','0',0);
 CREATE INDEX 'shiori_quest_area_0_event_id' on 'shiori_quest_area'('event_id');
 COMMIT;
