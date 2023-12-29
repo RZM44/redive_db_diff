@@ -4,5 +4,6 @@ CREATE TABLE IF NOT EXISTS 'chara_e_ticket_data' ('ticket_id' INTEGER NOT NULL, 
 INSERT INTO chara_e_ticket_data VALUES(27001,'2022/01/28 9:00:00','2022/02/25 4:59:59',10028,27001);
 INSERT INTO chara_e_ticket_data VALUES(27002,'2023/02/15 11:00:00','2023/3/05 23:59:59',10033,27001);
 INSERT INTO chara_e_ticket_data VALUES(27003,'2023/08/15 11:00:00','2023/9/05 23:59:59',42,27001);
+INSERT INTO chara_e_ticket_data VALUES(27004,'2023/12/29 11:00:00','2024/1/19 23:59:59',43,27001);
 CREATE UNIQUE INDEX 'chara_e_ticket_data_0_jewel_store_id' on 'chara_e_ticket_data'('jewel_store_id');
 COMMIT;
