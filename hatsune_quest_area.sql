@@ -198,5 +198,7 @@ INSERT INTO hatsune_quest_area VALUES(10082102,10082,'港口城镇·大间',201,
 INSERT INTO hatsune_quest_area VALUES(10082103,10082,'塔帕斯海滩周边',201,'bgm_M543','bgm_M543','2023/12/29 11:00:00','2024/1/12 23:59:59',1,3,0,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10082104,10082,'加斯特罗斯山',201,'bgm_M543','bgm_M543','2023/12/29 11:00:00','2024/1/12 23:59:59',1,4,0,0,0,'0','0',0);
 INSERT INTO hatsune_quest_area VALUES(10082201,10082,'加斯特罗斯山',201,'bgm_M543','bgm_M543','2023/12/29 11:00:00','2024/1/12 23:59:59',1,0,0,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10083101,10083,'港口城镇·大间',201,'bgm_M435','bgm_M435','2024/1/18 12:00:00','2024/1/25 23:59:59',1,1,100,0,0,'0','0',0);
+INSERT INTO hatsune_quest_area VALUES(10083201,10083,'港口城镇·大间',201,'bgm_M435','bgm_M435','2024/1/18 12:00:00','2024/1/25 23:59:59',1,1,0,0,0,'0','0',0);
 CREATE INDEX 'hatsune_quest_area_0_event_id' on 'hatsune_quest_area'('event_id');
 COMMIT;
