@@ -83,6 +83,10 @@ INSERT INTO event_gacha_data VALUES(10080,10080,'圣诞布丁快乐！　飞舞�
 INSERT INTO event_gacha_data VALUES(10081,10081,'初次登场·香格里拉　圣夜的爱情游戏',2,60802,1,6);
 INSERT INTO event_gacha_data VALUES(10082,10082,'新春美食回忆录　雪菲的跑腿大作战！',2,60812,1,6);
 INSERT INTO event_gacha_data VALUES(10083,10083,'新春美食公主！　孤注一掷的少女们',2,60822,1,6);
+INSERT INTO event_gacha_data VALUES(10084,10084,'Re:member　我的愿望所编织的未来',2,60832,1,6);
+INSERT INTO event_gacha_data VALUES(10085,10085,'Re:member　我的愿望所编织的未来',2,60842,1,6);
+INSERT INTO event_gacha_data VALUES(10086,10086,'情相连。心相系。',2,60852,1,6);
+INSERT INTO event_gacha_data VALUES(10087,10087,'情相连。心相系。',2,60852,1,6);
 INSERT INTO event_gacha_data VALUES(19003,10003,'吸血鬼猎人with伊莉亚讨伐证交换',2,60022,1,5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');
 COMMIT;
