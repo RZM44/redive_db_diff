@@ -146,6 +146,7 @@ INSERT INTO unlock_unit_condition VALUES(115901,'真琴（灰姑娘）',1,0,1,2,
 INSERT INTO unlock_unit_condition VALUES(116001,'真步（灰姑娘）',1,0,1,2,31160,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(116201,'克罗依（圣学祭）',1,0,1,2,31162,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(116301,'千爱瑠（圣学祭）',1,0,1,2,31163,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
+INSERT INTO unlock_unit_condition VALUES(116401,'优妮（圣学祭）',1,0,1,2,31164,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3);
 INSERT INTO unlock_unit_condition VALUES(116501,'祈梨（时间旅行）',1,0,1,2,31165,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(116601,'嘉夜（时间旅行）',1,0,1,2,31166,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
 INSERT INTO unlock_unit_condition VALUES(116701,'碧（工作服）',1,0,1,2,31167,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2);
