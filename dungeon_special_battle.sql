@@ -4,6 +4,6 @@ CREATE TABLE IF NOT EXISTS 'dungeon_special_battle' ('special_battle_id' INTEGER
 INSERT INTO dungeon_special_battle VALUES(101,31008005,1,1,1,37,501010081,5.0,1,0,0.0,1.1,70.0,'0');
 INSERT INTO dungeon_special_battle VALUES(102,31008005,2,2,0,0,501010082,5.0,1,600,5.0,1.0,0.0,'0');
 INSERT INTO dungeon_special_battle VALUES(103,31008005,3,1,0,0,501010083,5.0,1,0,0.0,1.1,0.0,'0');
-CREATE UNIQUE INDEX 'dungeon_special_battle_0_quest_id_1_mode' on 'dungeon_special_battle'('quest_id','mode');
 CREATE INDEX 'dungeon_special_battle_0_quest_id' on 'dungeon_special_battle'('quest_id');
+CREATE UNIQUE INDEX 'dungeon_special_battle_0_quest_id_1_mode' on 'dungeon_special_battle'('quest_id','mode');
 COMMIT;
