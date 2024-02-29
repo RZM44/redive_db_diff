@@ -8,4 +8,5 @@ INSERT INTO room_item_get_announcement VALUES(4,2308,'2023/02/16 12:00:00','2030
 INSERT INTO room_item_get_announcement VALUES(5,2806,'2023/02/10 12:00:00','2030/12/31 23:59:59','','');
 INSERT INTO room_item_get_announcement VALUES(6,2808,'2021/2/28 12:00','2030/12/31 23:59','','');
 INSERT INTO room_item_get_announcement VALUES(8,2814,'2023/07/31 11:00:00','2030/12/31 23:59','2023/07/31 11:00:00','');
+INSERT INTO room_item_get_announcement VALUES(11,2818,'2024/02/29 11:00:00','2030/12/31 23:59','','');
 COMMIT;
