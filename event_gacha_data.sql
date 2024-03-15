@@ -88,6 +88,7 @@ INSERT INTO event_gacha_data VALUES(10085,10085,'Re:member　我的愿望所编�
 INSERT INTO event_gacha_data VALUES(10086,10086,'情相连。心相系。',2,60852,1,6);
 INSERT INTO event_gacha_data VALUES(10087,10087,'情相连。心相系。',2,60852,1,6);
 INSERT INTO event_gacha_data VALUES(10088,10088,'Sweet tiny stage！　新人女演员与小小淑女',2,60872,1,6);
+INSERT INTO event_gacha_data VALUES(10089,10089,'灰姑娘课程　璀璨的日子是苹果的滋味',2,60882,1,6);
 INSERT INTO event_gacha_data VALUES(19003,10003,'吸血鬼猎人with伊莉亚讨伐证交换',2,60022,1,5);
 CREATE INDEX 'event_gacha_data_0_event_id' on 'event_gacha_data'('event_id');
 COMMIT;

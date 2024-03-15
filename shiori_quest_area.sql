@@ -58,5 +58,7 @@ INSERT INTO shiori_quest_area VALUES(20024101,20024,'伊丽莎白牧场',201,'bg
 INSERT INTO shiori_quest_area VALUES(20024102,20024,'王都兰德索尔',201,'bgm_M351','bgm_M351',1,2,0,0,0,'0','0',0);
 INSERT INTO shiori_quest_area VALUES(20024103,20024,'伊丽莎白牧场',201,'bgm_M351','bgm_M351',1,3,0,0,0,'0','0',0);
 INSERT INTO shiori_quest_area VALUES(20024201,20024,'伊丽莎白牧场',201,'bgm_M351','bgm_M351',1,1,0,0,0,'0','0',0);
+INSERT INTO shiori_quest_area VALUES(20025101,20025,'不可思议之国',201,'bgm_M375','bgm_M375',1,0,200,0,0,'0','0',0);
+INSERT INTO shiori_quest_area VALUES(20025201,20025,'不可思议之国',201,'bgm_M375','bgm_M375',1,0,100,0,0,'0','0',0);
 CREATE INDEX 'shiori_quest_area_0_event_id' on 'shiori_quest_area'('event_id');
 COMMIT;

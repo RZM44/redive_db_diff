@@ -28,7 +28,7 @@ INSERT INTO event_story_data VALUES(5035,5,10062,'星光公主　Re:M@STER！',0
 INSERT INTO event_story_data VALUES(5036,5,10063,'星光公主　Re:M@STER！',0,1,'2022/02/25 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5038,5,20023,'恩赐的财团与神圣学院的问题儿童',0,1,'2022/03/26 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5040,5,20024,'牧场里的四农士　贫穷农场奋斗记！',0,1,'2022/04/24 15:00:00','2099/12/31 23:59:59');
-INSERT INTO event_story_data VALUES(5042,5,10069,'不可思议之国的璃乃　小小爱丽丝与希望的绘本',0,1,'2022/05/26 15:00:00','2099/12/31 23:59:59');
+INSERT INTO event_story_data VALUES(5042,5,20025,'不可思议之国的璃乃　小小爱丽丝与希望的绘本',0,1,'2022/05/26 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5044,5,10071,'七夕剑客旅情谭　天际川流夏之恋',0,1,'2022/06/24 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5046,5,10073,'美里的夏日应援！　追梦的盛夏棒球队',0,1,'2022/07/26 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5048,5,10075,'快乐变身 双生天使',0,1,'2022/08/25 15:00:00','2099/12/31 23:59:59');
@@ -52,5 +52,6 @@ INSERT INTO event_story_data VALUES(5082,5,10082,'新春美食回忆录　\n雪�
 INSERT INTO event_story_data VALUES(5084,5,10084,'Re:member　我的愿望所编织的未来',0,1,'2024/01/26 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5085,5,10085,'Re:member　我的愿望所编织的未来',0,1,'2024/01/26 15:00:00','2099/12/31 23:59:59');
 INSERT INTO event_story_data VALUES(5088,5,10088,'Sweet tiny stage！　\n新人女演员与小小淑女',0,1,'2024/2/26 15:00:00','2099/12/31 23:59:59');
+INSERT INTO event_story_data VALUES(5090,5,10090,'交出宝物！　神出鬼没的怪盗',0,1,'2024/3/24 15:00:00','2099/12/31 23:59:59');
 CREATE INDEX 'event_story_data_0_value' on 'event_story_data'('value');
 COMMIT;

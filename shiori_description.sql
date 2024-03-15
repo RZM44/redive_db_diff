@@ -16,5 +16,6 @@ INSERT INTO shiori_description VALUES(20018,12,'完成任务后，会有可解�
 INSERT INTO shiori_description VALUES(20020,13,'完成任务后，会有可解锁的角色登场。\n努力完成任务吧。');
 INSERT INTO shiori_description VALUES(20021,14,'完成任务后，会有可解锁的角色登场。\n努力完成任务吧。');
 INSERT INTO shiori_description VALUES(20022,15,'完成任务后，会有可解锁的角色登场。\n努力完成任务吧。');
+INSERT INTO shiori_description VALUES(20025,16,'完成任务后，会有可解锁的角色登场。\n努力完成任务吧。');
 CREATE INDEX 'shiori_description_0_type' on 'shiori_description'('type');
 COMMIT;
